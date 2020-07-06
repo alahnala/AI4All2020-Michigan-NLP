@@ -13,7 +13,11 @@ Go to `1-Intro-to-NLP.ipynb` to do the introductory project.
 
 ## Topic Modeling
 
-TODO
+### Instructions
+
+1. The file for this notebook is 2-Topic-Modeling.ipynb. The notebook will guide you through each step of the project. 
+2. Throughout the project, you will record your experiments and observations. We have created a slide deck template for you that you can download and edit in Google Slides or Microsoft Power Point. The template is at [Experiment-Report-Templates/2-Topic-Modeling-Template.pptx]().
+3. We are happy to help you get through *any* part of this project. Ask away :) 
 
 ## Language Identification
 
