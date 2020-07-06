@@ -1,13 +1,26 @@
 # AI4All2020-Michigan-NLP
 
-1. Basics of NLP(#intro-to-nlp)
-2. Topic Modeling
-Language Detection
-Text Classification
-Information Retrieval
-Word embeddings??
-Pun Generation
+1. [Natural Language Processing Basics](#nlp-basics)
+2. Topic Modeling(#topic-modeling)
+3. Language Identification(#language-identification)
+4. Text Classification(#text-classification)
+5. Information Retrieval(#information-retrieval)
+6. Pun Generation(#pun-generation)
 
-## [Introduction to NLP](#intro-to-nlp)
-## 1-Intro-to-NLP.ipynb
+## NLP Basics
+
+Go to `1-Intro-to-NLP.ipynb` to do the introductory project.
+
+## Topic Modeling
+
+## Language Identification
+
+## Text Classification
+
+## Information Retrieval
+
+## Pun Generation
+
+
+
 
