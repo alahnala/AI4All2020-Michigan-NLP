@@ -1,0 +1,263 @@
+Las ciencias de la computación o ciencias de la informática son las ciencias formales que abarcan las bases teóricas de la información y la computación, así como su aplicación en sistemas computacionales.
+[1]​[2]​[3]​ El cuerpo de conocimiento de las ciencias de la computación es frecuentemente descrito como el estudio sistemático de los procesos algorítmicos que describen y transforman información: su teoría, análisis, diseño, eficiencia, implementación, algoritmos sistematizados y aplicación.
+[4]​ En términos más específicos se trata del estudio sistemático de la factibilidad, estructura, expresión y mecanización de procedimientos metódicos (o algoritmos) que subyacen en la adquisición, representación, procesamiento, almacenamiento, comunicación y acceso a la información.
+La información puede estar codificada en forma de bits en una memoria de computadora, o en algún otro objeto, como los genes y proteínas en una célula biológica.
+[5]​ Existen diversas ramas o disciplinas dentro de las ciencias de la computación; algunos resaltan los resultados específicos del cómputo (como los gráficos por computadora), mientras que otros (como la teoría de la complejidad computacional) se relacionan con propiedades de los algoritmos usados al realizar cómputo; y otros se enfocan en los problemas que requieren la implementación de sistemas computacionales.
+Por ejemplo, los estudios de la teoría de lenguajes de programación describen un cómputo, mientras que la programación de computadoras aplica lenguajes de programación específicos para desarrollar una solución a un problema computacional específico.
+Un computólogo se especializa en teoría de la computación y en el diseño e implementación de sistemas de computacionales.
+[6]​ Según Peter J. Denning, la cuestión fundamental en que se basa la ciencia de la computación es: «¿Qué puede ser (eficientemente) automatizado?».
+[7]​    Historia   La historia de la ciencia de la computación antecede a la invención del computador digital moderno.
+Antes de la década de 1920, el término computador se refería a un ser humano que realizaba cálculos.
+[8]​ Los primeros cimientos de lo que se convertiría en ciencias de la computación son anteriores a la invención de la computadora digital moderna.
+Se trataba de máquinas para el cálculo de las tareas numéricas fijas, como el ábaco han existido desde la antigüedad, ayudando en cálculos tales como la multiplicación y la división.
+Además, los algoritmos para realizar cálculos han existido desde la antigüedad, incluso antes de que se crearan equipos de computación sofisticados.
+Los antiguos sánscritos tratadistas Shulba Sutras, o "Reglas de la cuerda", es un libro de algoritmos escritos en 800 a. C. para la construcción de objetos geométricos como altares utilizando una clavija y cuerda, un precursor temprano del campo moderno de la geometría computacional.
+Blaise Pascal diseñó y construyó la primera calculadora mecánica de trabajo, la Pascalina, en 1642.
+[9]​ En 1673 Gottfried Leibniz creó una calculadora mecánica digital, llamada Stepped Reckoner.
+[10]​ Él puede ser considerado el primer computólogo y teórico de la información, entre otras razones, porque fue el primero en documentar el sistema numérico binario.
+En 1820, Charles Xavier Thomas de Colmar lanzó la calculadora mecánica industrial[11]​ cuando lanzó su simplificado aritmómetro, que fue la primera máquina de calcular lo suficientemente fuerte y lo suficientemente fiable para ser usada a diario en un entorno industrial.
+Charles Babbage inició el diseño de la primera calculadora automática mecánica, su máquina diferencial, en 1822, que finalmente le dio la idea de la primera calculadora mecánica programable, su máquina analítica.
+[12]​ Él comenzó a desarrollar esta máquina en 1834 y "en menos de dos años que había esbozado muchas de las características más destacadas del moderno equipo.
+Un paso fundamental fue la adopción de un sistema de tarjetas perforadas derivado del telar de Jacquard"[13]​ haciéndolo infinitamente programable.
+[14]​ En 1843, durante la traducción de un artículo francés sobre la máquina analítica, Ada Lovelace escribió, en una de las muchas notas que incluye el artículo, un algoritmo para calcular los números de Bernoulli, que es considerado como el primer programa de ordenador.
+[15]​ Alrededor de 1885, Herman Hollerith inventó la máquina tabuladora, que usaba tarjetas perforadas para procesar información estadística; finalmente, su compañía se convirtió en parte de IBM.
+En 1937, cien años después del sueño imposible de Babbage, Howard Aiken convencidos por IBM, que estaban manufacturando todo tipo de equipos de tarjetas perforadas y así como la calculadora de negocio [16]​ para desarrollar su calculadora programable gigante, el ASCC/Harvard Mark I, se basó en la  máquina analítica  de Babbage, que a su vez utiliza las tarjetas perforadas y una unidad central de cálculo.
+Cuando se terminó de construir la máquina, algunas personas lo aclamaron como «el sueño de Babbage hecho realidad».
+[17]​ Durante la década de 1940, conforme se desarrollaban las nuevas y más poderosas máquinas para computar, el término computador se comenzó a utilizar para referirse a las máquinas y ya no a sus antecesores humanos.
+[18]​ Cuando se hizo evidente que las computadoras no solamente podrían utilizarse para realizar cálculos matemáticos, el campo de las ciencias de la computación se amplió para estudiar cómputo en general.
+Las ciencias de la computación empezaron a establecerse como una disciplina académica distinta de las demás en la década de 1950 y principios de 1960.
+[7]​[19]​ Entonces surgió el primer programa de grado universitario mundo, el Cambridge Diploma in Computer Science, del Cambridge Computer Lab (Departamento de Ciencias de la Computación) de la Universidad de Cambridge, en 1953.
+El primer programa de grado universitario en ciencias de la computación en los Estados Unidos se formó en Universidad de Purdue en 1962.
+[20]​ Desde que se dispone ordenadores prácticos, muchas aplicaciones la de las ciencias de la computación convirtieron en diferentes áreas de estudio en sus propios términos.
+Aunque inicialmente muchos creyeron que era imposible que las computadoras en sí mismas podrían constituir en realidad un campo científico de estudio, a finales de los años cincuenta se fue volviendo gradualmente aceptada entre la población mayor académica.
+[21]​[22]​ Es la marca IBM que a 2015 es muy conocida la que formó parte de la revolución de las ciencias de la computación durante este tiempo.
+IBM (abreviación de International Business Machines) lanzó el IBM 704[23]​ y más tarde las computadoras de IBM 709[24]​ que fueron ampliamente utilizadas durante el período de exploración de este tipo de dispositivos.
+"Sin embargo, el trabajo con las IBM [computadoras] fue frustrante ... si hubieras perdido tanto como una letra en una instrucción, el programa chocaría, y usted tendría que empezar todo el proceso otra vez".
+[21]​ Durante a finales de 1950, la disciplinas de las ciencias de la computación estaban en sus etapas de desarrollo más primordiales, y tales cuestiones eran comunes.
+[22]​ La disciplina científica de las ciencias de la computación nace a principios de 1940 con la confluencia de la teoría de algoritmos, lógica matemática y la invención del programa almacenado en una computadora electrónica.
+[4]​ Ejemplos de esto son los trabajos de Alan Turing, Alonzo Church y Kurt Gödel en 1930 acerca de los algoritmos y su trabajo en sistemas de reglas (véase Cálculo Lambda, Máquina de Turing y Problemas Indecidibles), los algoritmos creados por Augusta Ada sesenta años antes, la computadora analógica construida por Vannevar Bush en 1920 y las computadoras eléctricas construidas por Howard Aiken y Konrad Zuse en 1930.
+Los escritos de John Von Neumann dieron una profundidad intelectual considerable a esta disciplina emergente a mediados de la década de 1940.
+En 1960, había suficientemente cuerpo de conocimiento que ameritaba la creación de departamentos académicos y programas de grado universitario para esta disciplina.
+[4]​ IBM es reconocida como la marca que formó parte de la revolución de las ciencias de la computación durante ese tiempo.
+IBM (abreviación de International Business Machines) lanzó la IBM 704[25]​ y más tarde la IBM 709[26]​ computadoras, que fueron ampliamente utilizadas durante el período de exploración de este tipo de dispositivos.
+"Sin embargo, el trabajo con la IBM [equipo] era frustrante ... si te equivocas en una letra de alguna instrucción, el programa se arruinaría, y se tendría que empezar todo el proceso otra vez".
+[21]​ Durante la década de 1950, la disciplina de las ciencias de la computación estaba en su etapa de desarrollo, y estos problemas eran algo común.
+El tiempo ha dado mejoras significativas en la capacidad de uso y la eficacia de la tecnología de la computación.
+La sociedad moderna ha presenciado un cambio significativo en los usuarios de la tecnología en cómputo, de ser utilizada únicamente por expertos, profesionales y científicos, a una base de usuarios que es casi omnipresente a la teoría con la cual se desarrolló y funciona este tipo de tecnología.
+Inicialmente, las computadoras eran bastante costosas, y era necesario un cierto grado de ayuda humana para el uso eficiente - en parte de operadores de computadoras profesionales.
+Como la adopción equipo se hizo más generalizado y asequible, se necesitaba menos asistencia humana en el uso común.
+Mayores logros   A pesar de su corto tiempo de ser una disciplina científica formal, las ciencias de la computación han hecho un gran número de contribuciones importantes a la ciencia y la sociedad –de hecho, junto con la electrónica, es una ciencia fundacional de la época actual de la historia humana llamada Era de la información y la Revolución de la Información, visto como el tercer gran salto en el progreso tecnológico humano después de la Revolución Industrial (1750-1850) y la revolución neolítica (8000-5000 a. C.).
+Estas contribuciones a la humanidad incluyen:  El comienzo de la "Revolución digital", la cual incluye la actual Era de la información y el Internet.
+[28]​ Una definición formal de computación y computabilidad, y una demostración formal de que existen problemas que son computacionalmente irresolubles e intratables.
+[29]​ El concepto de lenguaje de programación, una herramienta para la expresión precisa de información metodológica a varios niveles de abstracción.
+[30]​ En criptología, el criptoanálisis de Enigma fue un factor importante, el cual contribuyó a la victoria Aliada en la Segunda Guerra Mundial.
+[27]​ El Cómputo Científico permitió la evaluación de procesos y situaciones de gran complejidad, así como la experimentación mediante software.
+También permitió el avance en investigación de la mente humana y el mapeo del genoma humano junto el Proyecto Genoma Humano.
+[28]​ Proyectos de cómputo distribuido tales como Folding@home que estudiaron el plegamiento de proteínas.
+El trading algorítmico ha incrementado la eficiencia y la liquidez de los mercados financieros mediante técnicas de inteligencia artificial, aprendizaje automático, y otros métodos estadísticos y numéricos a gran escala.
+[31]​ Alta frecuencia de comercio algorítmico también puede exacerbar la volatilidad financiera.
+[32]​ Computación gráfica e imágenes generadas por computadora se volvieron omnipresentes en la era moderna del entretenimiento, sobre todo en televisión, cine, publicidad, animación y videojuegos.
+[cita requerida] Simulación de varios procesos, incluyendo dinámica de fluidos computacionales, sistemas físicos, eléctricos, electrónicos y de circuitos, así como las sociedades y las situaciones sociales (sobre todo juegos de guerra), junto con sus hábitats, entre muchos otros.
+Las computadoras modernas permiten la optimización de diseños tales como aviones completos.
+Se destaca el diseño de circuitos eléctricos y electrónicos con SPICE, así como software para la realización física de nuevos diseños.
+Este último incluye software de diseño esencial para circuito integrados.
+La Inteligencia artificial (IA) es cada vez más importante, ya que se vuelve más eficiente y compleja con el paso del tiempo.
+Existen muchas aplicaciones de la IA, algunas se pueden ver en el hogar, tales como aspiradores robóticos.
+También está presente en los videojuegos y en el campo de batalla moderno en aviones no tripulados, sistemas antimisiles, y robots de apoyo para escuadrones.
+Filosofía  Un gran número de científicos de la computación han argumentado a favor de la distinción de tres paradigmas diferentes en ciencias de la computación.
+Peter Wegner ha argumentado que esos paradigmas son la ciencia, la tecnología y las matemáticas.
+[33]​ El grupo de investigación de Peter Denning argumentó que son la abstracción (modelado), y diseño.
+Amnon H. Eden lo describe como el “paradigma racionalista” (el cual trata a las ciencias de la computación como una rama de las matemáticas, la cual prevalece en ciencias de la computación teórica y principalmente emplea el razonamiento deductivo), el paradigma tecnocrático (que podría ser encontrado en enfoques ingenieriles, más prominente en la ingeniería de software) y el paradigma científico (que se enfoca a objetos relacionados con la computación desde la perspectiva empírica de las ciencias naturales identificable en algunas ramas de la inteligencia artificial).
+Nombre del campo  A pesar de su primera proposición en 1956,[22]​ el término “ciencias de la computación” aparece en 1959 en un artículo de la revista Communications of the ACM (prestigiada publicación científica destinada a lectores con experiencia en todos los ámbitos de la computación y los sistemas de información),[34]​ en el cual Louis Fein discute sobre la creación de una Escuela de Estudios de Posgrado en Ciencias Computacionales análoga a la creación de Harvard Business School en 1921,[35]​ justificando el nombre con el argumento de que: Como la ciencia administrativa, el tema o área de conocimiento puede ser aplicado, es de carácter interdisciplinario y que cuenta con las características típicas de una disciplina académica.
+[36]​ Sus esfuerzos y los de otros, como el analista numérico George Forsythe, fueron recompensados: universidades pasaron a crear este tipo de programas de estudio, a partir de 1962 en Purdue.
+[37]​ A pesar del nombre de esta disciplina académica, una cantidad significativa de tópicos en ciencias de la computación no involucran el estudio de las computadoras, por esta razón muchos nombres alternativos han sido propuestos.
+[38]​ Algunos departamentos de universidades prefieren el término “ciencias de la computación” para hacer énfasis en esta diferencia.
+El científico danés Peter Naur sugirió el término datología,[39]​ para reflejar el hecho de que esta disciplina científica gira en torno a los datos y a al tratamiento de estos, mientras que no necesariamente involucra a las computadoras.
+La primera institución científica en usar el término fue el Departamento de Datología de la Universidad de Copenhague, fundado en 1969, con Peter Naur como profesor de datología.
+El término es usado en países escandinavos.
+En los primeros años de la computación, un número de terminus para los practicantes del campo de la computación fueron propuestos en la revista Communications of the ACM – turingeniero, turologo, hombre de los diagramas de flujo, matemático meta-aplicado, y epistemologo aplicado.
+[40]​ Tres meses después en esa misma publicación científica, el término computólogo fue sugerido.
+El siguiente año en la misma publicación surgió el término hypologo.
+[41]​ El término computica también ha sido sugerido.
+[42]​ En Europa, términos derivados de traducciones de la expresión "automatic information" (e.g.
+"informazione automatica" en Italiano) or "información y matemáticas" son frecuentemente usados, e.g.
+informatique (francés), Informatik (alemán), Informática (Italia, Países Bajos), Informática (España y Portugal), informatika (lenguas eslavas) o pliroforiki (πληροφορική, que significa informática) en Griego.
+Palabras similares han sido adoptadas en algunos lugares del Reino Unido, por ejemplo en la Universidad de Edimburgo.
+[43]​ Pero estas no reflejan el aspecto de la computabilidad, por esta razón en un contexto de investigación científica tanto académica como industrial el término ciencias de la computación es mayormente usado en publicaciones y conferencias científicas.
+Campos de las ciencias de la computación  Como disciplina científica, las ciencias de la computación abarcan una gama de temas, desde los estudios teóricos de los algoritmos y los límites de la computación a los problemas prácticos de la implementación de sistemas computacionales en hardware y software.
+[44]​[45]​ Computing Sciences Acreditation Board o la Junta de Acreditación en Ciencias de la Computación.
+–Compuesta por representantes de la Association for Computing Machinery (ACM), y la Sociedad de Computación IEEE (IEEE-CS) [46]​– identifica cuatro áreas que considera cruciales para la disciplina de ciencias de la computación: teoría de la computación, algoritmos y estructuras de datos, metodología y lenguajes de programación, arquitectura de computadoras.
+Además de estas cuatro áreas, C.S.A.B.
+también identifica ámbitos como la ingeniería de software, inteligencia artificial, redes de computadoras y de telecomunicaciones, sistemas de bases de datos, computación paralela, computación distribuida, la interacción persona-computador, gráficos por ordenador, sistemas operativos, cálculo numérico y simbólico siendo importantes áreas de las ciencias de la computación.
+[44]​    Ciencias de la computación teóricas  El campo más amplio de la ciencia de la computación teórica abarca tanto la teoría clásica de la computación y una amplia gama de otros temas que se centran en los aspectos más abstractos, lógicos y matemáticos de la computación.
+Teoría de la computación   De acuerdo a Peter J. Denning, la pregunta fundamental en ciencias de la computación es, «¿Qué puede ser eficientemente automatizado?»[7]​ El estudio de la teoría de la computación está enfocado en responder preguntas fundamentales acerca de qué puede ser computado y qué cantidad de recursos son requeridos para ejecutar tales cómputos.
+En un esfuerzo por resolver esta pregunta, la teoría de la computabilidad examina qué problemas computacionales se pueden resolver en varios modelos teóricos de cómputo.
+La segunda pregunta está dirigida por la teoría de la complejidad computacional, que estudia los costos de tiempo y espacio asociados a diferentes enfoques para resolver una multitud de problemas computacionales.
+El famoso problema "¿PNP?"
+es uno de los Problemas del milenio,[47]​ es un problema abierto en ciencias de la computación.
+Teoría de la información y códigos   La teoría de la información está relacionada con la cuantificación de la información.
+Fue desarrollada por Claude E. Shannon para desarrollar los límites fundamentales del procesamiento de señales así como sus operaciones, tales como compresión y almacenamiento de datos así como la comunicación de los datos de manera fiable.
+[48]​ La teoría de códigos es un área de las matemáticas que busca resolver el problema de detectar y corregir errores al momento de transmitir información.
+[49]​ Los códigos son usados para comprimir datos, criptografía y más recientemente para la codificación de redes.
+Los códigos son estudiados para el propósito de diseñar métodos eficientes y seguros para la transmisión de datos.
+Algoritmos y estructuras de datos   Los algoritmos y las estructuras de datos son el estudio de métodos computacionales comúnmente usados así como su eficiencia computacional.
+Teoría de lenguajes de programación   La teoría del lenguaje de programación es una rama de las ciencias de la computación que se ocupa del diseño, implementación, análisis, caracterización y clasificación de los lenguaje de programación y sus características individuales, cae dentro de la disciplina de las ciencias de la computación, tanto en dependencia de las matemáticas y la lingüística.
+Es un área de investigación activa, con numerosas revistas académicas y conferencias especializadas en el tema.
+Métodos formales   Los métodos formales son un tipo particular de la técnica basada en las matemáticas para la especificación formal, desarrollo y verificación formal de los sistemas de software y hardware.
+El uso de métodos formales para el diseño de software y hardware está motivado por la expectativa de que, la realización de un análisis matemático adecuado puede contribuir a la fiabilidad y robustez de un diseño.
+Estos forman una importante base teórica para la ingeniería de software, especialmente cuando está involucrado la seguridad o robustez.
+Los métodos formales son un complemento útil para las pruebas de software, ya que ayudan a evitar errores y también pueden dar un marco para hacer pruebas.
+Para su uso industrial, se requiere el apoyo de herramientas.
+Sin embargo, el alto costo de la utilización de métodos formales significa que por lo general solo se utilizan en el desarrollo de sistemas críticos de alta integridad donde la vida o la seguridad es de muy alta importancia.
+Los métodos formales se describen mejor como la aplicación de una bastante amplia variedad de teóricos fundamentales de la informática, en particular, los cálculos lógica, los lenguajes formales, la teoría de autómatas, y la semántica de los programas, sino también de tipo de sistemas y tipos de datos algebraicos a los problemas en el software y hardware de especificación y verificación.
+Los métodos formales se describen mejor como la aplicación de una amplia variedad de fundamentos teóricos de las ciencias de la computación, en particular la lógica computacional, lenguajes formales, teoría de autómatas y Semántica de lenguajes de programación pero también áreas como sistemas de tipos y tipos de datos algebraicos a problemas en la especificación y verificación de software y hardware.
+Ciencias de la computación aplicadas  Las ciencias de la computación aplicadas tratan de identificar ciertos aspectos conceptuales y teóricos de las ciencias de la computación que pueden ser aplicados directamente para resolver problemas del mundo real.
+Inteligencia artificial   Esta rama de las ciencias de la computación pretende o es requerida para la síntesis de procesos meta-orientados tales como la resolución de problemas, toma de decisiones, la adaptación del medio ambiente, el aprendizaje y la comunicación que se encuentran en los seres humanos y los animales.
+Desde sus orígenes en la cibernética y en la Conferencia de Dartmouth (1956), la investigación en inteligencia artificial (IA) ha sido necesariamente multidisciplinaria, aprovechando áreas de especialización, tales como las matemáticas, la lógica simbólica, la semiótica, la ingeniería eléctrica, la filosofía de la mente, la neurofisiología, y la inteligencia social.
+La IA erróneamente es asociada en la mente popular con el desarrollo robótico, pero el principal campo de aplicación práctica ha sido como un componente integrado en las áreas de desarrollo de software que requieren la comprensión y modelación computacional, tales como las finanzas y la economía, la minería de datos y las ciencias físicas.
+El término fue acuñado por el científico de la computación y matemático John McCarthy en 1955.
+Arquitectura de computadoras   La arquitectura de computadores u organización de computadoras digitales es el diseño conceptual y la estructura operacional fundamental de un sistema cómputo.
+Se centra en gran medida de la manera en que la unidad central de procesamiento realiza internamente y accede a las direcciones en la memoria.
+[50]​ El campo involucra disciplinas de la ingeniería en computación y la ingeniería eléctrica, la selección y la interconexión de los componentes de hardware para crear los equipos que cumplen funciones, de rendimiento, y costes.
+Análisis de rendimiento de computadoras  Análisis de rendimiento del equipo es el estudio del trabajo que fluye a través de los equipos con el objetivo general de mejora de rendimiento y control de tiempo de respuesta, utilizando los recursos de manera eficiente, la eliminación de los cuellos de botella, y la predicción de rendimiento bajo cargas máximas previstas.
+[51]​    Cómputo científico  La ciencia computacional (o computación científica) es el campo de estudio que trata con la construcción de modelos matemáticos y técnicas de análisis cuantitativos, así como el uso de computadoras para analizar y resolver problemas científicos.
+En el uso práctico, es típicamente la aplicación de simulación por ordenador y otras formas de cálculo a los problemas en diversas disciplinas científicas.
+Redes de computadoras   Esta rama de las ciencias de la computación tiene como objetivo gestionar la conectividad entre redes (LAN / WAN) de computadoras a nivel mundial.
+Sistemas concurrentes, paralelos y distribuidos   Concurrencia es una propiedad de los sistemas en los que varios cálculos están ejecutando de forma simultánea, y, potencialmente, que interactúan entre sí.
+Un número de modelos matemáticos han sido desarrollados para el cálculo concurrente general, incluyendo las redes de Petri, cálculos de proceso y del modelo de máquina de acceso aleatorio en paralelo.
+Un sistema distribuido se extiende la idea de la simultaneidad en varios ordenadores conectados a través de una red.
+Computadoras dentro del mismo sistema distribuido tienen su propia memoria privada, y la información es a menudo intercambian entre sí para lograr un objetivo común.
+Bases de datos   Una base de datos tiene la intención de organizar, almacenar y recuperar grandes cantidades de datos de forma sencilla.
+Bases de datos digitales se gestionan mediante sistemas de gestión de base de datos para almacenar, crear, mantener y consultar los datos, a través de modelos de bases de datos y lenguajes de consulta.
+Una base de datos es un conjunto de datos interrelacionados entre ellos mismos.
+Informática en salud     Ciencia de la información  El campo estudia la estructura, algoritmos, comportamiento e interacciones de los sistemas naturales y artificiales que guardan, procesan, acceden a y comunican información.
+También desarrolla sus propios fundamentos conceptuales y teóricos y emplea fundamentos desarrollados en otros campos.
+Una aplicación moderna es el Big Data, que consiste en el procesamiento de un conjunto de datos (provenientes de fuentes como por ejemplo: transacciones comerciales, formularios web, imágenes, videos, correos electrónicos, redes sociales, entre otros), los cuales son sometidos a herramientas informáticas de análisis que permiten extraer información valiosa para predecir comportamientos futuros y formular estrategias de toma decisiones.
+[54]​    Ingeniería de software   Ingeniería de software es el estudio del diseño, implementación y modificación del software con la finalidad de asegurarse de que es de alta calidad, asequible, fácil de mantener, y rápido de construir.
+Es un enfoque sistemático para el diseño de software, que implica la aplicación de prácticas de ingeniería de software.
+Los ingenieros de software comercian con la organización y análisis de software — no solo lidian con la creación o fabricación de un nuevo software, sino también con su mantenimiento y disposición interna.
+Se prevé que estén entre las ocupaciones de más rápido crecimiento entre 2008 y 2018.
+Debido a la novedad de este subcampo, la educación formal en Ingeniería de software generalmente es parte de los planes de estudio de ciencias de la computación, la gran mayoría de ingenieros de software tienen un grado académico en ciencias de la computación sin tener relación con la ingeniería.
+[55]​    Relación con otros campos  Por ser una disciplina reciente, existen varias definiciones alternativas para la ciencia de la computación.
+Esta puede ser vista como una forma de ciencia, matemáticas o una nueva disciplina que no puede ser categorizada siguiendo los modelos actuales.
+Las ciencias de la computación frecuentemente se cruzan con otras áreas de investigación, tales como la física y la lingüística.
+Pero es con las matemáticas con las que se considera que tiene un grado mayor de relación.
+Eso es evidenciado por el hecho de que los primeros trabajos en el área fueran fuertemente influenciados por matemáticos como Kurt Gödel y Alan Turing.
+En la actualidad sigue habiendo un intercambio de ideas útil entre ambos campos en áreas como la lógica matemática, la teoría de categorías, la teoría de dominios, el álgebra y la geometría.
+Otro punto a destacar es que, a pesar de su nombre, las ciencias de la computación raramente involucran el estudio mismo de las máquinas conocidas como computadoras.
+De hecho, el renombrado científico Edsger Dijkstra es muy citado por la frase «Las ciencias de la computación están tan poco relacionadas con las computadoras como la astronomía con los telescopios».
+La investigación en ciencias de la computación también suele relacionarse con otras disciplinas, como la ciencia cognitiva, la física (véase computación cuántica), la lingüística, etc.
+La relación entre las ciencias de la computación y la ingeniería de software es un tema muy discutido, por disputas sobre lo que realmente significa el término "ingeniería de software" y sobre cómo se define a las ciencias de la computación.
+Algunas personas creen que la ingeniería de software sería un subconjunto de las ciencias de la computación.
+Otras, tomando en cuenta la relación entre otras disciplinas científicas y de la ingeniería, creen que el principal objetivo de las ciencias de la computación sería estudiar las propiedades del cómputo en general, mientras que el objetivo de la ingeniería de software sería diseñar cómputos específicos para lograr objetivos prácticos, con lo que se convertiría en disciplinas diferentes.
+Este punto de vista es el que sostiene, por ejemplo, Parnas (1998).
+Incluso hay otros que sostienen que no podría existir una ingeniería de software.
+Los aspectos académicos, políticos y de financiamiento en las áreas de ciencias de la computación tienden a verse influidos drásticamente por el criterio del departamento encargado de la investigación y la educación en cada universidad, que puede estar orientado a las matemática o a la ingeniería.
+Los departamentos de ciencias de la computación orientados a las matemáticas teóricas suelen alinearse del lado de la computación científica y las aplicaciones de cálculo numérico.
+El término "computación científica", que no debe confundirse con ciencia de la computación, designa a todas aquellas prácticas destinadas a modelar, plantear experimentos y validar teorías científicas sirviéndose de medios computacionales.
+En estos casos la computación es una mera herramienta y el esfuerzo se dirige a avanzar en los campos objetivo (física, biología, mecánica de fluidos, radiotransmisión...), más que en la propia ciencia de la computación.
+Finalmente, el público en general algunas veces confunde la ciencia de la computación con áreas vocacionales que trabajan con computadoras o piensan que trata acerca de su propia experiencia con las computadoras, lo cual suele incluir actividades como los juegos, la navegación web y el procesamiento de texto.
+Sin embargo, el punto central de la ciencia de la computación va más allá de entender las propiedades de los programas que se emplean para implementar aplicaciones de software como juegos y navegadores web, y utiliza ese entendimiento para crear nuevos programas o mejorar los existentes.
+[56]​    Véase también     Referencias     Bibliografía  Abelson, H. y Sussman, G.J.
+con Sussman, J. (1996).
+Structure and Interpretation of Computer Programs, 2nd Ed.
+EUA: MIT Press.
+ISBN 0-262-01153-0.
+Constable, R. L. (1997).
+"Nature of the Information Sciences".
+Constable, R. L. (2000, marzo).
+"Computer Science: Achievements and Challenges circa 2000".
+Parnas, D. L. (1998).
+"Software engineering programmes are not computer science programmes".
+Annals of Software Engineering 6: 19–37.
+doi:10.1023/A:1018949113292.
+Enlaces externos   Wikiversidad alberga proyectos de aprendizaje sobre Ciencias de la computación.
+Ciencias de la computación en Open Directory Project.
+Scholarly Societies in Computer Science Best Papers Awards in Computer Science since 1996 Photographs of computer scientists by Bertrand MeyerFuentes bibliográficas y motores de búsqueda académicos enfocados a ciencias de la computaciónCiteSeerx (artículo): motor de búsqueda, biblioteca digital y repositorio de artículos científicos y académicos enfocados a las ciencias de la computación y de la información.
+DBLP Computer Science Bibliography (artículo): bibliografía sobre ciencias de la computación alojada en Universität Trier, en Alemania.
+Comunicaciones de la ACM Colección de Ciencias de la Computación Bibliografías (artículo)Organizaciones ProfesionalesAssociation for Computing Machinery IEEE Computer Society Informatics Europe Computer Science - Stack Exchange comunidad de preguntas y respuestas sobre ciencias de la computación] ¿Qué son las ciencias de la computación?
+Un pastel es, según la definición del Diccionario de la lengua española de la Real Academia Española, una «masa de harina y manteca, cocida al horno, en que ordinariamente se envuelve crema o dulce, y fruta ».
+Esta descripción coincide con la que aparece en algún viejo libro de cocina española, como el de Domingo Hernández de Maceras, de 1607,[1]​[nota 1]​ en el que el nombre de pastel se aplica solamente a aquel que tiene la masa de hojaldre, con relleno salado o dulce; si es de otro modo (generalmente con masa semejante a la del pan y relleno salado), se llama empanada, y en algún caso, «empanada a la inglesa».
+Según el tamaño, se distinguía entre el pastelillo (pequeño), el pastel (individual) y el pastelón (para varias personas); todavía se utilizan estas denominaciones en pastelerías españolas tradicionales.
+Los locales o industrias que preparaban pasteles se llamaron Pastelerías de pasteles, por lo que otras preparaciones hechas en esos locales tomaron también el nombre de pastel, de modo que modernamente, el nombre de 'pastel' (del francés antiguo pastel[2]​) se ha extendido a otros tipos de elaboración y, es de uso común entender que son un tipo de dulces elaborados a base de masa.
+Geosinónimos y localismo del uso de las palabras pastel, torta y tarta   Tarta es el nombre dado en España al dulce de cierto tamaño, sea de bizcocho o, erróneamente, de hojaldre.
+Por el contrario, en casi todos los países hispanoamericanos se le conoce como «torta», a excepción de México y El Salvador, donde torta es un sándwich de tipo salado.
+En Hispanoamérica, también se le llama torta o tarta a un tipo de alimento de hojaldre o masa quebrada, el pie (o pay) del mundo anglosajón, que envuelve algo no necesariamente dulce (tarta de crema dulce, de fruta, de pescado, o de carne), que es precisamente lo que tradicionalmente era un pastel.
+En cambio, a la preparación de bizcocho (siempre de dulce) se le llama en la mayoría de países hispanohablantes (salvo España) usando una palabra derivada del préstamo del inglés «cake», como «queque», «quey», «keke», etc.
+En España se emplea el término 'pastel' de forma general para referirse a las preparaciones que se confeccionan en las pastelerías, que deberían llamarse tartas y en muchos casos postres, y de forma más concreta para referirse a dulces de tamaño reducido (podría decirse de tamaño individual) que se toman de postre o en celebraciones.
+En Chile un pastel es un plato elaborado sobre una cama de pino (localismo para referirse a un guiso de carne picada o molida) en cuya parte superior se añade una capa de masa de maíz tierno (pastelera de choclo) o puré de papa, así se tiene el pastel de choclo o de papas.
+Por su parte, el término torta se refiere al dulce grande elaborado a base de bizcocho que se rellena y se decora (cuando es un bizcocho simple se hace llamar queque).
+En Colombia, se le llama «ponqué, pastel o torta» (una transliteración del término inglés pound cake); en Ecuador prevalece el nombre de pastel y a los helados rellenos se les conoce como tortas y en Panamá se le conoce simplemente como «dulce».
+En Venezuela, un pastel por lo general suele ser salado (por ejemplo, de chucho, de atún, de cazón, etc.), mientras que la torta siempre es dulce (aunque hay excepciones como en la isla de Margarita donde se le llama torta de cazón al pastel elaborado con este tipo de pescado o al casabe cuyas porciones se les llaman torta de casabe).
+Véase también  Pastelería española Pasteles Pastel de carne Repostería    Notas y referencias  Notas Referencias    Enlaces externos   Wikcionario  tiene definiciones y otra información sobre pastel.
+Wikimedia Commons alberga una galería multimedia sobre Pastel.
+El francés antiguo o francés medieval comprende un conjunto de variedades romances del grupo de oíl habladas aproximadamente en la mitad norte del territorio francés actual y por la nobleza normanda, desde el siglo IX hasta el XIV.
+Orígenes y descendencia  Proviene del romance, forma de latín vulgar presente en todo el mundo latino.
+Es seguido históricamente por el francés medio.
+Estas distinciones temporales de la edad de la lengua han sido, sin embargo, definidas de forma relativamente arbitraria y reciente por los lingüistas.
+Desde el punto de vista de los locutores, la evolución fue escasa debido a que el latín ha evolucionado al francés de forma continua y progresiva sin que se perciba un corte entre diferentes estados de la evolución aunque la alteración en la pronunciación pudiera ser el hecho de la aportación de los no romanos, en este caso celtas y germanos.
+El francés antiguo es el ancestro del francés hablado hoy en día.
+La aparición de una lengua única en el territorio francés es sin embargo muy tardía y es la unión de varias lenguas de oïl antiguas lo que constituye la lengua actual.
+Por ejemplo, se estima que en la víspera de la Revolución Francesa, las tres cuartas partes de la población francesa hablaban una lengua distinta del francés.
+Importancia del francés en la historia lingüística  Lengua de cultura y de literatura, está bien testimoniado y se puede constituir su historia con una gran precisión (tanto léxica, morfológica, fonética y sintácticamente).
+Las evoluciones fonéticas que han conducido de esta lengua a su variedad moderna son conocidas con suficiente detalle por una cadena fonética del latín al francés prevista siglo por siglo.
+El estudio del francés y de su historia no pueden obviar el francés antiguo.
+Del resto, esta asignatura, así como su aspecto fonético histórico, es obligatoria para los CAPES de letras modernos, agregada a las letras clásicas y a la gramática, concurso que se pasa en Francia para enseñar la lengua y la literatura francesas.
+Variaciones dialectales y lengua literaria  El francés antiguo es "una rama" del latín, lengua de la que nacen muchas otras, por ejemplo el italiano moderno o el español moderno.
+Por ello, existen numerosas palabras parecidas: por ejemplo, el verbo amar es amare tanto en latín como en italiano y aimer en francés actual.
+La variación de la ortografía según las regiones hace que si dos textos de diferentes regiones son comparados, por ejemplo del extremo oeste y del extremo este de Francia, existiría una gran diferencia de ortografía así como de pronunciación.
+A lo largo del tiempo, el francés antiguo se ha desarrollado hasta convertirse en el francés moderno.
+Como no había una lengua literaria definida, se escribía tal y como sonaba.
+Evolución y estados de la lengua  Respecto a las mutaciones de la lengua anteriores a la época del francés antiguo, véase el artículo sobre las lenguas románicas.
+Fonología  Se ha utilizado aquí para describir las características fonológicas de los nombres el sistema de Bourciez, o alfabeto de los romanistas, a menudo utilizado en las descripciones fonológicas de la evolución del francés.
+Consúltese Sistema de Bourciez para una descripción de este sistema y una tabla de correspondencias con el AFI.
+Sistema vocálico  El latín clásico utilizaba diez fonemas vocálicos diferentes, distribuidos en cinco vocales breves (escritas ă, ĕ, ĭ, ŏ, ŭ, representando /a, ɛ, ɪ, ɔ, ʊ/) y sus cinco equivalentes largas (ā, ē, ī, ō, ū, representando /aː, eː, iː, oː, uː/).
+En efecto, en latín, la longitud del sonido es fonológica, es decir, pertinente: dos palabras pueden tener como sola diferencia la longitud de una de sus vocales (venit [ˈwɛnɪt] ‘viene’ es diferente de vēnit [ˈweːnɪt] ‘vino’).
+Uno de los mayores cambios en la evolución del latín al francés es la desaparición progresiva de las oposiciones de longitud en favor de las distinciones de timbre.
+La oposición de timbre entre dos vocales se convierte en el criterio de diferenciación.
+Este cambio vocálico tuvo lugar entre los siglos II y IV.
+La mayor parte de la evolución es común en muchas lenguas romances.
+El cambio vocálico se presenta como sigue:  ē [eː] pasa a ẹ [e] en el siglo II ĕ [ɛ] continúa como ę [ɛ] cuando está tónica (acentuada), si no (siendo átona) se convierte en ẹ [e] en el siglo II ĭ [ɪ] pasa a ẹ [e] en el siglo III ī [iː] se mantiene como i [i], sin distinción de longitud ă [a] y ā [aː] pierden su oposición de longitud, de forma que, desde un punto de vista fonológico, el latín en este punto de la evolución tan sólo posee una a [a] ō [oː] pasa a ọ [o] en el siglo II ŏ [ɔ] continúa como ǫ [ɔ] cuando está tónica, si no pasa a ọ [o] siglo II ū [uː] pierde su característica de longitud, se mantiene como u [u] ŭ [ʊ] pasa a ọ [o] en el siglo IVLos tres diptongos latinos presentes en el latín alrededor del siglo I a.C., ae [aɛ̯], au [aʊ̯] y oe [ɔɪ̯], evolucionaron respectivamente a ę [ɛ] (este muy tempranamente en el siglo I), ǫ [ɔ] y ẹ [e] (posteriormente).
+Teniendo en mente este sistema de vocales, /i e ɛ a ɔ o u/ sin diptongos decrecientes, los sonidos /ɛ, a, ɔ, o/ pretónicos o tónicos se volvieron en los términos más generales [jɛ], [ɛ], [wɛ] y [ew ~ øw] respectivamente en sílabas abiertas, y [ɛ], [a], [ɔ] y [o] > [u] en sílabas cerradas.
+La /u/ por su parte se movió hacia el frente, a [y].
+Las vocales se nasalizaron antes de una /m/, /n/ o /ɲ/, lo que bloqueó también varios de estos cambios, aunque por otra parte es importante notar que /ɔ/ y /o/ al nasalizarse se llegaron a pronunciar de forma idéntica, quizá [õ] o [ũ].
+Por otra parte, el francés también pasó por una serie de cambios en las vocales postónicas (después de la sílaba tónica), primero reduciéndolas todas a [ə], luego perdiendo esta [ə] a menos que fuera seguida de ciertos grupos de dos consonantes, y finalmente reduciendo la /a/ postónica a [ə] también.
+Ejemplos de esta extrema reducción de vocales serían el latín cattum ‘gato’ pasando por *[katːo] y terminando en chat [tʃat], ūnus ‘uno’ > *[unos] > *[ynəs] > uns [ỹns], comitem ‘compañero’ > *[kɔmte] > conte [kõntə] ~ [kũntə] ‘conde’, cattam ‘gata’ > *[katːa] > chate [tʃatə].
+Esta reducción y subsecuente pérdida de la mayoría del material fonológico después de la vocal tónica en el francés del medioevo, pérdida que luego se incrementaría todavía más en siglos posteriores, terminó por darle al francés moderno su característica acentuación en que todas las palabras tienen la sílaba tónica al final.
+Con todas estas generalidades, más detalles no presentados aquí por brevedad (como por ejemplo la influencia de las consonantes palatales o la vocalización de la /l/), terminamos con el siguiente sistema vocálico:    Sistema consonántico  Notas:  Las africadas /ts/, /dz/, /tʃ/, /dʒ/ se convirtieron en fricativas  ([s], [z], [ʃ], [ʒ]) en francés medio.
+/ts/ se escribía como c, ç, -z, como en cent, chançon, priz ("cien, canción, precio").
+/dz/ se escribía como  -z-, como en doze "doce".
+/ʎ/, como en conseil, travaillier ("consejo, trabajar"), se convierte en /j/ en francés moderno.
+/ɲ/ no sólo aparece en el medio de la palabra, sino también al final como en poing "puño".
+Al final de palabra, /ɲ/ se perdió posteriormente, dejando una vocal nasalizada.
+/h/ se encontraba tan sólo en préstamos germánicos y más tarde se perdió.
+En las palabras de origen latino,  /h/ se perdó temprano, como en om, uem, del latín homō.
+Gramática     Flexión nominal  En el plano morfológico, el francés antiguo es aún una lengua flexiva (el francés moderno es mucho más analítico), pero presenta ya una reducción de las flexiones con respecto al latín.
+El sustantivo posee ya los dos géneros (masculino y femenino) y los dos números (singular y plural) del francés moderno, pero conserva igualmente una declinación de dos casos:  el caso recto (o sujeto), heredado del nominativo latino, marca las funciones sintáctica de sujeto, de aposición, de apelativo y de atributo del sujeto.
+el caso oblicuo (o régimen), procedente del acusativo latino, marca todas las otras funciones correspondientes al complemento.Algunos ejemplos (los nombre de tipo I y II eran los más numerosos):  Distinguiendo formalmente el sujeto y el complemento, la declinación bicasual permitía emplear sin ambigüedad los órdenes de palabras que serían imposibles más tarde: la beste fiert li cuens, si fiert li cuens la beste et li cuens fiert la beste significan sin equivocación alguna «el conde pega a la bestia», siendo li cuens marcado explícitamente como sujeto.
+El caso recto realiza aquí la función de sujeto, pero puede realizar la de aposición o la de oposición al sujeto.
+Incluso si esta declinación bicasual está viva en la literatura, on relève de temps à autre des « fautes » dans les textes.
+La descomposición del sistema es probablemente debida a la forma fonética de las desinencias que se prestan a la confusión (la -s indicaba el caso recto singular y el caso oblicuo plural), a su carácter incompleto (desde el francés antiguo, los femeninos en -e provenientes de la primera declinación latina, oponen simplemente singular y plural) ainsi qu'à l'amuïssement progressif des consonnes finales en français (le -s final ne se prononce aujourd'hui plus).
+Sin embargo, esta descomposición no fue uniforme: en un largo movimiento de oeste a este, este sistema fue abolido primero en los dialectos del Oeste, luego en el centro con la región parisina para mantenerse vivo en los dialectos del este hasta el siglo XV.
+El léxico francés actual heredado del francés antiguo proviene generalmente del caso oblicuo, el más frecuente en el discurso.
+Sin embargo, en algunos casos, es el caso recto el que se ha conservado (se trata sobre todo de nombres de personas, debido a su uso frecuente en caso recto como apelativos): tal es el caso de fils, sœur, prêtre, ancêtre, y de numerosos pronombres.
+Las dos formas han sobrevivido a la vez dando lugar a dobletes, a veces diferenciados semánticamente como en gars / garçon, copain / compagnon, sire / sieur, pâtre / pasteur, nonne / nonnain, pute / putain.
+Artículo     Artículo definido     Artículo indefinido  El artículo indefinido era menos utilizado que en el francés moderno y se omitía con frecuencia.
+Sintaxis  El artículo definido se aplica siempre a un nombre ya conocido y se utilizaba también donde el francés moderno utilizaría un demostrativo.
+Referencias     Bibliografía   Anglade, Joseph.
+Grammaire elementaire de l'ancien français (en francés) (5ª edición).
+Librairie Armand Colin.
+Eugene Buckley: "Phonetics and phonology in gallo-romance palatalisation", in Transactions of the Philological Society,  Volume 107:1 (2009) pp.
+31–65.
+Guiraud, Pierre.
+L'ancien français (en francés) (5ª edición).
+Holzbacher, Ana María (1989).
+Manual de iniciación al francés antiguo (en francés).
+Ediciones de la Universidad Autónoma de Madrid.
+ISBN 84-7477-310-5.
+Raynaud de Lage, Guy.
+Introduction à l'ancien français (en francés) (9ª edición).
+Revol, Thierry (2005).
+Introduction à l'ancien français (en (francés)).
+Paris: Armand Colin.
+ISBN 2-200-34101-6.

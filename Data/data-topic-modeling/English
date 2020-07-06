@@ -1,0 +1,494 @@
+Computer science is the study of computation and information.
+Computer science deals with theory of computation, algorithms, computational problems and the design of computer systems hardware, software and applications.
+Computer science addresses both human-made and natural information processes, such as communication, control, perception, learning and intelligence especially in human-made computing systems and machines.
+According to Peter Denning, the fundamental question underlying computer science is, What can be automated?Its fields can be divided into theoretical and practical disciplines.
+Computational complexity theory is highly abstract, while computer graphics and computational geometry emphasizes real-world applications.
+Algorithmics is called the heart of computer science.
+Programming language theory considers approaches to the description of computational processes, while software engineering involves the use of programming languages and complex systems.
+Computer architecture and computer engineering deals with construction of computer components and computer-controlled equipment.
+Human–computer interaction considers the challenges in making computers useful, usable, and accessible.
+Artificial intelligence aims to synthesize goal-orientated processes such as problem-solving, decision-making, environmental adaptation, motion planning, learning, and communication found in humans and animals.
+History   The earliest foundations of what would become computer science predate the invention of the modern digital computer.
+Machines for calculating fixed numerical tasks such as the abacus have existed since antiquity, aiding in computations such as multiplication and division.
+Algorithms for performing computations have existed since antiquity, even before the development of sophisticated computing equipment.
+Wilhelm Schickard designed and constructed the first working mechanical calculator in 1623.
+In 1673, Gottfried Leibniz demonstrated a digital mechanical calculator, called the Stepped Reckoner.
+Leibniz may be considered the first computer scientist and information theorist, for, among other reasons, documenting the binary number system.
+In 1820, Thomas de Colmar launched the mechanical calculator industry when he invented his simplified arithmometer, the first calculating machine strong enough and reliable enough to be used daily in an office environment.
+Charles Babbage started the design of the first automatic mechanical calculator, his Difference Engine, in 1822, which eventually gave him the idea of the first programmable mechanical calculator, his Analytical Engine.
+He started developing this machine in 1834, and "in less than two years, he had sketched out many of the salient features of the modern computer".
+"A crucial step was the adoption of a punched card system derived from the Jacquard loom" making it infinitely programmable.
+In 1843, during the translation of a French article on the Analytical Engine, Ada Lovelace wrote, in one of the many notes she included, an algorithm to compute the Bernoulli numbers, which is considered to be the first published algorithm ever specifically tailored for implementation on a computer.
+Around 1885, Herman Hollerith invented the tabulator, which used punched cards to process statistical information; eventually his company became part of IBM.
+Following Babbage, although unaware of his earlier work, Percy Ludgate in 1909 published  the 2nd of the only two designs for mechanical analytical engines in history.
+In 1937, one hundred years after Babbage's impossible dream, Howard Aiken convinced IBM, which was making all kinds of punched card equipment and was also in the calculator business to develop his giant programmable calculator, the ASCC/Harvard Mark I, based on Babbage's Analytical Engine, which itself used cards and a central computing unit.
+When the machine was finished, some hailed it as "Babbage's dream come true".During the 1940s, with the development of new and more powerful computing machines such as the Atanasoff–Berry computer and ENIAC, the term computer came to refer to the machines rather than their human predecessors.
+As it became clear that computers could be used for more than just mathematical calculations, the field of computer science broadened to study computation in general.
+In 1945, IBM founded the Watson Scientific Computing Laboratory at Columbia University in New York City.
+The renovated fraternity house on Manhattan's West Side was IBM's first laboratory devoted to pure science.
+The lab is the forerunner of IBM's Research Division, which today operates research facilities around the world.
+Ultimately, the close relationship between IBM and the university was instrumental in the emergence of a new scientific discipline, with Columbia offering one of the first academic-credit courses in computer science in 1946.
+Computer science began to be established as a distinct academic discipline in the 1950s and early 1960s.
+The world's first computer science degree program, the Cambridge Diploma in Computer Science, began at the University of Cambridge Computer Laboratory in 1953.
+The first computer science department in the United States was formed at Purdue University in 1962.
+Since practical computers became available, many applications of computing have become distinct areas of study in their own rights.
+Although many initially believed it was impossible that computers themselves could actually be a scientific field of study, in the late fifties it gradually became accepted among the greater academic population.
+It is the now well-known IBM brand that formed part of the computer science revolution during this time.
+IBM (short for International Business Machines) released the IBM 704 and later the IBM 709 computers, which were widely used during the exploration period of such devices.
+"Still, working with the IBM [computer] was frustrating […] if you had misplaced as much as one letter in one instruction, the program would crash, and you would have to start the whole process over again".
+During the late 1950s, the computer science discipline was very much in its developmental stages, and such issues were commonplace.The concept of a field-effect transistor was proposed by Julius Edgar Lilienfeld in 1925.
+John Bardeen and Walter Brattain, while working under William Shockley at Bell Labs, built the first working transistor, the point-contact transistor, in 1947.
+In 1953, the University of Manchester built the first transistorized computer, called the Transistor Computer.
+However, early junction transistors were relatively bulky devices that were difficult to manufacture on a mass-production basis, which limited them to a number of specialised applications.
+The metal–oxide–silicon field-effect transistor (MOSFET, or MOS transistor) was invented by Mohamed Atalla and Dawon Kahng at Bell Labs in 1959.
+It was the first truly compact transistor that could be miniaturised and mass-produced for a wide range of uses.
+The MOSFET made it possible to build high-density integrated circuit chips, leading to what is known as the computer revolution or microcomputer revolution.Time has seen significant improvements in the usability and effectiveness of computing technology.
+Modern society has seen a significant shift in the demographics which make use of computer technology; usage has shifted from being mostly exclusive to experts and professionals, to a near-ubiquitous user base.
+Initially, computers were quite costly, and some degree of humanitarian aid was needed for efficient use—in part from professional computer operators.
+As computer adoption became more widespread and affordable, less human assistance was needed for common usage.
+Etymology   Although first proposed in 1956, the term "computer science" appears in a 1959 article in Communications of the ACM, in which Louis Fein argues for the creation of a Graduate School in Computer Sciences analogous to the creation of Harvard Business School in 1921, justifying the name by arguing that, like management science, the subject is applied and interdisciplinary in nature, while having the characteristics typical of an academic discipline.
+His efforts, and those of others such as numerical analyst George Forsythe, were rewarded: universities went on to create such departments, starting with Purdue in 1962.
+Despite its name, a significant amount of computer science does not involve the study of computers themselves.
+Because of this, several alternative names have been proposed.
+Certain departments of major universities prefer the term computing science, to emphasize precisely that difference.
+Danish scientist Peter Naur suggested the term datalogy, to reflect the fact that the scientific discipline revolves around data and data treatment, while not necessarily involving computers.
+The first scientific institution to use the term was the Department of Datalogy at the University of Copenhagen, founded in 1969, with Peter Naur being the first professor in datalogy.
+The term is used mainly in the Scandinavian countries.
+An alternative term, also proposed by Naur, is data science; this is now used for a multi-disciplinary field of data analysis, including statistics and databases.
+In the early days of computing, a number of terms for the practitioners of the field of computing were suggested in the Communications of the ACM—turingineer, turologist, flow-charts-man, applied meta-mathematician, and applied epistemologist.
+Three months later in the same journal, comptologist was suggested, followed next year by hypologist.
+The term computics has also been suggested.
+In Europe, terms derived from contracted translations of the expression "automatic information" (e.g.
+"informazione automatica" in Italian) or "information and mathematics" are often used, e.g.
+informatique (French), Informatik (German), informatica (Italian, Dutch), informática (Spanish, Portuguese), informatika (Slavic languages and Hungarian) or pliroforiki (πληροφορική, which means informatics) in Greek.
+Similar words have also been adopted in the UK (as in the School of Informatics of the University of Edinburgh).
+"In the U.S., however, informatics is linked with applied computing, or computing in the context of another domain.
+"A folkloric quotation, often attributed to—but almost certainly not first formulated by—Edsger Dijkstra, states that "computer science is no more about computers than astronomy is about telescopes."
+The design and deployment of computers and computer systems is generally considered the province of disciplines other than computer science.
+For example, the study of computer hardware is usually considered part of computer engineering, while the study of commercial computer systems and their deployment is often called information technology or information systems.
+However, there has been much cross-fertilization of ideas between the various computer-related disciplines.
+Computer science research also often intersects other disciplines, such as philosophy, cognitive science, linguistics, mathematics, physics, biology, statistics, and logic.
+Computer science is considered by some to have a much closer relationship with mathematics than many scientific disciplines, with some observers saying that computing is a mathematical science.
+Early computer science was strongly influenced by the work of mathematicians such as Kurt Gödel, Alan Turing, John von Neumann, Rózsa Péter and Alonzo Church and there continues to be a useful interchange of ideas between the two fields in areas such as mathematical logic, category theory, domain theory, and algebra.The relationship between Computer Science and Software Engineering is a contentious issue, which is further muddied by disputes over what the term "Software Engineering" means, and how computer science is defined.
+David Parnas, taking a cue from the relationship between other engineering and science disciplines, has claimed that the principal focus of computer science is studying the properties of computation in general, while the principal focus of software engineering is the design of specific computations to achieve practical goals, making the two separate but complementary disciplines.The academic, political, and funding aspects of computer science tend to depend on whether a department formed with a mathematical emphasis or with an engineering emphasis.
+Computer science departments with a mathematics emphasis and with a numerical orientation consider alignment with computational science.
+Both types of departments tend to make efforts to bridge the field educationally if not across all research.
+Philosophy   A number of computer scientists have argued for the distinction of three separate paradigms in computer science.
+Peter Wegner argued that those paradigms are science, technology, and mathematics.
+Peter Denning's working group argued that they are theory, abstraction (modeling), and design.
+Amnon H. Eden described them as the "rationalist paradigm" (which treats computer science as a branch of mathematics, which is prevalent in theoretical computer science, and mainly employs deductive reasoning), the "technocratic paradigm" (which might be found in engineering approaches, most prominently in software engineering), and the "scientific paradigm" (which approaches computer-related artifacts from the empirical perspective of natural sciences, identifiable in some branches of artificial intelligence).
+Computer science focuses on methods involved in design, specification, programming, verification, implementation and testing of human-made computing systems.
+Fields  Computer science is no more about computers than astronomy is about telescopes.
+As a discipline, computer science spans a range of topics from theoretical studies of algorithms and the limits of computation to the practical issues of implementing computing systems in hardware and software.CSAB, formerly called Computing Sciences Accreditation Board—which is made up of representatives of the Association for Computing Machinery (ACM), and the IEEE Computer Society (IEEE CS)—identifies four areas that it considers crucial to the discipline of computer science: theory of computation, algorithms and data structures, programming methodology and languages, and computer elements and architecture.
+In addition to these four areas, CSAB also identifies fields such as software engineering, artificial intelligence, computer networking and communication, database systems, parallel computation, distributed computation, human–computer interaction, computer graphics, operating systems, and numerical and symbolic computation as being important areas of computer science.
+Theoretical computer science   Theoretical Computer Science is mathematical and abstract in spirit, but it derives its motivation from the practical and everyday computation.
+Its aim is to understand the nature of computation and, as a consequence of this understanding, provide more efficient methodologies.
+All studies related to mathematical, logic and formal concepts and methods could be considered as theoretical computer science, provided that the motivation is clearly drawn from the field of computing.
+Data structures and algorithms   Data structures and algorithms are the studies of commonly used computational methods and their computational efficiency.
+Theory of computation   According to Peter Denning, the fundamental question underlying computer science is, "What can be automated?"
+Theory of computation is focused on answering fundamental questions about what can be computed and what amount of resources are required to perform those computations.
+In an effort to answer the first question, computability theory examines which computational problems are solvable on various theoretical models of computation.
+The second question is addressed by computational complexity theory, which studies the time and space costs associated with different approaches to solving a multitude of computational problems.
+The famous P  NP?
+problem, one of the Millennium Prize Problems, is an open problem in the theory of computation.
+Information and coding theory   Information theory is related to the quantification of information.
+This was developed by Claude Shannon to find fundamental limits on signal processing operations such as compressing data and on reliably storing and communicating data.
+Coding theory is the study of the properties of codes (systems for converting information from one form to another) and their fitness for a specific application.
+Codes are used for data compression, cryptography, error detection and correction, and more recently also for network coding.
+Codes are studied for the purpose of designing efficient and reliable data transmission methods.
+Programming language theory   Programming language theory is a branch of computer science that deals with the design, implementation, analysis, characterization, and classification of programming languages and their individual features.
+It falls within the discipline of computer science, both depending on and affecting mathematics, software engineering, and linguistics.
+It is an active research area, with numerous dedicated academic journals.
+Formal methods   Formal methods are a particular kind of mathematically based technique for the specification, development and verification of software and hardware systems.
+The use of formal methods for software and hardware design is motivated by the expectation that, as in other engineering disciplines, performing appropriate mathematical analysis can contribute to the reliability and robustness of a design.
+They form an important theoretical underpinning for software engineering, especially where safety or security is involved.
+Formal methods are a useful adjunct to software testing since they help avoid errors and can also give a framework for testing.
+For industrial use, tool support is required.
+However, the high cost of using formal methods means that they are usually only used in the development of high-integrity and life-critical systems, where safety or security is of utmost importance.
+Formal methods are best described as the application of a fairly broad variety of theoretical computer science fundamentals, in particular logic calculi, formal languages, automata theory, and program semantics, but also type systems and algebraic data types to problems in software and hardware specification and verification.
+Computer systems     Computer architecture and computer science   Computer architecture, or digital computer organization, is the conceptual design and fundamental operational structure of a computer system.
+It focuses largely on the way by which the central processing unit performs internally and accesses addresses in memory.
+The field often involves disciplines of computer engineering and electrical engineering, selecting and interconnecting hardware components to create computers that meet functional, performance, and cost goals.
+Computer performance analysis   Computer performance analysis is the study of work flowing through computers with the general goals of improving throughput, controlling response time, using resources efficiently, eliminating bottlenecks, and predicting performance under anticipated peak loads.Benchmarks are used to compare the performance of systems carrying different chips and/or system architectures.
+Concurrent, parallel and distributed systems   Concurrency is a property of systems in which several computations are executing simultaneously, and potentially interacting with each other.
+A number of mathematical models have been developed for general concurrent computation including Petri nets, process calculi and the Parallel Random Access Machine model.
+When multiple computers are connected in a network while using concurrency, this is known as a distributed system.
+Computers within that distributed system have their own private memory, and information can be exchanged to achieve common goals.
+Computer networks   This branch of computer science aims to manage networks between computers worldwide.
+Computer security and cryptography   Computer security is a branch of computer technology with an objective of protecting information from unauthorized access, disruption, or modification while maintaining the accessibility and usability of the system for its intended users.
+Cryptography is the practice and study of hiding (encryption) and therefore deciphering (decryption) information.
+Modern cryptography is largely related to computer science, for many encryption and decryption algorithms are based on their computational complexity.
+Databases   A database is intended to organize, store, and retrieve large amounts of data easily.
+Digital databases are managed using database management systems to store, create, maintain, and search data, through database models and query languages.
+Computer applications     Computer graphics and visualization   Computer graphics is the study of digital visual contents and involves the synthesis and manipulation of image data.
+The study is connected to many other fields in computer science, including computer vision, image processing, and computational geometry, and is heavily applied in the fields of special effects and video games.
+Human–computer interaction   Research that develops theories, principles, and guidelines for user interface designers, so they can create satisfactory user experiences with desktop, laptop, and mobile devices.
+Scientific computing and simulation  Scientific computing (or computational science) is the field of study concerned with constructing mathematical models and quantitative analysis techniques and using computers to analyze and solve scientific problems.
+A major usage of scientific computing is simulation of various processes, including computational fluid dynamics, physical, electrical, and electronic systems and circuits, as well as societies and social situations (notably war games) along with their habitats, among many others.
+Modern computers enable optimization of such designs as complete aircraft.
+Notable in electrical and electronic circuit design are SPICE, as well as software for physical realization of new (or modified) designs.
+The latter includes essential design software for integrated circuits.
+Artificial intelligence   Artificial intelligence (AI) aims to or is required to synthesize goal-orientated processes such as problem-solving, decision-making, environmental adaptation, learning, and communication found in humans and animals.
+From its origins in cybernetics and in the Dartmouth Conference (1956), artificial intelligence research has been necessarily cross-disciplinary, drawing on areas of expertise such as applied mathematics, symbolic logic, semiotics, electrical engineering, philosophy of mind, neurophysiology, and social intelligence.
+AI is associated in the popular mind with robotic development, but the main field of practical application has been as an embedded component in areas of software development, which require computational understanding.
+The starting point in the late 1940s was Alan Turing's question "Can computers think?
+", and the question remains effectively unanswered, although the Turing test is still used to assess computer output on the scale of human intelligence.
+But the automation of evaluative and predictive tasks has been increasingly successful as a substitute for human monitoring and intervention in domains of computer application involving complex real-world data.
+Software engineering   Software engineering is the study of designing, implementing, and modifying the software in order to ensure it is of high quality, affordable, maintainable, and fast to build.
+It is a systematic approach to software design, involving the application of engineering practices to software.
+Software engineering deals with the organizing and analyzing of software—it doesn't just deal with the creation or manufacture of new software, but its internal arrangement and maintenance.
+Discoveries  The philosopher of computing Bill Rapaport noted three Great Insights of Computer Science: Gottfried Wilhelm Leibniz's, George Boole's, Alan Turing's, Claude Shannon's, and Samuel Morse's insight: there are only two objects that a computer has to deal with in order to represent "anything".All the information about any computable problem can be represented using only 0 and 1 (or any other bistable pair that can flip-flop between two easily distinguishable states, such as "on/off", "magnetized/de-magnetized", "high-voltage/low-voltage", etc.).
+Alan Turing's insight: there are only five actions that a computer has to perform in order to do "anything".Every algorithm can be expressed in a language for a computer consisting of only five basic instructions:move left one location; move right one location; read symbol at current location; print 0 at current location; print 1 at current location.
+Corrado Böhm and Giuseppe Jacopini's insight: there are only three ways of combining these actions (into more complex ones) that are needed in order for a computer to do "anything".Only three rules are needed to combine any set of basic instructions into more complex ones: sequence: first do this, then do that;  selection: IF such-and-such is the case, THEN do this, ELSE do that; repetition: WHILE such-and-such is the case, DO this.
+Note that the three rules of Boehm's and Jacopini's insight can be further simplified with the use of goto (which means it is more elementary than structured programming).
+Programming paradigms   Programming languages can be used to accomplish different tasks in different ways.
+Common programming paradigms include:  Functional programming, a style of building the structure and elements of computer programs that treat computation as the evaluation of mathematical functions and avoids state and mutable data.
+It is a declarative programming paradigm, which means programming is done with expressions or declarations instead of statements.
+Imperative programming, a programming paradigm that uses statements that change a program's state.
+In much the same way that the imperative mood in natural languages expresses commands, an imperative program consists of commands for the computer to perform.
+Imperative programming focuses on describing how a program operates.
+Object-oriented programming, a programming paradigm based on the concept of "objects", which may contain data, in the form of fields, often known as attributes; and code, in the form of procedures, often known as methods.
+A feature of objects is that an object's procedures can access and often modify the data fields of the object with which they are associated.
+Thus Object-oriented computer programs are made out of objects that interact with one another.Many languages offer support for multiple paradigms, making the distinction more a matter of style than of technical capabilities.
+Academia   Conferences are important events for computer science research.
+During these conferences, researchers from the public and private sectors present their recent work and meet.
+Unlike in most other academic fields, in computer science, the prestige of conference papers is greater than that of journal publications.
+One proposed explanation for this is the quick development of this relatively new field requires rapid review and distribution of results, a task better handled by conferences than by journals.
+Education   Computer Science, known by its near synonyms, Computing, Computer Studies, Information Technology (IT) and Information and Computing Technology (ICT), has been taught in UK schools since the days of batch processing, mark sensitive cards and paper tape but usually to a select few students.
+In 1981, the BBC produced a micro-computer and classroom network and Computer Studies became common for GCE O level students (11–16-year-old), and Computer Science to A level students.
+Its importance was recognised, and it became a compulsory part of the National Curriculum, for Key Stage 3 & 4.
+In September 2014 it became an entitlement for all pupils over the age of 4.In the US, with 14,000 school districts deciding the curriculum, provision was fractured.
+According to a 2010 report by the Association for Computing Machinery (ACM) and Computer Science Teachers Association (CSTA), only 14 out of 50 states have adopted significant education standards for high school computer science.Israel, New Zealand, and South Korea have included computer science in their national secondary education curricula, and several others are following.
+See also     Notes     References     Further reading     External links   Computer science at Curlie Scholarly Societies in Computer Science What is Computer Science?
+Best Papers Awards in Computer Science since 1996 Photographs of computer scientists by Bertrand Meyer EECS.berkeley.edu    Bibliography and academic search engines  CiteSeerx (article): search engine, digital library and repository for scientific and academic papers with a focus on computer and information science.
+DBLP Computer Science Bibliography (article): computer science bibliography website hosted at Universität Trier, in Germany.
+The Collection of Computer Science Bibliographies (article)    Professional organizations  Association for Computing Machinery IEEE Computer Society Informatics Europe AAAI AAAS Computer Science    Misc  Computer Science—Stack Exchange: a community-run question-and-answer site for computer science What is computer science Is computer science science?
+Computer Science (Software) Must be Considered as an Independent Discipline.
+Cake is a form of sweet food made from flour, sugar, and other ingredients, that is usually baked.
+In their oldest forms, cakes were modifications of bread, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies.
+The most commonly used cake ingredients include flour, sugar, eggs, butter or oil or margarine, a liquid, and leavening agents, such as baking soda or baking powder.
+Common additional ingredients and flavourings include dried, candied, or fresh fruit, nuts, cocoa, and extracts such as vanilla, with numerous substitutions for the primary ingredients.
+Cakes can also be filled with fruit preserves, nuts or dessert sauces (like pastry cream), iced with buttercream or other icings, and decorated with marzipan, piped borders, or candied fruit.Cake is often served as a celebratory dish on ceremonial occasions, such as weddings, anniversaries, and birthdays.
+There are countless cake recipes; some are bread-like, some are rich and elaborate, and many are centuries old.
+Cake making is no longer a complicated procedure; while at one time considerable labor went into cake making (particularly the whisking of egg foams), baking equipment and directions have been simplified so that even the most amateur of cooks may bake a cake.
+History  The term "cake" has a long history.
+The word itself is of Viking origin, from the Old Norse word "kaka".The ancient Greeks called cake πλακοῦς (plakous), which was derived from the word for "flat", πλακόεις (plakoeis).
+It was baked using flour mixed with eggs, milk, nuts, and honey.
+They also had a cake called "satura", which was a flat heavy cake.
+During the Roman period, the name for cake became "placenta" which was derived from the Greek term.
+A placenta was baked on a pastry base or inside a pastry case.The Greeks invented beer as a leavener, frying fritters in olive oil, and cheesecakes using goat's milk.
+In ancient Rome, the basic bread dough was sometimes enriched with butter, eggs, and honey, which produced a sweet and cake-like baked good.
+Latin poet Ovid refers to his and his brother's birthday party and cake in his first book of exile, Tristia.Early cakes in England were also essentially bread: the most obvious differences between a "cake" and "bread" were the round, flat shape of the cakes, and the cooking method, which turned cakes over once while cooking, while bread was left upright throughout the baking process.Sponge cakes, leavened with beaten eggs, originated during the Renaissance, possibly in Spain.
+Cake mixes   During the Great Depression, there was a surplus of molasses and the need to provide easily made food to millions of economically depressed people in the United States.
+One company patented a cake-bread mix to deal with this economic situation, and thereby established the first line of cake in a box.
+In so doing, cake, as it is known today, became a mass-produced good rather than a home- or bakery-made specialty.
+Later, during the post-war boom, other American companies (notably General Mills) developed this idea further, marketing cake mix on the principle of convenience, especially to housewives.
+When sales dropped heavily in the 1950s, marketers discovered that baking cakes, once a task at which housewives could exercise skill and creativity, had become dispiriting.
+This was a period in American ideological history when women, retired from the war-time labor force, were confined to the domestic sphere, while still exposed to the blossoming consumerism in the US.
+This inspired psychologist Ernest Dichter to find a solution to the cake mix problem in the frosting.
+Since making the cake was so simple, housewives and other in-home cake makers could expend their creative energy on cake decorating inspired by, among other things, photographs in magazines of elaborately decorated cakes.
+Ever since cake in a box has become a staple of supermarkets and is complemented with frosting in a can.
+Varieties   Cakes are broadly divided into several categories, based primarily on ingredients and mixing techniques.
+Although clear examples of the difference between cake and bread are easy to find, the precise classification has always been elusive.
+For example, banana bread may be properly considered either a quick bread or a cake.
+Butter cakes are made from creamed butter, sugar, eggs, and flour.
+They rely on the combination of butter and sugar beaten for an extended time to incorporate air into the batter.
+A classic pound cake is made with a pound each of butter, sugar, eggs, and flour.
+Baking powder is in many butter cakes, such as Victoria sponge.
+The ingredients are sometimes mixed without creaming the butter, using recipes for simple and quick cakes.
+Sponge cakes (or foam cakes) are made from whipped eggs, sugar, and flour.
+They rely primarily on trapped air in a protein matrix (generally of beaten eggs) to provide leavening, sometimes with a bit of baking powder or other chemical leaven added as insurance.
+Sponge cakes are thought to be the oldest cakes made without yeast.
+An angel food cake is a white sponge cake that uses only the whites of the eggs and is traditionally baked in a tube pan.
+The French Génoise is a sponge cake that includes clarified butter.
+Highly decorated sponge cakes with lavish toppings are sometimes called gateau, the French word for cake.
+Chiffon cakes are sponge cakes with vegetable oil, which adds moistness.
+Chocolate cakes are butter cakes, sponge cakes, or other cakes flavored with melted chocolate or cocoa powder.
+German chocolate cake is a variety of chocolate cake.
+Fudge cakes are chocolate cakes that contain fudge.
+Coffee cake is generally thought of as a cake to serve with coffee or tea at breakfast or a coffee break.
+Some types use yeast as a leavening agent while others use baking soda or baking powder.
+These cakes often have a crumb topping called streusel or a light glaze drizzle.
+Baked flourless cakes include baked cheesecakes and flourless chocolate cakes.
+Cheesecakes, despite their name, aren't cakes at all.
+Cheesecakes are custard pies, with a filling made mostly of some form of cheese (often cream cheese, mascarpone, ricotta, or the like), and have very little flour added, although a flour-based or graham cracker crust may be used.
+Cheesecakes are also very old, with evidence of honey-sweetened cakes dating back to ancient Greece.
+Butter or oil layer cakes include most of the traditional cakes used as birthday cakes, etc., and those sold as packaged cakes.
+Baking powder or bicarbonate of soda is used to provide both lift and a moist texture.
+Many flavorings and ingredients may be added; examples include devil's food cake, carrot cake, and banana bread.
+Yeast cakes are the oldest and are very similar to yeast bread.
+Such cakes are often very traditional in form and include such pastries as babka and stollen.Some varieties of cake are widely available in the form of cake mixes, wherein some of the ingredients (usually flour, sugar, flavoring, baking powder, and sometimes some form of fat) are premixed, and the cook needs add only a few extra ingredients, usually eggs, water, and sometimes vegetable oil or butter.
+While the diversity of represented styles is limited, cake mixes do provide an easy and readily available homemade option for cooks who are not accomplished bakers.
+Cake varieties 		 		 		 		 		 		 		 		    Special-purpose cakes   Cakes may be classified according to the occasion for which they are intended.
+For example, wedding cakes, birthday cakes, cakes for first communion, Christmas cakes, Halloween cakes, and Passover plava (a type of sponge cake sometimes made with matzo meal) are all identified primarily according to the celebration they are intended to accompany.
+The cutting of a wedding cake constitutes a social ceremony in some cultures.
+The Ancient Roman marriage ritual of confarreatio originated in the sharing of a cake.
+Particular types of cake may be associated with particular festivals, such as stollen or chocolate log (at Christmas), babka and simnel cake (at Easter), or mooncake.
+There has been a long tradition of decorating an iced cake at Christmas time; other cakes associated with Christmas include chocolate log and mince pies.
+A Lancashire Courting Cake is a fruit-filled cake baked by a fiancée for her betrothed.
+The cake has been described as "somewhere between a firm sponge – with a greater proportion of flour to fat and eggs than a Victoria sponge cake – and a shortbread base and was proof of the bride-to-be's baking skills".
+Traditionally it is a two-layer cake filled and topped with strawberries or raspberries and whipped cream.
+Shapes   Cakes are frequently described according to their physical form.
+Cakes may be small and intended for individual consumption.
+Larger cakes may be made to be sliced and served as part of a meal or social function.
+Common shapes include:  Bundt cakes Cake balls Conical, such as the Kransekake Cupcakes and madeleines, which are both sized for a single person Layer cakes, frequently baked in a springform pan and decorated Sheet cakes, simple, flat, rectangular cakes baked in sheet pans Swiss rollsCakes by shape 		 		 		 		    Cake flour   Special cake flour with a high starch-to-gluten ratio is made from fine-textured, soft, low-protein wheat.
+It is strongly bleached and compared to all-purpose flour, cake flour tends to result in cakes with a lighter, less dense texture.
+Therefore, it is frequently specified or preferred in cakes meant to be soft, light, and/or bright white, such as angel food cake.
+However, if cake flour is called for, a substitute can be made by replacing a small percentage of all-purpose flour with cornstarch or removing two tablespoons from each cup of all-purpose flour.
+Some recipes explicitly specify or permit all-purpose flour, notably where a firmer or denser cake texture is desired.
+Cooking   A cake can  fail to bake properly, which is called "falling".
+In a cake that "falls", parts may sink or flatten, because it was baked at a temperature that is too low or too hot, when it has been underbaked and when placed in an oven that is too hot at the beginning of the baking process.
+The use of excessive amounts of sugar, flour, fat or leavening can also cause a cake to fall.
+A cake can also fall when subjected to cool air that enters an oven when the oven door is opened during the cooking process.
+Cake decorating   A finished cake is often enhanced by covering it with icing, or frosting, and toppings such as sprinkles, which are also known as "jimmies" in certain parts of the United States and "hundreds and thousands" in the United Kingdom.
+The frosting is usually made from powdered (icing) sugar, sometimes a fat of some sort, milk or cream, and often flavorings such as a vanilla extract or cocoa powder.
+Some decorators use a rolled fondant icing.
+Commercial bakeries tend to use lard for the fat, and often whip the lard to introduce air bubbles.
+This makes the icing light and spreadable.
+Home bakers either use lard, butter, margarine, or some combination thereof.
+Sprinkles are small firm pieces of sugar and oils that are colored with food coloring.
+In the late 20th century, new cake decorating products became available to the public.
+These include several specialized sprinkles and even methods to print pictures and transfer the image onto a cake.
+Special tools are needed for more complex cake decorating, such as piping bags and various piping tips, syringes and embossing mats.
+To use a piping bag or syringe, a piping tip is attached to the bag or syringe using a coupler.
+The bag or syringe is partially filled with icing which is sometimes colored.
+Using different piping tips and various techniques, a cake decorator can make many different designs.
+Basic decorating tips include open star, closed star, basketweave, round, drop flower, leaf, multi, petal, and specialty tips.
+An embossing mat is used to create embossed effects.
+A cake turntable that cakes are spun upon may be used in cake decoration.
+Royal icing, marzipan (or a less sweet version, known as almond paste), fondant icing (also known as sugar paste), and buttercream are used as covering icings and to create decorations.
+Floral sugarcraft or wired sugar flowers are an important part of cake decoration.
+Cakes for special occasions, such as wedding cakes, are traditionally rich fruit cakes or occasionally Madeira cakes, that are covered with marzipan and iced using royal icing or sugar-paste.
+They are finished with piped borders (made with royal icing) and adorned with a piped message, wired sugar flowers, hand-formed fondant flowers, marzipan fruit, piped flowers, or crystallized fruits or flowers such as grapes or violets.
+Decorated cakes 		 		 		 		 		 		    See also     References     External links    The dictionary definition of cake at Wiktionary  Media related to Cake at Wikimedia Commons Old French (franceis, françois, romanz; Modern French: ancien français) was the language spoken in Northern France from the 8th century to the 14th century.
+In the 14th century, these dialects came to be collectively known as the langue d'oïl, contrasting with the langue d'oc or Occitan language in the south of France.
+The mid-14th century is taken as the transitional period to Middle French, the language of the French Renaissance, specifically based on the dialect of the Île-de-France region.
+The region where Old French was spoken natively roughly extended to the northern half of the Kingdom of France and its vassals (including parts of the Angevin Empire, which during the 12th century remained under Anglo-Norman rule), and the duchies of Upper and Lower Lorraine to the east (corresponding to modern north-eastern France and Belgian Wallonia), but the influence of Old French was much wider, as it was carried to England and the Crusader states as the language of a feudal elite and commerce.
+Areal and dialectal divisions   The areal of Old French in contemporary terms corresponded to the northern parts of the Kingdom of France (including Anjou and Normandy, which in the 12th century were ruled by the Plantagenet kings of England), Upper Burgundy and the duchy of Lorraine.
+The Norman dialect was also spread to England and Ireland, and during the crusades, Old French was also spoken in the Kingdom of Sicily, and in the Principality of Antioch and the Kingdom of Jerusalem in the Levant.
+As part of the emerging Gallo-Romance dialect continuum, the langues d'oïl were contrasted with the langue d'oc (the emerging Occitano-Romance group, at the time also called Provençal), adjacent to the Old French area in the south-west, and with the Gallo-Italic group to the south-east.
+The Franco-Provençal group developed in Upper Burgundy, sharing features with both French and Provençal; it may have begun to diverge from the langue d'oïl as early as the 9th century and is attested as a distinct Gallo-Romance variety by the 12th century.
+Dialects or variants of Old French include:  Burgundian in Burgundy, then an independent duchy whose capital was at Dijon; Picard of Picardy, whose principal cities were Calais and Lille.
+It was said that the Picard language began at the east door of Notre-Dame de Paris, so far-reaching was its influence; Old Norman, in Normandy, whose principal cities were Caen and Rouen.
+The Norman conquest of England brought many Norman-speaking aristocrats into the British Isles.
+Most of the older Norman (sometimes called "French") words in English reflects its influence, which became a conduit for the introduction into the Anglo-Norman realm, as did Anglo-Norman control of Anjou and Gascony and other continental possessions.
+Anglo-Norman was a language that reflected a shared culture on both sides of the English Channel.
+Ultimately, the language declined and fell, becoming Law French, a jargon spoken by lawyers that were used in English law until the reign of Charles II of England; however, the Norman language, still survives in Normandy and the Channel Islands, as a regional language; Wallon, around Namur, now in Wallonia, Belgium; Gallo of the Duchy of Brittany; Lorrain of the Duchy of Lorraine.
+Some modern languages are derived from Old French dialects other than Classical French, which is based on the Île-de-France dialect.
+They include Angevin, Berrichon, Bourguignon-Morvandiau, Champenois, Franc-Comtois, Gallo, Lorrain, Norman, Picard, Poitevin, Saintongeais and Walloon.
+History     Evolution from Vulgar Latin  Beginning with Plautus' time (254–184 b.c.
+), one can see phonological changes between Classical Latin and what is called Vulgar Latin, the common spoken language of the Western Roman Empire.
+Vulgar Latin differed from Classical Latin in phonology and morphology as well as exhibiting lexical differences; however, they were mutually intelligible until the 7th century when Classical Latin 'died' as a daily spoken language, and had to be learned as a second language (though it was long thought of as the formal version of the spoken language).
+Vulgar Latin was the ancestor of the Romance languages, including Old French.
+Non-Latin influences     Gaulish   Some Gaulish words influenced Vulgar Latin and, through this, other Romance languages.
+For example, classical Latin equus was uniformly replaced in Vulgar Latin by caballus 'nag, work horse', derived from Gaulish caballos (cf.
+Welsh ceffyl, Breton kefel), giving Modern French cheval, Occitan caval (chaval), Catalan cavall, Spanish caballo, Portuguese cavalo, Italian cavallo, Romanian cal, and, by extension, English cavalry.
+An estimated 200 words of Gaulish etymology survive in modern French, for example chêne 'oak tree' and charrue 'plough'.Within historical phonology and studies of language contact, various phonological changes have been posited as caused by a Gaulish substrate, although there is some debate.
+One of these is considered certain, because this fact is clearly attested in the Gaulish-language epigraphy on the pottery found at la Graufesenque (A.D. 1st century).
+There, the Greek word paropsid-es (written in Latin) appears as paraxsid-i.
+The consonant clusters /ps/ and /pt/ shifted to /xs/ and /xt/, e.g.
+Latin capsa > *kaxsa > caisse (≠ Italian cassa) or captīvus > *kaxtivus > OF chaitif (mod.
+chétif; cf.
+Irish cacht 'servant'; ≠ Italian cattiv-ità, Portuguese cativo, Spanish cautivo).
+This phonetic evolution is parallel to the shift of the Latin cluster /kt/ in Old French (Latin factum > fait, ≠ Italian fatto, Portuguese feito, Spanish hecho; or lactem* > lait, ≠ Italian latte, Portuguese leite, Spanish leche).
+The Celtic Gaulish language is thought to have survived into the 6th century in France, despite considerable cultural Romanization.
+Coexisting with Latin, Gaulish helped shape the Vulgar Latin dialects that developed into French, with effects including loanwords and calques (including oui, the word for "yes"), sound changes shaped by Gaulish influence, and influences in conjugation and word order.
+Recent computational studies suggest that early gender shifts may have been motivated by the gender of the corresponding word in Gaulish.
+Frankish   The pronunciation, vocabulary, and syntax of the Vulgar Latin spoken in Roman Gaul in Late Antiquity was modified by the Old Frankish language, spoken by the Franks who settled in Gaul from the 5th century and conquered the entire Old French-speaking area by the 530s.
+The name français itself is derived from the name the Franks.
+The Old Frankish language had a definitive influence on the development of Old French, which partly explains why the earliest attested Old French documents are older than the earliest attestations in other Romance languages (e.g.
+Strasbourg Oaths, Sequence of Saint Eulalia).
+It is the result of an earlier gap created between Classical Latin and its evolved forms, which slowly reduced and eventually severed the intercomprehensibility between the two.
+The Old Low Franconian influence is also believed to be responsible for the differences between the langue d'oïl and the langue d'oc (Occitan), being that various parts of Northern France remained bilingual between Latin and Germanic for some time, and these areas correspond precisely to where the first documents in Old French were written.
+This Germanic language shaped the popular Latin spoken here and gave it a very distinctive identity compared to the other future Romance languages.
+The very first noticeable influence is the substitution of the Latin melodic accent by a Germanic stress and its result was diphthongization, differentiation between long and short vowels, the fall of the unaccented syllable and of the final vowels:  Latin decimus, -a 'tenth' > OF disme > F dîme 'tithe' (> E dime; Italian decimo, Spanish diezmo) VL dignitate > OF deintié (> E dainty; Italian dignità, Romanian demnitate) VL catena > OF chaeine (> E chain; Italian catena, Cast./Occitan cadena, Portuguese cadeia)Additionally, two phonemes that had long since died out in Vulgar Latin were reintroduced: [h] and [w] (> OF g(u)-, ONF w- cf.
+Picard w-):  VL altu > OF halt 'high' (influenced by OLF *hōh ; ≠ Italian, Portuguese alto, Catalan alt, Old Occitan aut) L vespa > F guêpe, Picard wèpe, Wallon wèsse, all 'wasp' (influenced by OLF *wapsa; ≠ Occitan vèspa, Italian vespa, Spanish avispa) L viscus > F gui 'mistletoe' (influenced by OLF *wīhsila 'morello' with analogous fruits, when they are not ripe; ≠ Occitan vesc, Italian vischio) LL vulpiculu 'fox kit' (from L vulpes 'fox') > OF golpilz, Picard woupil 'fox' (influenced by OLF *wulf 'wolf'; ≠ Occitan volpìlh, Old Italian volpiglio, Spanish vulpeja 'vixen')In contrast, the Italian, Portuguese and Spanish words of Germanic origin borrowed from French or directly from Germanic retain /gw/ ~ /g/, e.g.
+It, Sp.
+guerra 'war', alongside /g/ in French guerre).
+These examples show a clear consequence of bilingualism, that sometimes even changed the first syllable of the Latin words.
+One example of a Latin word influencing an Old Low Franconian loan is framboise 'raspberry', from OF frambeise, from OLF *brāmbesi 'blackberry' (cf.
+Dutch braambes, braambezie; akin to German Brombeere, English dial.
+bramberry) blended with LL fraga or OF fraie 'strawberry', which explains the replacement [b] > [f] and in turn the final -se of framboise added to OF fraie to make freise, modern fraise (≠ Wallon frève, Occitan fraga, Romanian fragă, Italian fragola, fravola 'strawberry').Mildred Pope (1934) estimated that perhaps still 15% of the vocabulary of modern French derives from Germanic sources (while the proportion was larger in Old French, because the Middle-French language borrowed heavily from Latin and Italian).
+Earliest written Old French  At the Third Council of Tours in 813, priests were ordered to preach in the vernacular language (either Romance or Germanic), since the common people could no longer understand formal Latin.
+The earliest documents said to be written in the Gallo-Romance that prefigures French – after the Reichenau and Kassel glosses (8th and 9th centuries) – are the Oaths of Strasbourg (treaties and charters into which King Charles the Bald entered in 842):  Pro Deo amur et pro Christian poblo et nostro commun salvament, d'ist di en avant, in quant Deus savir et podir me dunat, si salvarai eo cist meon fradre Karlo, et in aiudha et in cadhuna cosa ... (For the love of God and for the Christian people, and our common salvation, from this day forward, as God will give me the knowledge and the power, I will defend my brother Charles with my help in everything ...) The second-oldest document in Old French is the Eulalia sequence, which is important for linguistic reconstruction of Old French pronunciation due to its consistent spelling.
+The royal House of Capet, founded by Hugh Capet in 987, inaugurated the development of northern French culture in and around Île-de-France, which slowly but firmly asserted its ascendency over the more southerly areas of Aquitaine and Tolosa (Toulouse); however, The Capetians' langue d'oïl, the forerunner of modern standard French, did not begin to become the common speech of all of France until after the French Revolution.
+Transition to Middle French   In the Late Middle Ages, the Old French dialects diverged into a number of distinct langues d'oïl, among which Middle French proper was the dialect of the Île-de-France region.
+During the Early Modern period, French was established as the official language of the Kingdom of France throughout the realm, including the langue d'oc-speaking territories in the south.
+It was only in the 17th to 18th centuries – with the development especially of popular literature of the Bibliothèque bleue – that a standardized Classical French spread throughout France alongside the regional dialects.
+Literature   The material and cultural conditions in France and associated territories around the year 1100 triggered what Charles Homer Haskins termed the "Renaissance of the 12th century", resulting in a profusion of creative works in a variety of genres.
+Old French gave way to Middle French in the mid-14th century, paving the way for early French Renaissance literature of the 15th century.
+The earliest extant French literary texts date from the ninth century, but very few texts before the 11th century have survived.
+The first literary works written in Old French were saints' lives.
+The Canticle of Saint Eulalie, written in the second half of the 9th century, is generally accepted as the first such text.
+At the beginning of the 13th century, Jean Bodel, in his Chanson de Saisnes, divided medieval French narrative literature into three subject areas: the Matter of France or Matter of Charlemagne; the Matter of Rome (romances in an ancient setting); and the Matter of Britain (Arthurian romances and Breton lais).
+The first of these is the subject area of the chansons de geste ("songs of exploits" or "songs of (heroic) deeds"), epic poems typically composed in ten-syllable assonanced (occasionally rhymed) laisses.
+More than one hundred chansons de geste have survived in around three hundred manuscripts.
+The oldest and most celebrated of the chansons de geste is The Song of Roland (earliest version composed in the late 11th century).
+Bertrand de Bar-sur-Aube in his Girart de Vienne set out a grouping of the chansons de geste into three cycles: the Geste du roi centering on Charlemagne, the Geste de Garin de Monglane (whose central character was William of Orange), and the Geste de Doon de Mayence or the "rebel vassal cycle", the most famous characters of which were Renaud de Montauban and Girart de Roussillon.
+A fourth grouping, not listed by Bertrand, is the Crusade cycle, dealing with the First Crusade and its immediate aftermath.
+Jean Bodel's other two categories—the "Matter of Rome" and the "Matter of Britain"—concern the French romance or roman.
+Around a hundred verse romances survive from the period 1150–1220.
+From around 1200 on, the tendency was increasingly to write the romances in prose (many of the earlier verse romances were adapted into prose versions), although new verse romances continued to be written to the end of the 14th century.The most important romance of the 13th century is the Romance of the Rose, which breaks considerably from the conventions of the chivalric adventure story.
+Medieval French lyric poetry was indebted to the poetic and cultural traditions in Southern France and Provence—including Toulouse, Poitiers, and the Aquitaine region—where langue d'oc was spoken (Occitan language); in their turn, the Provençal poets were greatly influenced by poetic traditions from the Hispano-Arab world.
+The Occitan or Provençal poets were called troubadours, from the word trobar "to find, to invent".
+Lyric poets in Old French are called trouvères.
+By the late 13th century, the poetic tradition in France had begun to develop in ways that differed significantly from the troubadour poets, both in content and in the use of certain fixed forms.
+The new poetic (as well as musical: some of the earliest medieval music has lyrics composed in Old French by the earliest composers known by name) tendencies are apparent in the Roman de Fauvel in 1310 and 1314, a satire on abuses in the medieval church, filled with medieval motets, lais, rondeaux and other new secular forms of poetry and music (mostly anonymous, but with several pieces by Philippe de Vitry, who would coin the expression ars nova to distinguish the new musical practice from the music of the immediately preceding age).
+The best-known poet and composer of ars nova secular music and chansons of the incipient Middle French period was Guillaume de Machaut.
+Discussions about the origins of non-religious theater (théâtre profane) – both drama and farce—in the Middle Ages remain controversial, but the idea of a continuous popular tradition stemming from Latin comedy and tragedy to the 9th century seems unlikely.
+Most historians place the origin of medieval drama in the church's liturgical dialogues and "tropes".
+Mystery plays were eventually transferred from the monastery church to the chapter house or refectory hall and finally to the open air, and the vernacular was substituted for Latin.
+In the 12th century one finds the earliest extant passages in French appearing as refrains inserted into liturgical dramas in Latin, such as a Saint Nicholas (patron saint of the student clercs) play and a Saint Stephen play.
+An early French dramatic play is Le Jeu d'Adam (c. 1150) written in octosyllabic rhymed couplets with Latin stage directions (implying that it was written by Latin-speaking clerics for a lay public).
+A large body of fables survive in Old French; these include (mostly anonymous) literature dealing with the recurring trickster character of Reynard the Fox.
+Marie de France was also active in this genre, producing the Ysopet (Little Aesop) series of fables in verse.
+Related to the fable was the more bawdy fabliau, which covered topics such as cuckolding and corrupt clergy.
+These fabliaux would be an important source for Chaucer and for the Renaissance short story (conte or nouvelle).
+Phonology   Old French was constantly changing and evolving; however, the form in the late 12th century, as attested in a great deal of mostly poetic writings, can be considered standard.
+The writing system at this time was more phonetic than that used in most subsequent centuries.
+In particular, all written consonants (including final ones) were pronounced, except for s preceding non-stop consonants and t in et, and final e was pronounced [ə].
+The phonological system can be summarised as follows:    Consonants  Notes:  All obstruents (plosives, fricatives and affricates) were subject to word-final devoicing, which was usually indicated in the orthography.
+The affricates /ts/, /dz/, /tʃ/, /dʒ/ became fricatives ([s], [z], [ʃ], [ʒ]) in Middle French.
+/ts/ had three spellings – c before e or i, ç before other vowels, or z at the end of a word – as seen in cent, chançon, priz ("a hundred, song, price").
+/dz/ was written as z, as in doze "twelve", and did not occur word-initially.
+/ʎ/ (l mouillé), as in conseil, travaillier ("advice, to work"), became /j/ in Modern French.
+/ɲ/ appeared not only in the middle of a word, but also at the end, as in poing "fist".
+At the end of a word, /ɲ/ was later lost, leaving a nasalized vowel.
+/h/ was found only in Germanic loanwords and was later lost (although it is transphonologized as the so-called aspirated h that blocks liaison).
+In native Latin words, /h/ was lost early on, as in om, uem, from Latin homō.
+Intervocalic /d/ from both Latin /t/ and /d/ was lenited to [ð] in the early period (cf.
+contemporary Spanish: amado [aˈmaðo]).
+At the end of words it was also devoiced to [θ].
+In some texts it was sometimes written as dh or th (aiudha, cadhuna, Ludher, vithe).
+By 1100 it disappeared altogether.
+Vowels  In Old French, the nasal vowels were not separate phonemes but only allophones of the oral vowels before a nasal consonant.
+The nasal consonant was fully pronounced; bon was pronounced [bõn] (Modern French [bɔ̃]).
+Nasal vowels were present even in open syllables before nasals where Modern French has oral vowels, as in bone [bõnə] (Modern French bonne [bɔn]).
+Monophthongs  Notes:  /o/ had formerly existed but then closed to /u/; the original Western Romance /u/ having previously been fronted to /y/ across most of what is now France and northern Italy.
+/o/ would later appear again when /aw/ monophthongized and also when /ɔ/ closed in certain positions (such as when it was followed by original /s/ or /z/ but not by /ts/, which later became /s/).
+/õ/ may have similarly become closed to /ũ/, in at least in some dialects, since it was borrowed into Middle English as /uːn/ > /aʊn/ (Latin computāre > OF conter > English count; Latin rotundum > OF ront > English round; Latin bonitātem > OF bonté > English bounty).
+In any case, traces of such a change were erased in later stages of French, when the close nasal vowels /ĩ ỹ õ~ũ/ were opened to become /ɛ̃ œ̃ ɔ̃/.
+/ə̃/ may have existed in the unstressed third-person plural verb ending -ent, but it may have already passed to /ə/, which is known to have happened no later than the Middle French period.
+Diphthongs and triphthongs  Notes:  In Early Old French (up to about the mid-12th century), the spelling ⟨ai⟩ represented a diphthong /aj/ instead of the later monophthong /ɛ/, and ⟨ei⟩ represented the diphthong /ej/, which merged with /oj/ in Late Old French (except when it was nasalized).
+In Early Old French, the diphthongs described above as "rising" may have been falling diphthongs (/ie̯/, /yj/, /ue̯/).
+In earlier works with vowel assonance, the diphthong written ⟨ie⟩ did not assonate with any pure vowels, which suggests that it cannot have simply been /je/.
+The pronunciation of the vowels written ⟨ue⟩ and ⟨eu⟩ is debated.
+In the first records of Early Old French, they represented and were written as /uo/, /ou/, and by Middle French, they had both merged as /ø ~ œ/, but the transitional pronunciations are unclear.
+Early Old French had additional triphthongs /iej/ and /uoj/ (equivalent to diphthongs followed by /j/); these soon merged into /i/ and /ɥi/ respectively.
+The diphthong ⟨iu⟩ was rare and had merged into ⟨ui⟩ by Middle French (OF tiule > MF tuile 'tile'; OF siure > Late OF suire > MF suivre 'follow').
+Hiatus  In addition to diphthongs, Old French had many instances of hiatus between adjacent vowels because of the loss of an intervening consonant.
+Manuscripts generally do not distinguish hiatus from true diphthongs, but modern scholarly transcription indicates it with a diaeresis, as in Modern French:  Latin audīre > OF oïr /uˈir/ 'hear' (Modern ouïr) Vulgar Latin *vidūta > OF veüe /vəˈy.ə/ 'seen' (Modern vue) Latin rēgīnam > OF reïne, /rəˈinə/ 'queen' (Modern reine) Latin pāgēnsem > OF païs /paˈis/ 'country' (Modern pays) Latin augustum > OF aoust /aˈu(s)t/ 'August' (Modern août) Latin patellam > OF paelle /paˈɛlə/ 'pan' (Modern poêle) Late Latin quaternum > OF quaïer /kwaˈjer/ 'booklet, quire' (Modern cahier) Late Latin aetāticum > OF aage, eage /aˈad͡ʒə/ ~ /əˈad͡ʒə/ 'age' (Modern âge)    Grammar     Nouns  Old French maintained a two-case system, with a nominative case and an oblique case, for longer than some other Romance languages as Spanish and Italian did.
+Case distinctions, at least in the masculine gender, were marked on both the definite article and the noun itself.
+Thus, the masculine noun li veisins "the neighbour" (Latin vicīnus /wɪˈkiːnʊs/ > Proto-Western-Romance *vecínos /veˈt͡sinos/ > OF veisins /vejˈzĩns/; Modern French le voisin /vwazɛ̃/) was declined as follows:  In later Old French, the distinctions had become moribund.
+As in most other Romance languages, it was the oblique case form that usually survived to become the Modern French form: l'enfant "the child" represents the old oblique (Latin accusative īnfāntem); the Old French nominative was li enfes (Latin īnfāns).
+There are some cases with significant differences between nominative and oblique forms (derived from Latin nouns with a stress shift between the nominative and other cases) in which either it is the nominative form that survives or both forms survive with different meanings:  Both OFr li sire, le sieur (Latin seiior, seiiōrem) and le seignor (nom.
+†sendre; Latin senior, seniōrem) survive in the vocabulary of later French (sire, sieur, seigneur) as different ways to refer to a feudal lord.
+Modern French sœur "sister" is the nominative form (Old French suer < Latin nominative soror); the Old French oblique form seror (< Latin accusative sorōrem) no longer survives.
+Modern French prêtre "priest" is the nominative form (Old French prestre < presbyter); the Old French oblique form prevoire, later provoire (< presbyterem) survives only in the Paris street name Rue des Prouvaires.
+Modern French indefinite pronoun on "one" continues Old French nominative hom "man" (< homō); homme "man" continues the oblique form (OF home < hominem).In a few cases in which the only distinction between forms was the nominative -s ending, the -s was preserved in spelling to distinguish otherwise-homonymous words.
+An example is fils "son" (< Latin nominative fīlius), spelled to distinguish it from fil "wire".
+In this case, a later spelling pronunciation has resulted in the modern pronunciation /fis/ (earlier /fi/).
+As in Spanish and Italian, the neuter gender was eliminated, and most old neuter nouns became masculine.
+Some Latin neuter plurals were reanalysed as feminine singulars: Latin gaudium was more widely used in the plural form gaudia, which was taken for a singular in Vulgar Latin and ultimately led to modern French la joie, "joy" (feminine singular).
+Nouns were declined in the following declensions:  Class I is derived from the Latin first declension.
+Class Ia mostly comes from Latin feminine nouns in the third declension.
+Class II is derived from the Latin second declension.
+Class IIa generally stems from second-declension nouns ending in -er and from third-declension masculine nouns; in both cases, the Latin nominative singular did not end in -s, which is preserved in Old French.
+The classes show various analogical developments: -es from the accusative instead of -∅ (-e after a consonant cluster) in Class I nominative plural (Latin -ae), li pere instead of *li peres (Latin illi patres) in Class IIa nominative plural, modelled on Class II, etc.
+Class III nouns show a separate form in the nominative singular that does not occur in any of the other forms.
+IIIa nouns ended in -ātor, -ātōrem in Latin and preserve the stress shift; IIIb nouns also had a stress shift, from -ō to -ōnem.
+IIIc nouns are an Old French creation and have no clear Latin antecedent.
+IIId nouns represent various other types of third-declension Latin nouns with stress shift or a change of consonant (soror, sorōrem; īnfāns, īnfāntem; presbyter, presbyterem; seiior, seiiōrem; comes, comitem).
+Regular feminine forms of masculine nouns are formed by adding an -e to the masculine stem unless the masculine stem already ends in -e. For example, bergier (shepherd) becomes bergiere (Modern French berger and bergère).
+Adjectives  Adjectives agree in terms of number, gender and case with the noun that they are qualifying.
+Thus, a feminine plural noun in the nominative case requires any qualifying adjectives to be feminine, plural and nominative.
+For example, in femes riches, riche has to be in the feminine plural form.
+Adjectives can be divided into three declensional classes: Class I corresponding roughly to Latin 1st- and 2nd-declension adjectives Class II corresponding roughly to Latin 3rd-declension adjectives Class III containing primarily the descendants of Latin synthetic comparative forms in -ior, -iōrem.Class I adjectives have a feminine singular form (nominative and oblique) ending in -e. They can be further subdivided into two subclasses, based on the masculine nominative singular form.
+Class Ia adjectives have a masculine nominative singular ending in -s:  bon "good" (< Latin bonus, > modern French bon)For Class Ib adjectives, the masculine nominative singular ends in -e, like the feminine.
+There are descendants of Latin second- and third-declension adjectives ending in -er in the nominative singular:  aspre "harsh" (< Latin asper, > modern French âpre)For Class II adjectives, the feminine singular is not marked by the ending -e:  granz "big, great" (< Latin grandis, > modern French grand)An important subgroup of Class II adjectives is the present participial forms in -ant.
+Class III adjectives have a stem alternation, resulting from stress shift in the Latin third declension and a distinct neuter form:   mieudre "better" (< Latin melior, > modern French meilleur)In later Old French, Classes II and III tended to be moved across to Class I, which was complete by Middle French.
+Modern French thus has only a single adjective declension, unlike most other Romance languages, which have two or more.
+Verbs  Verbs in Old French show the same extreme phonological deformations as other Old French words; however, morphologically, Old French verbs are extremely conservative in preserving intact most of the Latin alternations and irregularities that had been inherited in Proto-Romance.
+Old French has much less analogical reformation than Modern French has and significantly less than the oldest stages of other languages (such as Old Spanish) despite the fact that the various phonological developments in Gallo-Romance and Proto-French led to complex alternations in the majority of commonly-used verbs.
+For example, the Old French verb laver "to wash" (Latin lavāre) is conjugated je lef, tu leves, il leve in the present indicative and je lef, tu les, il let in the present subjunctive, in both cases regular phonological developments from Latin indicative lavō, lavās, lavat and subjunctive lavem, lavēs, lavet.
+The following paradigm is typical in showing the phonologically regular but morphologically irregular alternations of most paradigms:  The alternation je lef ~ tu leves is a regular result of the final devoicing triggered by loss of final /o/ but not /a/.
+The alternation laver ~ tu leves is a regular result of the diphthongization of a stressed open syllable /a/ into /ae/ > /æ/ > /e/.
+The alternation je lef ~ tu les ~ il let in the subjunctive is a regular result of the simplification of the final clusters /fs/ and /ft/, resulting from loss of /e/ in final syllables.Modern French, on the other hand, has je lave, tu laves, il lave in both indicative and subjunctive, reflecting significant analogical developments: analogical borrowing of unstressed vowel /a/, analogical -e in the first singular (from verbs like j'entre, with a regular -e ) and wholesale replacement of the subjunctive with forms modelled on -ir/-oir/-re verbs.
+All serve to eliminate the various alternations in the Old French verb paradigm.
+Even modern "irregular" verbs are not immune from analogy: For example, Old French je vif, tu vis, il vit (vivre "to live") has yielded to modern je vis, tu vis, il vit, eliminating the unpredictable -f in the first-person singular.
+The simple past also shows extensive analogical reformation and simplification in Modern French, as compared with Old French.
+The Latin pluperfect was preserved in very early Old French as a past tense with a value similar to a preterite or imperfect.
+For example, the Sequence of Saint Eulalia (878 AD) has past-tense forms such as avret (< Latin habuerat), voldret (< Latin voluerat), alternating with past-tense forms from the Latin perfect (continued as the modern "simple past").
+Old Occitan also preserved this tense, with a conditional value; Spanish still preserves this tense (the -ra imperfect subjunctive), as does Portuguese (in its original value as a pluperfect indicative).
+Verb alternations  In Latin, stress was determined automatically by the number of syllables in a word and the weight (length) of the syllables.
+That resulted in certain automatic stress shifts between related forms in a paradigm, depending on the nature of the suffixes added.
+For example, in pensō "I think", the first syllable was stressed, but in pensāmus "we think", the second syllable was stressed.
+In many Romance languages, vowels diphthongized in stressed syllables under certain circumstances but not in unstressed syllables, resulting in alternations in verb paradigms: Spanish pienso "I think" vs. pensamos "we think" (pensar "to think"), or cuento "I tell" vs. contamos "we tell" (contar "to tell").
+In the development of French, at least five vowels diphthongized in stressed, open syllables.
+Combined with other stress-dependent developments, that yielded 15 or so types of alternations in so-called strong verbs in Old French.
+For example, /a/ diphthongized to /ai/ before nasal stops in stressed, open syllables but not in unstressed syllables, yielding aim "I love" (Latin amō) but amons "we love" (Latin amāmus).
+The different types are as follows:  In Modern French, the verbs in the -er class have been systematically levelled.
+Generally, the "weak" (unstressed) form predominates, but there are some exceptions (such as modern aimer/nous aimons).
+The only remaining alternations are in verbs like acheter/j'achète and jeter/je jette, with unstressed /ə/ alternating with stressed /ɛ/ and in (largely-learned) verbs like adhérer/j'adhère, with unstressed /e/ alternating with stressed /ɛ/.
+Many of the non-er verbs have become obsolete, and many of the remaining verbs have been levelled;  however, a few alternations remain in what are now known as irregular verbs, such as je tiens, nous tenons; je dois, nous devons and je meurs, nous mourons.
+Some verbs had a more irregular alternation between different-length stems, with a longer, stressed stem alternating with a shorter, unstressed stem.
+That was a regular development stemming from the loss of unstressed intertonic vowels, which remained when they were stressed:  j'aiu/aidier "help" < adiūtō, adiūtāre j'araison/araisnier "speak to" < adratiōnō, adratiōnāre je deraison/deraisnier "argue" < dēratiōnō, dēratiōnāre je desjun/disner "dine" < disiēiūnō, disiēiūnāre je manju/mangier "eat" < mandūcō, mandūcāre je parol/parler "speak" < *paraulō, *paraulāre < parabolō, parabolāreThe alternation of je desjun, disner is particularly complicated; it appears that disiēiūnāre > Western Romance /desjejuˈnare > /desjejˈnare/ (preliminary intertonic loss) > /desiˈnare/ (triphthong reduction) > /disiˈnare/ (metaphony) > /disˈner/ (further intertonic loss and other proto-French developments).
+Both stems have become full verbs in Modern French: déjeuner "to have lunch" and dîner "to dine".
+Furthermore, déjeuner does not derive directly from je desjun (< *disi(ēi)ūnō, with total loss of unstressed -ēi-).
+Instead, it comes from Old French desjeüner, based on the alternative form je desjeün (< *disiē(i)ūnō, with loss of only -i-, likely influenced by jeûner "to fast" < Old French jeüner < je jeün /d͡ʒe.ˈyn/ "I fast" < iē(i)ūnō: iē- is an initial rather than intertonic so the vowel -ē- does not disappear).
+Example of regular -er verb: durer (to last)  Non-finite forms:  Infinitive: durer Present participle: durant Past Participle: duréAuxiliary verb: avoir    Example of regular -ir verb: fenir (to end)  Non-finite forms:  Infinitive: fenir Present participle: fenissant Past participle: feni(t)Auxiliary verb: avoir    Example of regular -re verb: corre (to run)  Non-finite forms:  Infinitive: corre Present participle: corant Past participle: coru(t)Auxiliary verb: estre    Examples of auxiliary verbs     avoir (to have)  Non-finite forms:  Infinitive: avoir (earlier aveir) Present participle: aiant Past participle: eü(t)Auxiliary verb: avoir    estre (to be)  Non-finite forms:  Infinitive: estre Present participle: estant Past participle: esté(t)Auxiliary verb: avoir    Other parts of speech  Adverbs, prepositions, conjunctions and interjections are generally invariable, one notable exception being the adverb tot, like Modern French tout: all, every.
+See also  Influence of French on English Bartsch's law Anglo-Norman literature History of French History of the English language Languages of France    References     Other sources  Ayres-Bennett, Wendy (1995).
+A History of the French Language through Texts.
+London/New York: Routledge.
+Banniard, Michel (1997).
+Du latin aux langues romanes.
+Paris: Nathan.
+de la Chaussée, François (1977).
+Initiation à la morphologie historique de l'ancien français.
+Paris: Klincksieck.
+ISBN 978-2-252-01922-1.
+Cole, William (2005).
+First and Otherwise Notable Editions of Old French Texts Printed from 1742 to 1874: A Bibliographical Catalogue of My Collection.
+Sitges: Cole & Contreras.
+Delamarre, X.; P.-Y.
+Lambert (2003).
+Dictionnaire de la langue gauloise : Une approche linguistique du vieux-celtique continental (2nd ed.).
+Paris: Errance.
+ISBN 978-2-87772-237-7.
+Einhorn, E. (1974).
+Old French: A Concise Handbook.
+Cambridge: Cambridge University Press.
+ISBN 978-0-521-20343-2.
+Kibler, William (1984).
+An Introduction to Old French.
+New York: Modern Language Association of America.
+Kinoshita, Sharon (2006).
+Medieval Boundaries: Rethinking Difference in Old French Literature.
+University of Pennsylvania Press.CS1 maint: refharv (link) Lanly, André (2002).
+Morphologie historique des verbes français.
+Paris: Champion.
+ISBN 978-2-7453-0822-1.
+Lodge, R. Anthony (1993).
+French: From Dialect to Standard.
+London/New York: Routledge.
+Moignet, Gérard (1988).
+Grammaire de l'ancien français (2nd ed.).
+Paris: Klincksieck.
+ISBN 9782252015094.
+Pope, Mildred K. (1934).
+From Latin to Modern French with Especial Consideration of Anglo-Norman Phonology and Morphology.
+Manchester: Manchester University Press.
+Zink, Gaston (1999).
+Phonétique historique du français (6th ed.).
+Paris: PUF.
+ISBN 978-2-13-046471-6.
+Zink, Gaston (1992).
+Morphologie du français médiéval (2nd ed.).
+Paris: PUF.
+ISBN 978-2-13-044766-5.
+External links  An introduction to old French François Frédéric Roget (1887) Old French Online by Brigitte L.M.
+Bauer and Jonathan Slocum, free online lessons at the Linguistics Research Center at the University of Texas at Austin DÉCT- (Electronic Dictionary of Chretien de Troyes) : complete lexicon and transcriptions of the five romances of this Old French author.
+University of Ottawa - CNRS.
+Du Bellay, Joachim (1549).
+La Défense, et illustration de la langue française.
+Paris: Arnoul L'Angelier.

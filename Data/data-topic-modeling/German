@@ -1,0 +1,528 @@
+Informatik ist die „Wissenschaft von der systematischen Darstellung, Speicherung, Verarbeitung und Übertragung von Informationen, besonders der automatischen Verarbeitung mit Digitalrechnern“.
+Historisch hat sich die Informatik einerseits aus der Mathematik als Strukturwissenschaft entwickelt, andererseits als Ingenieursdisziplin aus dem praktischen Bedarf nach der schnellen und insbesondere automatischen Ausführung von Berechnungen.
+Entwicklung der Informatik     Ursprung  Bereits Leibniz hatte sich mit binären Zahlendarstellungen beschäftigt.
+Gemeinsam mit der Booleschen Algebra, die zuerst 1847 von George Boole ausgearbeitet wurde, bilden sie die wichtigsten mathematischen Grundlagen späterer Rechensysteme.
+1937 veröffentlicht Alan Turing seine Arbeit On Computable Numbers with an application to the Entscheidungsproblem, in welcher die nach ihm benannte Turingmaschine vorgestellt wird, ein mathematisches Maschinenmodell, das bis heute für die Theoretische Informatik von größter Bedeutung ist.
+Dem Begriff der Berechenbarkeit liegen bis heute universelle Modelle, wie die Turingmaschine und die Komplexitätstheorie zu Grunde, die sich ab den 1960er Jahren zu entwickeln begann.
+Die Berechenbarkeit greift bis in die Gegenwart auf Varianten dieser Modelle zurück.
+Etymologie  Das Wort Informatik entstand durch das Anhängen der Endung -ik an den Wortstamm von Information.
+Geprägt wurde die Bezeichnung Informatik von Karl Steinbuch und kann auf seine erste Publikation „Informatik: Automatische Informationsverarbeitung“ von 1957 zurückgeführt werden.
+Um die Bedeutung der Automation oder Mathematik für die Informatik zu betonen, wird Informatik manchmal auch als Kofferwort aus Information und Automatik oder Information und Mathematik ausgegeben.Nach einem internationalen Kolloquium in Dresden am 26. Februar 1968 setzte sich Informatik als Bezeichnung für die Wissenschaft nach französischem und russischem Vorbild auch im deutschen Sprachraum durch.
+Im Juli des gleichen Jahres wurde der Begriff Informatik erstmals als deutscher Name für ein neu einzurichtendes Studienfach in einer Berliner Rede des Ministers Gerhard Stoltenberg verwendet.
+Während im englischen Sprachraum die Bezeichnung Computer Science üblich ist, konnte sich die deutsche Entsprechung Computerwissenschaften nicht durchsetzen.
+Jedoch wird der Ausdruck Informatics im Englischen für bestimmte Teile der Angewandten Informatik verwendet – etwa im Falle der Bioinformatics oder der Geoinformatics.
+Bei Übersetzungen ins Englische wird im deutschen Sprachraum teilweise die Bezeichnung Informatics gegenüber Computer Science bevorzugt.
+Entwicklung der Informatik zur Wissenschaft   In Deutschland gehen die Anfänge der Informatik auf das Institut für praktische Mathematik (IPM) der Technischen Hochschule Darmstadt (TH Darmstadt) zurück, das der Mathematiker Alwin Walther seit 1928 aufbaute.
+1956 konnten sich die ersten Studenten am Darmstädter Elektronischen Rechenautomaten mit den Problemen von Rechenautomaten befassen.
+Zeitgleich wurden an der TH Darmstadt die ersten Programmiervorlesungen- und praktika angeboten.
+Aufgrund des Renommees, den die TH Darmstadt zu dem Zeitpunkt in der Rechenautomatenforschung hatte, fand der erste, im deutschsprachigen Raum abgehaltene Kongress zum Fachgebiet Informatik (elektronische Rechenmaschinen und Informationsverarbeitung) mit internationaler Beteiligung im Oktober 1955 an der TH Darmstadt statt.
+Deutschland mangelte es in den 1960er Jahren an Wettbewerbsfähigkeit im Gebiet der Datenverarbeitung (DV).
+Um dem entgegenzuwirken, verabschiedete der Bundesausschuss für wissenschaftliche Forschung am 26. April 1967 das Programm für die Förderung der Forschung und Entwicklung auf dem Gebiet der Datenverarbeitung für öffentliche Aufgaben.
+Für die Umsetzung war der sogenannte „Fachbeirat für Datenverarbeitung“ zuständig, der überwiegend aus Vertretern der Hochschulen und außeruniversitären Forschungseinrichtungen bestand.
+Auf der siebten Sitzung des Fachbeirates am 15. November 1967 signalisierte Karl Ganzhorn, der zu dem Zeitpunkt für Forschung und Entwicklung bei IBM Deutschland zuständig war, die Probleme der Industrie, Fachpersonal zu finden.
+Der Direktor des Instituts für Nachrichtenverarbeitung an der TH Darmstadt, Robert Piloty, wies darauf hin, dass die deutschen Hochschulen dafür zuständig seien, qualifiziertes Personal auszubilden.
+Daraufhin bildete sich der Ausschuss „DV-Lehrstühle und -Ausbildung“.
+Den Vorsitz übernahm Piloty.
+Der Ausschuss formulierte Empfehlungen für die Ausbildung von Informatikern, welche die Einrichtung eines Studiengangs der Informatik an mehreren Universitäten und Technischen Hochschulen vorsahen.
+1967 bot die TU München einen Studienzweig Informationsverarbeitung im Rahmen des Mathematikstudiums auf Initiative Friedrich Ludwig Bauers an.
+1968 führte die TH Darmstadt den ersten Informatikstudiengang ein.
+1969 folgte der Studiengang "Datentechnik (Technische Informatik)" und 1970 ein Mathematikstudiengang, der mit dem Grad "Diplomingenieur im Fach Mathematik mit Schwerpunkt Informatik" abschloss.
+Am 1. September 1969 begann die Technische Universität Dresden als erste Hochschule der DDR mit der Ausbildung von Dipl.-Ing.
+für Informationsverarbeitung.
+Ebenfalls 1969 begann die Ingenieurschule Furtwangen (später Fachhochschule Furtwangen) mit der Ausbildung, hier noch Informatorik genannt.
+Im Wintersemester 1969/70 bot die Universität Karlsruhe (heute Karlsruher Institut für Technologie) als erste bundesdeutsche Hochschule ein Informatikstudium an, der mit dem Grad "Diplom-Informatiker" abschloss.
+Die Johannes Kepler Universität (JKU) Linz startete im Wintersemester 1969/70 als erste österreichische Universität mit der Studienrichtung Informatik und der Ausbildung zum Diplomingenieur.
+Im Wintersemester 1970/71 folgte die Technische Universität Wien.
+Wenige Jahre darauf gründeten sich die ersten Fakultäten für Informatik, nachdem bereits seit 1962 an der Purdue University ein Department of Computer Science bestanden hatte.
+Heute wird die Informatik weder eindeutig als ingenieurwissenschaftliche noch als mathematisch-naturwissenschaftliche Disziplin eingeordnet, sondern als eine Disziplin, die beides verbindet.
+Organisationen  Die Gesellschaft für Informatik (GI) wurde 1969 gegründet und ist die größte Fachvertretung im deutschsprachigen Raum.
+International bedeutend sind vor allem die beiden großen amerikanischen Vereinigungen Association for Computing Machinery (ACM) seit 1947 und das Institute of Electrical and Electronics Engineers (IEEE) seit 1963.
+Die bedeutendste deutschsprachige Organisation, die sich mit ethischen und gesellschaftlichen Effekten der Informatik auseinandersetzt ist, das Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung.
+Rechenmaschinen – Vorläufer des Computers   Als erste Vorläufer der Informatik jenseits der Mathematik können die Bestrebungen angesehen werden, zwei Arten von Maschinen zu entwickeln: solche, mit deren Hilfe mathematische Berechnungen ausgeführt oder vereinfacht werden können („Rechenmaschinen“), und solche, mit denen logische Schlüsse gezogen und Argumente überprüft werden können („Logische Maschinen“).
+Als einfache Rechengeräte leisteten Abakus und später der Rechenschieber unschätzbare Dienste.
+1641 konstruierte Blaise Pascal eine mechanische Rechenmaschine, die Additionen und Subtraktionen inklusive Überträgen durchführen konnte.
+Nur wenig später stellte Gottfried Wilhelm Leibniz eine Rechenmaschine vor, die alle vier Grundrechenarten beherrschte.
+Diese Maschinen basieren auf ineinandergreifenden Zahnrädern.
+Einen Schritt in Richtung größerer Flexibilität ging ab 1838 Charles Babbage, der eine Steuerung der Rechenoperationen mittels Lochkarten anstrebte.
+Erst Herman Hollerith war dank dem technischen Fortschritt ab 1886 in der Lage, diese Idee gewinnbringend umzusetzen.
+Seine auf Lochkarten basierenden Zählmaschinen wurden unter anderem bei der Auswertung einer Volkszählung in den USA eingesetzt.
+Die Geschichte der logischen Maschinen wird oft bis ins 13. Jahrhundert zurückverfolgt und auf Ramon Llull zurückgeführt.
+Auch wenn seine rechenscheibenähnlichen Konstruktionen, bei denen mehrere gegeneinander drehbare Scheiben unterschiedliche Begriffskombinationen darstellen konnten, mechanisch noch nicht sehr komplex waren, war er wohl derjenige, der die Idee einer logischen Maschine bekannt gemacht hat.
+Von diesem sehr frühen Vorläufer abgesehen, verläuft die Geschichte logischer Maschinen eher sogar zeitversetzt zu jener der Rechenmaschinen: Auf 1777 datiert ein rechenschieberähnliches Gerät des dritten Earl Stanhope, dem zugeschrieben wird, die Gültigkeit von Syllogismen (im aristotelischen Sinn) zu prüfen.
+Eine richtige „Maschine“ ist erstmals in der Gestalt des „Logischen Pianos“ von Jevons für das späte 19. Jahrhundert überliefert.
+Nur wenig später wurde die Mechanik durch elektromechanische und elektrische Schaltungen abgelöst.
+Ihren Höhepunkt erlebten die logischen Maschinen in den 1940er und 1950er Jahren, zum Beispiel mit den Maschinen des englischen Herstellers Ferranti.
+Mit der Entwicklung universeller digitaler Computer nahm – im Gegensatz zu den Rechenmaschinen – die Geschichte selbständiger logischen Maschinen ein jähes Ende, indem die von ihnen bearbeiteten und gelösten Aufgaben zunehmend in Software auf genau jenen Computern realisiert wurden, zu deren hardwaremäßigen Vorläufern sie zu zählen sind.
+Entwicklung moderner Rechenmaschinen   Eine der ersten größeren Rechenmaschinen ist die von Konrad Zuse erstellte, noch immer rein mechanisch arbeitende Z1 von 1937.
+Vier Jahre später realisierte Zuse seine Idee mittels elektrischer Relais: Die Z3 von 1941 trennte als weltweit erster funktionsfähiger frei programmierbarer Digitalrechner bereits Befehls- und Datenspeicher und Ein-/Ausgabepult.
+Etwas später wurden in England die Bemühungen zum Bau von Rechenmaschinen zum Knacken von deutschen Geheimbotschaften unter maßgeblicher Leitung von Alan Turing (Turingbombe) und von Thomas Flowers (Colossus) mit großem Erfolg vorangetrieben.
+Parallel entwickelte Howard Aiken mit Mark I (1944) den ersten programmgesteuerten Relaisrechner der USA, wo die weitere Entwicklung maßgeblich vorangetrieben wurde.
+Weitere Relaisrechner entstanden in den Bell-Labors (George Stibitz).
+Als erster Röhrenrechner gilt der Atanasoff-Berry-Computer.
+Einer der Hauptakteure ist hier John von Neumann, nach dem die bis heute bedeutende Von-Neumann-Architektur benannt ist.
+1946 erfolgte die Entwicklung des Röhrenrechners ENIAC, 1949 wurde der EDSAC gebaut.
+Ab 1948 stieg IBM in die Entwicklung von Computern ein und wurde innerhalb von zehn Jahren Marktführer.
+Mit der Entwicklung der Transistortechnik und der Mikroprozessortechnik wurden Computer von dieser Zeit an immer leistungsfähiger und preisgünstiger.
+Im Jahre 1982 öffnete die Firma Commodore schließlich mit dem C64 den Massenmarkt speziell für Heimanwender, aber auch weit darüber hinaus.
+Programmiersprachen   Bedeutsam für die Entwicklung der Programmiersprachen war die Erfindung der "automatischen Programmierung" durch Heinz Rutishauser (1951).
+1956 beschrieb Noam Chomsky eine Hierarchie formaler Grammatiken, mit denen formale Sprachen und jeweils spezielle Maschinenmodelle korrespondieren.
+Diese Formalisierungen erlangten für die Entwicklung der Programmiersprachen große Bedeutung.
+Wichtige Meilensteine waren die Entwicklung von Fortran (aus englisch: "FORmula TRANslation", Formelübersetzung; erste höhere Programmiersprache, 1957), ALGOL (aus englisch: "ALGOrithmic Language", Algorithmensprache; strukturiert/imperativ; 1958/1960/1968), Lisp (aus englisch: "LISt Processing", Verarbeitung von Listen; funktional, 1959), COBOL (aus englisch: "COmmon Business Orientated Language", Programmiersprache für kaufmännische Anwendungen, 1959), Smalltalk (objektorientiert, 1971), Prolog (logisch, 1972) und SQL (Relationale Datenbanken, 1976).
+Einige dieser Sprachen stehen für typische Programmierparadigmen ihrer jeweiligen Zeit.
+Weitere über lange Zeit in der Praxis eingesetzte Programmiersprachen sind BASIC (seit 1960), C (seit 1970), Pascal (seit 1971), Objective-C (objektorientiert, 1984), C++ (objektorientiert, generisch, multi-paradigma, seit 1985), Java (objektorientiert, seit 1995) und C# (objektorientiert, um 2000).
+Sprachen und Paradigmenwechsel wurden von der Informatik-Forschung intensiv begleitet oder vorangetrieben.
+Wie bei anderen Wissenschaften gibt es auch einen zunehmenden Trend zur Spezialisierung.
+Disziplinen der Informatik   Die Informatik unterteilt sich in die Teilgebiete der Theoretischen Informatik, der Praktischen Informatik und der Technischen Informatik.
+Die Anwendungen der Informatik in den verschiedenen Bereichen des täglichen Lebens sowie in anderen Fachgebieten, wie beispielsweise der Wirtschaftsinformatik, Geoinformatik und Medizininformatik werden unter dem Begriff der Angewandten Informatik geführt.
+Auch die Auswirkungen auf die Gesellschaft werden interdisziplinär untersucht.
+Die Theoretische Informatik bildet die theoretische Grundlage für die anderen Teilgebiete.
+Sie liefert fundamentale Erkenntnisse für die Entscheidbarkeit von Problemen, für die Einordnung ihrer Komplexität und für die Modellierung von Automaten und Formalen Sprachen.
+Auf diese Erkenntnisse stützen sich Disziplinen der Praktischen und der Technischen Informatik.
+Sie beschäftigen sich mit zentralen Problemen der Informationsverarbeitung und suchen anwendbare Lösungen.
+Die Resultate finden schließlich Verwendung in der Angewandten Informatik.
+Diesem Bereich sind Hardware- und Software-Realisierungen zuzurechnen und damit ein Großteil des kommerziellen IT-Marktes.
+In den interdisziplinären Fächern wird darüber hinaus untersucht, wie die Informationstechnik Probleme in anderen Wissenschaftsgebieten lösen kann, wie beispielsweise die Entwicklung von Geodatenbanken für die Geographie, aber auch die Wirtschafts- oder Bioinformatik.
+Theoretische Informatik  Als Rückgrat der Informatik befasst sich das Gebiet der Theoretischen Informatik mit den abstrakten und mathematikorientierten Aspekten der Wissenschaft.
+Das Gebiet ist breit gefächert und beschäftigt sich unter anderem mit Themen aus der theoretischen Linguistik (Theorie formaler Sprachen bzw. Automatentheorie), Berechenbarkeits- und Komplexitätstheorie.
+Ziel dieser Teilgebiete ist es, fundamentale Fragen wie „Was kann berechnet werden?“ und „Wie effektiv/effizient kann man etwas berechnen?“ umfassend zu beantworten.
+Automatentheorie und Formale Sprachen   Automaten sind in der Informatik „gedachte Maschinen“, die sich nach bestimmten Regeln verhalten.
+Ein endlicher Automat hat eine endliche Menge von inneren Zuständen.
+Er liest ein „Eingabewort“ zeichenweise ein und führt bei jedem Zeichen einen Zustandsübergang durch.
+Zusätzlich kann er bei jedem Zustandsübergang ein „Ausgabesymbol“ ausgeben.
+Nach Ende der Eingabe kann der Automat das Eingabewort akzeptieren oder ablehnen.
+Der Ansatz der formalen Sprachen hat seinen Ursprung in der Linguistik und eignet sich daher gut zur Beschreibung von Programmiersprachen.
+Formale Sprachen lassen sich aber auch durch Automatenmodelle beschreiben, da die Menge aller von einem Automaten akzeptierten Wörter als formale Sprache betrachtet werden kann.
+Kompliziertere Modelle verfügen über einen Speicher, zum Beispiel Kellerautomaten oder die Turingmaschine, welche gemäß der Church-Turing-These alle durch Menschen berechenbaren Funktionen nachbilden kann.
+Berechenbarkeitstheorie  Im Rahmen der Berechenbarkeitstheorie untersucht die theoretische Informatik, welche Probleme mit welchen Maschinen lösbar sind.
+Ein Rechnermodell oder eine Programmiersprache heißt Turing-vollständig, wenn damit eine universelle Turingmaschine simuliert werden kann.
+Alle heute eingesetzten Computer und die meisten Programmiersprachen sind Turing-vollständig, das heißt man kann damit dieselben Aufgaben lösen.
+Auch alternative Berechnungsmodelle wie der Lambda-Kalkül, WHILE-Programme, μ-rekursive Funktionen oder Registermaschinen stellten sich als Turing-vollständig heraus.
+Aus diesen Erkenntnissen entwickelte sich die Church-Turing-These, die zwar formal nicht beweisbar ist, jedoch allgemein akzeptiert wird.
+Den Begriff der Entscheidbarkeit kann man veranschaulichen als die Frage, ob ein bestimmtes Problem algorithmisch lösbar ist.
+Ein entscheidbares Problem ist zum Beispiel die Eigenschaft eines Texts, ein syntaktisch korrektes Programm zu sein.
+Ein nicht-entscheidbares Problem ist zum Beispiel die Frage, ob ein gegebenes Programm mit gegebenen Eingabeparametern jemals zu einem Ergebnis kommt, was als Halteproblem bezeichnet wird.
+Komplexitätstheorie  Die Komplexitätstheorie befasst sich mit dem Ressourcenbedarf von algorithmisch behandelbaren Problemen auf verschiedenen mathematisch definierten formalen Rechnermodellen, sowie der Güte der sie lösenden Algorithmen.
+Insbesondere werden die Ressourcen „Laufzeit“ und „Speicherplatz“ untersucht und ihr Bedarf wird üblicherweise in der Landau-Notation dargestellt.
+In erster Linie werden die Laufzeit und der Speicherplatzbedarf in Abhängigkeit von der Länge der Eingabe notiert.
+Algorithmen, die sich höchstens durch einen konstanten Faktor in ihrer Laufzeit bzw. ihrem Speicherbedarf unterscheiden, werden durch die Landau-Notation derselben Klasse, d. h. einer Menge von Problemen mit äquivalenter vom Algorithmus für die Lösung benötigter Laufzeit, zugeordnet.
+Ein Algorithmus, dessen Laufzeit von der Eingabelänge unabhängig ist, arbeitet „in konstanter Zeit“, man schreibt                                                 O                             (         1         )                 {\displaystyle {\mathcal {O}}(1)}   .
+Beispielsweise wird das Programm „gib das erste Element einer Liste zurück“ in konstanter Zeit arbeiten.
+Das Programm „prüfe, ob ein bestimmtes Element in einer unsortierten Liste der Länge n enthalten ist“ braucht „lineare Zeit“, also                                                 O                             (         n         )                 {\displaystyle {\mathcal {O}}(n)}   , denn die Eingabeliste muss schlimmstenfalls genau einmal gelesen werden.
+Die Komplexitätstheorie liefert bisher fast nur obere Schranken für den Ressourcenbedarf von Problemen, denn Methoden für exakte untere Schranken sind kaum entwickelt und nur von wenigen Problemen bekannt (so zum Beispiel für die Aufgabe, eine Liste von Werten mit Hilfe einer gegebenen Ordnungsrelation durch Vergleiche zu sortieren, die untere Schranke                         Ω         (         n         log         ⁡         (         n         )         )                 {\displaystyle \Omega (n\log(n))}   ).
+Dennoch gibt es Methoden, besonders schwierige Probleme als solche zu klassifizieren, wobei die Theorie der NP-Vollständigkeit eine zentrale Rolle spielt.
+Demnach ist ein Problem besonders schwierig, wenn man durch dessen Lösung auch automatisch die meisten anderen natürlichen Probleme lösen kann, ohne dafür wesentlich mehr Ressourcen zu verwenden.
+Die größte offene Frage in der Komplexitätstheorie ist die Frage nach „P  NP?“.
+Das Problem ist eines der Millennium-Probleme, die vom Clay Mathematics Institute mit einer Million US-Dollar ausgeschrieben sind.
+Wenn P nicht gleich NP ist, können NP-vollständige Probleme nicht effizient gelöst werden.
+Theorie der Programmiersprachen  Dieser Bereich beschäftigt sich mit der Theorie, Analyse, Charakterisierung und Implementierung von Programmiersprachen und wird sowohl in der praktischen als auch der theoretischen Informatik aktiv erforscht.
+Das Teilgebiet beeinflusst stark angrenzende Fachbereiche wie Teile der Mathematik und der Linguistik.
+Theorie der formalen Methoden  Die Theorie der formalen Methoden beschäftigt sich mit einer Vielzahl an Techniken zur formalen Spezifikation und Verifikation von Software- und Hardwaresystemen.
+Die Motivation für dieses Gebiet entstammt dem ingenieurwissenschaftlichen Denken – eine strenge mathematische Analyse hilft, die Zuverlässigkeit und Robustheit eines Systems zu verbessern.
+Diese Eigenschaften sind insbesondere bei Systemen, die in sicherheitskritischen Bereichen arbeiten, von großer Bedeutung.
+Die Erforschung solcher Methoden erfordert unter anderem Kenntnisse aus der mathematischen Logik und der formalen Semantik.
+Praktische Informatik  Die Praktische Informatik entwickelt grundlegende Konzepte und Methoden zur Lösung konkreter Probleme in der realen Welt, beispielsweise der Verwaltung von Daten in Datenstrukturen oder der Entwicklung von Software.
+Einen wichtigen Stellenwert hat dabei die Entwicklung von Algorithmen.
+Beispiele dafür sind Sortier- und Suchalgorithmen.
+Eines der zentralen Themen der praktischen Informatik ist die Softwaretechnik (auch Softwareengineering genannt).
+Sie beschäftigt sich mit der systematischen Erstellung von Software.
+Es werden auch Konzepte und Lösungsvorschläge für große Softwareprojekte entwickelt, die einen wiederholbaren Prozess von der Idee bis zur fertigen Software erlauben sollen.
+Ein wichtiges Thema der Praktischen Informatik ist der Compilerbau, der auch in der Theoretischen Informatik untersucht wird.
+Ein Compiler ist ein Programm, das andere Programme aus einer Quellsprache (beispielsweise Java oder C++) in eine Zielsprache übersetzt.
+Ein Compiler ermöglicht es einem Menschen, Software in einer abstrakteren Sprache zu entwickeln als in der von der CPU verwendeten Maschinensprache.
+Ein Beispiel für den Einsatz von Datenstrukturen ist der B-Baum, der in Datenbanken und Dateisystemen das schnelle Suchen in großen Datenbeständen erlaubt.
+Technische Informatik  Die Technische Informatik befasst sich mit den hardwareseitigen Grundlagen der Informatik, wie etwa Mikroprozessortechnik, Rechnerarchitektur, eingebetteten und Echtzeitsystemen, Rechnernetzen samt der zugehörigen systemnahen Software, sowie den hierfür entwickelten Modellierungs- und Bewertungsmethoden.
+Mikroprozessortechnik, Rechnerentwurfsprozess  Die Mikroprozessortechnik wird durch die schnelle Entwicklung der Halbleitertechnik dominiert.
+Die Strukturbreiten im Nanometerbereich ermöglichen die Miniaturisierung von hochkomplexen Schaltkreisen mit mehreren Milliarden Einzelbauelementen.
+Diese Komplexität ist nur mit ausgereiften Entwurfswerkzeugen und leistungsfähigen Hardwarebeschreibungssprachen zu beherrschen.
+Der Weg von der Idee zum fertigen Produkt führt über viele Stufen, die weitgehend rechnergestützt sind und ein hohes Maß an Exaktheit und Fehlerfreiheit sichern.
+Werden wegen hoher Anforderungen an die Leistungsfähigkeit Hardware und Software gemeinsam entworfen, so spricht man auch von Hardware-Software-Codesign.
+Architekturen  Die Rechnerarchitektur bzw. Systemarchitektur ist das Fachgebiet, das Konzepte für den Bau von Computern bzw. Systemen erforscht.
+Bei der Rechnerarchitektur wird z.
+B. das Zusammenspiel von Prozessoren, Arbeitsspeicher sowie Steuereinheiten (Controller) und Peripherie definiert und verbessert.
+Das Forschungsgebiet orientiert sich dabei sowohl an den Anforderungen der Software als auch an den Möglichkeiten, die sich über die Weiterentwicklung von Integrierten Schaltkreisen ergeben.
+Ein Ansatz ist dabei rekonfigurierbare Hardware wie z.
+B. FPGAs (Field Programmable Gate Arrays), deren Schaltungsstruktur an die jeweiligen Anforderungen angepasst werden kann.
+Aufbauend auf der Architektur der sequentiell arbeitenden Von-Neumann-Maschine, bestehen heutige Rechner in der Regel aus einem Prozessor, der selbst wieder mehrere Prozessorkerne, Speicher-Controller und eine ganze Hierarchie von Cache-Speichern enthalten kann, einem als Direktzugriffsspeicher (Random-Access Memory, RAM) ausgelegten Arbeitsspeicher (Primärspeicher) und Ein/Ausgabe-Schnittstellen unter anderem zu Sekundärspeichern (z.
+B. Festplatte oder SSD-Speicher).
+Durch die vielen Einsatzgebiete ist heute ein weites Spektrum von Prozessoren im Einsatz, das von einfachen Mikrocontrollern, z.
+B. in Haushaltsgeräten über besonders energieeffiziente Prozessoren in mobilen Geräten wie Smartphones oder Tabletcomputern bis hin zu intern parallel arbeitenden Hochleistungsprozessoren in Personal Computern und Servern reicht.
+Parallelrechner gewinnen an Bedeutung, bei denen Rechenoperationen auf mehreren Prozessoren gleichzeitig ausgeführt werden können.
+Der Fortschritt der Chiptechnik ermöglicht heute schon die Realisierung einer großen Zahl (gegenwärtige Größenordnung 100…1000) von Prozessorkernen auf einem einzigen Chip (Mehrkernprozessoren, Multi/Manycore-Systeme, „System-on-a-Chip“ (SoCs)).
+Ist der Rechner in ein technisches System eingebunden und verrichtet dort weitgehend unsichtbar für den Benutzer Aufgaben wie Steuerung, Regelung oder Überwachung, spricht man von einem eingebetteten System.
+Eingebettete Systeme sind in einer Vielzahl von Geräten des Alltags wie Haushaltsgeräten, Fahrzeugen, Geräten der Unterhaltungselektronik, Mobiltelefonen, aber auch in industriellen Systemen z.
+B. in der Prozessautomation oder der Medizintechnik im Einsatz.
+Da eingebettete Computer immerzu und überall verfügbar sind, spricht man auch von allgegenwärtigem oder ubiquitärem Rechnen (Ubiquitous computing).
+Immer häufiger sind diese Systeme vernetzt, z.
+B. mit dem Internet („Internet of Things“).
+Netzwerke von interagierenden Elementen mit physikalischer Eingabe von und Ausgabe zu ihrer Umwelt werden auch als Cyber-Physical Systems bezeichnet.
+Ein Beispiel sind drahtlose Sensornetze zur Umweltüberwachung.
+Echtzeitsysteme sind darauf ausgelegt, dass sie auf bestimmte zeitkritisch ablaufende Prozesse der Außenwelt mit angemessener Reaktionsgeschwindigkeit rechtzeitig antworten können.
+Dies setzt voraus, dass die Ausführungszeit der Antwortprozesse entsprechende vorgegebene Zeitschranken garantiert nicht überschreitet.
+Viele eingebettete Systeme sind auch Echtzeitsysteme.
+Eine zentrale Rolle bei allen Mehrrechnersystemen spielt die Rechnerkommunikation.
+Diese ermöglicht den elektronischen Datenaustausch zwischen Computern und stellt damit die technische Grundlage des Internets dar.
+Neben der Entwicklung von Routern, Switches oder Firewalls, gehört hierzu auch die Entwicklung der Softwarekomponenten, die zum Betrieb dieser Geräte nötig ist.
+Dies schließt insbesondere die Definition und Standardisierung von Netzwerkprotokollen, wie TCP, HTTP oder SOAP, ein.
+Protokolle sind dabei die Sprachen, in denen Rechner untereinander Information austauschen.
+Bei Verteilten Systemen arbeitet eine große Zahl von Prozessoren ohne gemeinsamen Speicher zusammen.
+Üblicherweise regeln Prozesse, die über Nachrichten miteinander kommunizieren, die Zusammenarbeit von einzelnen weitgehend unabhängigen Computern in einem Verbund (Cluster).
+Schlagworte in diesem Zusammenhang sind beispielsweise Middleware, Grid-Computing und Cloud Computing.
+Modellierung und Bewertung  Als Basis für die Bewertung der genannten Architekturansätze sind – wegen der generellen Komplexität solcher Systemlösungen – spezielle Modellierungsmethoden entwickelt worden, um Bewertungen bereits vor der eigentlichen Systemrealisierung durchführen zu können.
+Besonders wichtig ist dabei zum einen die Modellierung und Bewertung der resultierenden Systemleistung, z.
+B. anhand von Benchmark-Programmen.
+Als Methoden zur Leistungsmodellierung sind z.
+B. Warteschlangenmodelle, Petri-Netze und spezielle verkehrstheoretische Modelle entwickelt worden.
+Vielfach wird insbesondere bei der Prozessorentwicklung auch Computersimulation eingesetzt.
+Neben der Leistung können auch andere Systemeigenschaften auf der Basis der Modellierung studiert werden; z.
+B. spielt gegenwärtig auch der Energieverbrauch von Rechnerkomponenten eine immer größere, zu berücksichtigende Rolle.
+Angesichts des Wachstums der Hardware- und Softwarekomplexität sind außerdem Probleme der Zuverlässigkeit, Fehlerdiagnose und Fehlertoleranz, insbesondere bei sicherheitskritischen Anwendungen, von großer Bedeutung.
+Hier gibt es entsprechende, meist auf Verwendung redundanter Hardware- bzw. Softwareelemente basierende Lösungsmethoden.
+Beziehungen zu anderen Informatikgebieten und weiteren Fachdisziplinen  Die Technische Informatik hat enge Beziehungen zu anderen Gebieten der Informatik und den Ingenieurwissenschaften.
+Sie baut auf der Elektronik und Schaltungstechnik auf, wobei digitale Schaltungen im Vordergrund stehen (Digitaltechnik).
+Für die höheren Softwareschichten stellt sie die Schnittstellen bereit, auf denen wiederum diese Schichten aufbauen.
+Insbesondere über eingebettete Systeme und Echtzeitsysteme gibt es enge Beziehungen zu angrenzenden Gebieten der Elektrotechnik und des Maschinenbaus wie Steuerungs-, Regelungs- und Automatisierungstechnik sowie zur Robotik.
+Informatik in interdisziplinären Wissenschaften  Unter dem Sammelbegriff der Angewandten Informatik „fasst man das Anwenden von Methoden der Kerninformatik in anderen Wissenschaften … zusammen“.
+Rund um die Informatik haben sich einige interdisziplinäre Teilgebiete und Forschungsansätze entwickelt, teilweise zu eigenen Wissenschaften.
+Beispiele:    Computational sciences  Dieses interdisziplinäre Feld beschäftigt sich mit der computergestützten Analyse, Modellierung und Simulation von naturwissenschaftlichen Problemen und Prozessen.
+Entsprechend den Naturwissenschaften wird hier unterschieden:  Die Bioinformatik (englisch bioinformatics, auch computational biology) befasst sich mit den informatischen Grundlagen und Anwendungen der Speicherung, Organisation und Analyse biologischer Daten.
+Die ersten reinen Bioinformatikanwendungen wurden für die DNA-Sequenzanalyse entwickelt.
+Dabei geht es primär um das schnelle Auffinden von Mustern in langen DNA-Sequenzen und die Lösung des Problems, wie man zwei oder mehr ähnliche Sequenzen so übereinander legt und gegeneinander ausrichtet, dass man eine möglichst optimale Übereinstimmung erzielt (sequence alignment).
+Mit der Aufklärung und weitreichenden Funktionsanalyse verschiedener vollständiger Genome (z.
+B. des Fadenwurms Caenorhabditis elegans) verlagert sich der Schwerpunkt bioinformatischer Arbeit auf Fragestellungen der Proteomik, wie z.
+B. dem Problem der Proteinfaltung und Strukturvorhersage, also der Frage nach der Sekundär- oder Tertiärstruktur bei gegebener Aminosäuresequenz.
+Die Biodiversitätsinformatik umfasst die Speicherung und Verarbeitung von Informationen zur biologischen Vielfalt.
+Während die Bioinformatik sich mit Nucleinsäuren und Proteinen beschäftigt, sind die Objekte der Biodiversitätsinformatik Taxa, biologische Sammlungsbelege und Beobachtungsdaten.
+Künstliches Leben (englisch Artificial life) wurde 1986 als interdisziplinäre Forschungsdisziplin etabliert.
+Die Simulation natürlicher Lebensformen mit Software- (soft artificial life) und Hardwaremethoden (hard artificial life) ist ein Hauptziel dieser Disziplin.
+Anwendungen für künstliches Leben gibt es heute unter anderem in der synthetischen Biologie, im Gesundheitssektor und der Medizin, in der Ökologie, bei autonomen Robotern, im Transport- und Verkehrssektor, in der Computergrafik, für virtuelle Gesellschaften und bei Computerspielen.Die Chemoinformatik (englisch chemoinformatics, cheminformatics oder chemiinformatics) bezeichnet einen Wissenschaftszweig, der das Gebiet der Chemie mit Methoden der Informatik verbindet und umgekehrt.
+Sie beschäftigt sich mit der Suche im chemischen Raum welcher aus virtuellen (in silico) oder realen Molekülen besteht.
+Die Größe des chemischen Raumes wird auf etwa 1062 Moleküle geschätzt und ist weit größer als die Menge der bisher real synthetisierten Moleküle.
+Somit lassen sich unter Umständen Millionen von Molekülen mit Hilfe solcher Computer-Methoden in silico testen, ohne diese explizit mittels Methoden der Kombinatorischen Chemie oder Synthese im Labor erzeugen zu müssen.
+Ingenieurinformatik, Maschinenbauinformatik  Die Ingenieurinformatik, englisch auch als Computational Engineering Science bezeichnet, ist eine interdisziplinäre Lehre an der Schnittstelle zwischen den Ingenieurwissenschaften, der Mathematik und der Informatik an den Fachbereichen Elektrotechnik, Maschinenbau, Verfahrenstechnik, Systemtechnik.
+Die Maschinenbauinformatik beinhaltet im Kern die virtuelle Produktentwicklung (Produktionsinformatik) mittels Computervisualistik, sowie die Automatisierungstechnik.
+Wirtschaftsinformatik, Informationsmanagement  Die Wirtschaftsinformatik (englisch (business) information systems, auch management information systems) ist eine „Schnittstellen-Disziplin“ zwischen der Informatik und den Wirtschaftswissenschaften, besonders der Betriebswirtschaftslehre.
+Sie hat sich durch ihre Schnittstellen zu einer eigenständigen Wissenschaft entwickelt.
+Ein Schwerpunkt der Wirtschaftsinformatik liegt auf der Abbildung von Geschäftsprozessen und der Buchhaltung in relationalen Datenbanksystemen und Enterprise-Resource-Planning-Systemen.
+Das Information Engineering der Informationssysteme und das Informationsmanagement spielen im Rahmen der Wirtschaftsinformatik eine gewichtige Rolle.
+Entwickelt wurde dies an der Fachhochschule Furtwangen bereits 1971.
+Ab 1974 richteten die damalige TH Darmstadt, die Johannes-Kepler-Universität Linz und die TU Wien einen Studiengang Wirtschaftsinformatik ein.
+Sozioinformatik  Die Sozioinformatik befasst sich mit den Auswirkungen von IT-Systemen auf die Gesellschaft, wie sie z.
+B.
+Organisationen und Gesellschaft in ihrer Organisation unterstützen, aber auch wie die Gesellschaft auf die Entwicklung von sozial eingebetteten IT-Systemen einwirkt, sei es als Prosumenten auf kollaborativen Plattformen wie der Wikipedia, oder mittels rechtlicher Einschränkungen, um beispielsweise Datensicherheit zu garantieren.
+Sozialinformatik  Die Sozialinformatik befasst sich zum einen mit dem IT-Betrieb in sozialen Organisationen, zum anderen mit Technik und Informatik als Instrument der Sozialen Arbeit, wie zum Beispiel beim Ambient Assisted Living.
+Medieninformatik  Die Medieninformatik hat die Schnittstelle zwischen Mensch und Maschine als Schwerpunkt und befasst sich mit der Verbindung von Informatik, Psychologie, Arbeitswissenschaft, Medientechnik, Mediengestaltung und Didaktik.
+Computerlinguistik  In der Computerlinguistik wird untersucht, wie natürliche Sprache mit dem Computer verarbeitet werden kann.
+Sie ist ein Teilbereich der Künstlichen Intelligenz, aber auch gleichzeitig Schnittstelle zwischen Angewandter Linguistik und Angewandter Informatik.
+Verwandt dazu ist auch der Begriff der Kognitionswissenschaft, die einen eigenen interdisziplinären Wissenschaftszweig darstellt, der u. a. Linguistik, Informatik, Philosophie, Psychologie und Neurologie verbindet.
+Anwendungsgebiete der Computerlinguistik sind die Spracherkennung und -synthese, automatische Übersetzung in andere Sprachen und Informationsextraktion aus Texten.
+Umweltinformatik, Geoinformatik  Die Umweltinformatik beschäftigt sich interdisziplinär mit der Analyse und Bewertung von Umweltsachverhalten mit Mitteln der Informatik.
+Schwerpunkte sind die Verwendung von Simulationsprogrammen, Geographische Informationssysteme (GIS) und Datenbanksysteme.
+Die Geoinformatik (englisch geoinformatics) ist die Lehre des Wesens und der Funktion der Geoinformation und ihrer Bereitstellung in Form von Geodaten und mit den darauf aufbauenden Anwendungen auseinander.
+Sie bildet die wissenschaftliche Grundlage für Geoinformationssysteme (GIS).
+Allen Anwendungen der Geoinformatik gemeinsam ist der Raumbezug und fallweise dessen Abbildung in kartesische räumliche oder planare Darstellungen im Bezugssystem.
+Andere Informatikdisziplinen  Weitere Schnittstellen der Informatik zu anderen Disziplinen gibt es in der Informationswirtschaft, Medizinischen Informatik, Logistikinformatik, Pflegeinformatik und der Rechtsinformatik, Informationsmanagement (Verwaltungsinformatik, Betriebsinformatik), Architekturinformatik (Bauinformatik) sowie der Agrarinformatik, Archäoinformatik, Sportinformatik, sowie neue interdisziplinäre Richtungen wie beispielsweise das Neuromorphic Engineering.
+Die Zusammenarbeit mit der Mathematik oder der Elektrotechnik wird aufgrund der Verwandtschaft nicht als interdisziplinär bezeichnet.
+Mit dem Informatikunterricht, besonders an Schulen, befasst sich die Didaktik der Informatik.
+Die Elementarinformatik beschäftigt sich mit der Vermittlung von grundlegenden Informatikkonzepten im Vorschul- und Grundschulbereich.
+Künstliche Intelligenz   Die Künstliche Intelligenz (KI) ist ein großes Teilgebiet der Informatik mit starken Einflüssen aus Logik, Linguistik, Neurophysiologie und Kognitionspsychologie.
+Dabei unterscheidet sich die KI in der Methodik zum Teil erheblich von der klassischen Informatik.
+Statt eine vollständige Lösungsbeschreibung vorzugeben, wird in der Künstlichen Intelligenz die Lösungsfindung dem Computer selbst überlassen.
+Ihre Verfahren finden Anwendung in Expertensystemen, in der Sensorik und Robotik.
+Im Verständnis des Begriffs „Künstliche Intelligenz“ spiegelt sich oft die aus der Aufklärung stammende Vorstellung vom Menschen als Maschine wider, dessen Nachahmung sich die sogenannte „starke KI“ zum Ziel setzt: eine Intelligenz zu erschaffen, die wie der Mensch nachdenken und Probleme lösen kann und die sich durch eine Form von Bewusstsein beziehungsweise Selbstbewusstsein sowie Emotionen auszeichnet.
+Die Umsetzung dieses Ansatzes erfolgte durch Expertensysteme, die im Wesentlichen die Erfassung, Verwaltung und Anwendung einer Vielzahl von Regeln zu einem bestimmten Gegenstand (daher „Experten“) leisten.
+Im Gegensatz zur starken KI geht es der „schwachen KI“ darum, konkrete Anwendungsprobleme zu meistern.
+Insbesondere sind dabei solche Anwendungen von Interesse, zu deren Lösung nach allgemeinem Verständnis eine Form von „Intelligenz“ notwendig scheint.
+Letztlich geht es der schwachen KI somit um die Simulation intelligenten Verhaltens mit Mitteln der Mathematik und der Informatik; es geht ihr nicht um Schaffung von Bewusstsein oder um ein tieferes Verständnis der Intelligenz.
+Ein Beispiel aus der schwachen KI ist die Fuzzylogik.
+Neuronale Netze gehören ebenfalls in diese Kategorie – seit Anfang der 1980er Jahre analysiert man unter diesem Begriff die Informationsarchitektur des (menschlichen oder tierischen) Gehirns.
+Die Modellierung in Form künstlicher neuronaler Netze illustriert, wie aus einer sehr einfachen Grundstruktur eine komplexe Mustererkennung geleistet werden kann.
+Gleichzeitig wird deutlich, dass diese Art von Lernen nicht auf der Herleitung von logisch oder sprachlich formulierbaren Regeln beruht – und somit etwa auch die besonderen Fähigkeiten des menschlichen Gehirns innerhalb des Tierreichs nicht auf einen regel- oder sprachbasierten „Intelligenz“-Begriff reduzierbar sind.
+Die Auswirkungen dieser Einsichten auf die KI-Forschung, aber auch auf Lerntheorie, Didaktik und andere Gebiete werden noch diskutiert.
+Während die starke KI an ihrer philosophischen Fragestellung bis heute scheiterte, sind auf der Seite der schwachen KI Fortschritte erzielt worden.
+Informatik und Gesellschaft   „Informatik und Gesellschaft“ (IuG) ist ein Teilbereich der Wissenschaft Informatik und erforscht die Rolle der Informatik auf dem Weg zur Informationsgesellschaft.
+Die dabei untersuchten Wechselwirkungen der Informatik umfassen die unterschiedlichsten Aspekte.
+Ausgehend von historischen, sozialen, kulturellen Fragen betrifft dies ökonomische, politische, ökologische, ethische, didaktische und selbstverständlich technische Aspekte.
+Die entstehende global vernetzte Informationsgesellschaft wird für die Informatik als zentrale Herausforderung gesehen, in der sie als technische Grundlagenwissenschaft eine definierende Rolle spielt und diese reflektieren muss.
+IuG ist dadurch gekennzeichnet, dass eine interdisziplinäre Herangehensweise, insbesondere mit den Geisteswissenschaften, aber auch z.
+B. mit den Rechtswissenschaften notwendig ist.
+Siehe auch   Liste bedeutender Personen für die Informatik Gesellschaft für Informatik, Österreichische Computer Gesellschaft, Schweizer Informatik Gesellschaft Informatikstudium    Literatur  Herbert Bruderer: Meilensteine der Rechentechnik.
+Band 1: Mechanische Rechenmaschinen, Rechenschieber, historische Automaten und wissenschaftliche Instrumente, 2., stark erw.
+Auflage, Walter de Gruyter, Berlin/Boston 2018, ISBN 978-3-11-051827-6.
+Heinz-Peter Gumm, Manfred Sommer: Einführung in die Informatik.
+10.
+Auflage.
+Oldenbourg, München 2012, ISBN 978-3-486-70641-3.
+A. K. Dewdney: Der Turing Omnibus: Eine Reise durch die Informatik mit 66 Stationen.
+Übersetzt von P. Dobrowolski.
+Springer, Berlin 1995, ISBN 3-540-57780-7.
+Hans Dieter Hellige (Hrsg.
+): Geschichten der Informatik.
+Visionen, Paradigmen, Leitmotive.
+Berlin, Springer 2004, ISBN 3-540-00217-0.
+Jan Leeuwen: Theoretical Computer Science.
+Springer, Berlin 2000, ISBN 3-540-67823-9.
+Peter Rechenberg, Gustav Pomberger (Hrsg.
+): Informatik-Handbuch.
+3.
+Auflage.
+Hanser 2002, ISBN 3-446-21842-4.
+Vladimiro Sassone: Foundations of Software Science and Computation Structures.
+Springer, Berlin 2005, ISBN 3-540-25388-2.
+Uwe Schneider, Dieter Werner (Hrsg.
+): Taschenbuch der Informatik.
+6.
+Auflage.
+Fachbuchverlag, Leipzig 2007, ISBN 978-3-446-40754-1.
+Gesellschaft für Informatik: Was ist Informatik?
+Positionspapier der Gesellschaft für Informatik.
+(PDF, ca.
+600 kB) Bonn 2005., oder Was ist Informatik?
+Kurzfassung.
+(PDF; rund 85 kB).
+Les Goldschlager, Andrew Lister: Informatik – Eine moderne Einführung.
+Carl Hanser, Wien 1986, ISBN 3-446-14549-4.
+Arno Schulz: Informatik für Anwender.
+de Gruyter Verlag, Berlin, New York 1973, ISBN 3-11-002051-3.
+Horst Völz: Das ist Information.
+Shaker Verlag, Aachen 2017.
+ISBN 978-3-8440-5587-0.
+Horst Völz: Wie wir wissend wurden.
+Nicht Alles ist Information.
+Shaker Verlag, Aachen 2018.
+ISBN 978-3-8440-5865-9.
+Weblinks   Linkkatalog zum Thema Informatik-Fachbereiche an Hochschulen bei curlie.org (ehemals DMOZ) Gesellschaft für Informatik (GI) Schweizer Informatik Gesellschaft (SI) Informatik für Lehrerinnen und Lehrer im ZUM-Wiki einstieg-informatik.de    Einzelnachweise  Der Kuchen gehört zu den feinen Backwaren.
+Es handelt sich um ein zumeist süßes Backwerk.
+Man unterscheidet vor allem nach der Art der Herstellung Blechkuchen sowie Kuchen, die in einer Backform gebacken werden.
+Im Gegensatz zu einer Torte wird ein Belag oder eine Füllung nicht nach dem Backen zugesetzt, sondern mitgebacken.
+Umgangssprachlich wird dieser Unterschied nicht immer strikt eingehalten, es werden also auch gewisse Kuchen als Torten bezeichnet (z.
+B. Quarktorte, Bündner Nusstorte, Linzer Torte).
+Zum Teil wird der Kuchen nach dem Backen glasiert.
+Herzhafte Kuchen sind Zwiebelkuchen, Flammkuchen, Speckkuchen und Quiche.
+Allgemeines   Der Kuchenteig besteht je nach Rezept aus Mehl, Zucker, Bindemittel (z.
+B. Ei) sowie Fett (Butter oder Margarine), einer Flüssigkeit (Milch, Wasser oder Fruchtsaft), Aromen (z.
+B. Backaroma) und einem Triebmittel (Backpulver oder Hefe), die miteinander vermengt werden.
+Wichtige Teigarten sind Hefeteig, Mürbeteig (Knetteig) und Rührteig.
+Bäckereien und Konditoreien bieten Kuchen stückweise oder als Backblecheinheiten an.
+In Supermärkten gibt es von Großbäckereien hergestellte Kuchen.
+Das Backen von Kuchen ist vor allem in Europa und Nordamerika traditionell verbreitet, während es auf anderen Kontinenten nur eine untergeordnete Rolle spielt; in Asien sind fast ausschließlich Reiskuchen bekannt.
+In China haben außerdem die Mondkuchen eine besondere Bedeutung.
+In Europa wird Kuchen traditionell nachmittags zu Kaffee und Kuchen oder zum Sonntagskaffee verzehrt.
+Häufig wird Kuchen zu Geburtstagsfeiern oder zu besonderen Anlässen gebacken.
+Verschiedene Gerichte oder Backwaren, die den Kuchenbegriff im Namen tragen, wie Pfannkuchen (Eierspeisen), auch der Berliner Pfannkuchen als Siedegebäck, Schmandkuchen oder die regional als Erdbeerkuchen bezeichnete Erdbeertorte, zählen nicht zu den Kuchen.
+Auch der Kalte Hund oder Kellerkuchen, der nicht im eigentlichen Sinne gebacken, aber zumeist als „Kuchen“ serviert wird, ist demnach ein Dessert oder auch Süßspeise, ähnlich wie Tiramisu.
+Geschichte  Im antiken Griechenland war plakous das Wort für Kuchen und hatte denselben Stamm wie das Wort für flach (verwandt mit Fladen).
+Im Lateinischen wurde daraus placenta, was heute in abgewandelter und übertragener Bedeutung der Begriff für Mutterkuchen ist, und im Deutschen Plätzchen.
+Im zweiten Jahrhundert v. Chr. beschrieb Cato einen Kuchen, der dem modernen Käsekuchen ähnelte.
+Die Römer verwendeten in der Antike bereits Hefe zum Backen.
+Im Mittelalter war der verbreitetste Kuchen eine Art süßes Brot oder Früchtebrot.
+Feines Gebäck kam erst mit der Verbreitung feinen Zuckers seit dem 16. Jahrhundert auf; in diese Zeit fällt die Einführung des Biskuitteigs.
+Spätestens im 17. Jahrhundert wurden frühe Modelle der Springform zum Backen verwendet.
+Im 19. Jahrhundert kamen Speisesoda und Backpulver auf den Markt.
+Neue Zutaten wie Schokolade bzw. Kakao und Vanille wurden erst ab dem 18. Jahrhundert für Kuchen und Torten verwendet.
+Bekannte Kuchen     Weblinks   Planet Wissen: Klassiker der Backgeschichte    Einzelnachweise  Altfranzösisch bezieht sich auf die Oïl-Sprachen als Sammelbezeichnung der Varietäten romanischer Sprachen, die in der nördlichen Hälfte Frankreichs sowie in Teilen Belgiens vom 9. bis etwa zum Ende des 14. Jahrhunderts gesprochen wurden.
+Das Altfranzösische wurde durch das Mittelfranzösische abgelöst.
+Ein erster Hinweis auf die Verwendung einer romanischen Volkssprache in Frankreich findet sich im Jahre 813 in einem Beschluss des Konzils von Tours, in der die Bischöfe aufgefordert werden, durch allgemeinverständliche Predigten die Grundlagen des katholischen Glaubens zu vermitteln.
+„Und er (der Bischof) strebe danach, dieselben Homilien jede für sich verständlich in die landläufige romanische oder deutsche Sprache zu übertragen, damit um so leichter alle verstehen können, was gesagt wird.“ – Et ut easdem omelias quisque aperte transferre studeat in rusticam Romanam linguam aut Thiotiscam, quo facilius cuncti possint intellegere quae dicuntur.
+Abgegrenzt wird damit das an Schriftgebrauch und grammatischem Regelwerk orientierte liturgische Latein von den noch nicht solchem unterworfenen ‚rustikalen‘ Volkssprachen Romanisch und Deutsch (rustica lingua romana bzw. thiotisca).
+Das erste altfranzösische Sprachdokument sind die Straßburger Eide aus dem Jahr 842, in denen sich Karl der Kahle und Ludwig der Deutsche nach dem Tod des Vaters Ludwig des Frommen gegen den erstgeborenen Bruder Lothar verschworen.
+In dem von Nithard überlieferten lateinischen Text sind die Eide, die die Brüder samt Gefolgsleuten in ihrer jeweiligen Volkssprache ‚Romanisch‘ („romana lingua“) und Althochdeutsch („teudisca lingua“) ablegten, ausführlich im Wortlaut zitiert.
+Der romanische Teil gibt einen dem Vulgärlatein noch sehr nahestehenden, aber bereits französischen Text in einer konservativ latinisierenden, am Latein der königlichen Kanzleien orientierten Schreibung mit einigen rein lateinischen Wörtern wieder (Auszug):  Pro Deo amur et pro christian poblo et nostro commun salvament, d’ist di in avant, in quant Deus savir et podir me dunat, si salvarai eo cist meon fradre Karlo, et in aiudha et in cadhuna cosa…Hieraus wird ersichtlich, dass bereits in karolingischer Zeit im westlichen Frankenreich (Francia occidentalis) eine romanische Volkssprache gesprochen wurde.
+Sie zu verwenden, war im Rechtsakt der Eidesleistung erforderlich, damit auch die des Schriftlateinischen unzureichend Kundigen wussten, wessen Inhaltes der Eid war.
+Die altfranzösische Sprache ist die erste in Schriftzeugnissen dokumentierte romanische Sprache überhaupt.
+Die erste altfranzösische Dichtung ist die Merkmale des pikardischen Dialekts aufweisende Eulalia-Sequenz (ca.
+884), ihr folgen weitere religiöse Dichtungen und kirchliche Gebrauchstexte (Jonas-Fragment).
+Mit Beginn der kapetingischen Dynastie 987 verbreitet sich die vom franzischen Dialekt geprägte Sprache allmählich in Frankreich.
+Mit dem 12. Jahrhundert setzt die schriftliche Überlieferung der in ihrer Entstehung jedoch älteren, zum Vortrag durch Spielleute gedachten Heldendichtung, der Chanson de geste ein, zu der bald auch die Lieder der Trouvères, die höfischen Ritter- und Antikenromane, Historiendichtungen und französische Bearbeitungen biblischer Texte und didaktischer Werke hinzutreten.
+Ab dem ausgehenden 12. Jahrhundert findet das Französische auch als Urkundensprache Verwendung, zunächst vorwiegend in Privaturkunden, ab der Mitte des 13. Jahrhunderts neben dem Lateinischen dann auch in Urkunden der königlichen Kanzlei.
+Phonologie     Vokalsystem  Das altfranzösische Vokalsystem geht zunächst auf die nach dem Quantitätenkollaps im 3. Jahrhundert eingetretene Ablösung der lateinischen Vokallängen durch Qualitäten zurück.
+In der Folge wurden vor allem Vokale in freier Stellung (d. h. am Silbenende) diphthongiert, d. h. aus einfachen Vokalen entstanden Doppelvokale, sehr früh entsteht z.
+B. der Diphthong /ou/ aus /o/ (in louer, cour), ebenso entsteht die Nasalisierung von /an/ und /on/, ebenso konnten Diphthonge nasal gesprochen werden wie /aim/, /ain/.
+Konsonanten  Fast alle Konsonanten (und i) vor Vokal wurden im Altfranzösischen palatalisiert, d. h. die Aussprache verschob sich zum Palatum (Vordergaumen) hin.
+Das aus dem intervokalischen /t/ entstandene /d/ wird im Altfranzösischen zu einem „englischen“ stimmhaften th (​/⁠ð⁠/​), bevor dieser Laut vollständig aus der französischen Sprache verschwindet (z.
+B. lat.
+vita > altfrz.
+vida (um 980) > vithe /viðə/ (1050) > vie).
+Graphie  In altfranzösischen Texten unterscheidet sich (wie im Neufranzösischen) die Graphie erheblich von der Aussprache, d. h. es wird teils etymologisierend, teils phonetisch geschrieben.
+Die tatsächliche Aussprache lässt sich im konkreten Fall rekonstruieren aus Reimen wie forest : plaist; fais : apres oder durch die Untersuchung der Wortentlehnungen in andere Sprachen, z.
+B. forest mittelhochdeutsch: foreht; altfranzösisch: chastel, mittelhochdeutsch: tschastel oder auch engl.
+change, chapel, chief.
+In der Schreibung nicht unterschieden wurden im Altfranzösischen das als /ts/ palatalisierte c vor e und i und das weiterhin als /k/ realisierte c vor a, o und u, die Cedille zur Markierung der palatalisierten Aussprache von c vor a, o und u wurde erst im 16. Jahrhundert durch den Buchdruck eingeführt.
+Grammatik     Zweikasussystem  Das morphologische System des Lateinischen verfügte über fünf verschiedene Deklinationsklassen und ein Kasussystem.
+Im Lateinischen gab es eine 1. oder a-Deklination, eine 2. oder o-Deklination, eine 3.
+Deklination (konsonantische Deklination, gemischte Deklination und i-Deklination), eine 4. oder u-Deklination und eine 5. oder e-Deklination.
+Oft glichen sich die Formen in verschiedenen Kasus.
+So konnte die Form rosae (a-Deklination) den Genitiv Singular, den Dativ Singular und den Nominativ Plural bezeichnen.
+Im Altfranzösischen gab es einen Wegfall der Endkonsonanten, insbesondere von -m und -s; es ergaben sich folgende Phänomene:  eine stärkere Fixierung der Syntax die Entwicklung der Artikel, die im klassischen Latein noch unbekannt waren der Gebrauch von Präpositionen für alle ObjektfälleDas Altfranzösische verfügte über ein auf zwei Kasus reduziertes System (eine sog.
+Zweikasusflexion), das eine Unterscheidung zwischen Subjekt und Objekt ermöglichte:  Im Lauf der Sprachentwicklung ersetzte eine typologische Morphologie die bisherige etymologische: Endungslosigkeit wurde generell als Singular, Antritt der Endung -s generell als Plural reinterpretiert, vgl. neufrz.
+mur ‚Mauer‘, aber murs ‚Mauern‘.
+Im Übrigen setzten sich wie auch in anderen romanischen Sprachen weitgehend die Obliquusformen durch, da sie frequenter sind als die Nominativformen, vgl. etwa vulgärlateinisch pax ‚Friede‘ (Nominativ), aber pace(m) (Akkusativ), das ital./ rum.
+pace ergibt; vlat.
+lux ‚Licht‘ (Nominativ), aber luce(m) (Akkusativ), das ital.
+luce ergibt, oder pater ‚Vater‘ (Nominativ), aber patre(m) (Akkusativ), das ital./span.
+padre, altfranz.
+pedre > neufranz.
+père oder altfriaulisch padri > friaulisch pari ergibt.
+Der Wegfall des Zweikasussystems im 14. Jahrhundert durch das vollständige Verstummen der Endkonsonanten markiert den Übergang vom Altfranzösischen zum Mittelfranzösischen und lässt damit die bis dato mögliche freiere Syntax erstarren.
+Analytischerer Sprachbau   Im Lateinischen wird  bei Verben Person, Numerus, Tempus bzw. Modus bei Substantiven Numerus, Genus und Kasus bei gesteigerten Adjektiven Steigerungsgraddurch die Endung festgelegt.
+Durch Verstummen der Endkonsonanten (insbesondere -s und -t) wird der Gebrauch der Pronomen im Altfranzösischen ungefähr seit dem 11. Jahrhundert obligatorisch.
+Die morphologische Markierung wird also von Wortende an den Wortanfang verschoben.
+Verbalmorphologie  Das Lateinische kannte vor allem die synthetische Markierung von Tempus und Modus im Wortinnern.
+Bereits im Vulgärlatein lässt sich eine Tendenz zur analytischen Bildung feststellen, morphologisch wird Tempus und Modus also durch ein angefügtes Hilfsverb angegeben.
+Hieraus entstanden im Altfranzösischen z.
+B. die Formen des Futurs und des Konditional, so wird z.
+B. das altfranzösische Futur aus cantare + habeo (wörtlich ‚ich habe zu singen‘) zu chanterai.
+Auch das Passiv wurde mittels einer periphrastischen Umschreibung mit esse gebildet: klass.-lat.
+amor, ersetzt durch vlat.
+amatus sum, das zu nfrz.
+je suis aimé wurde.
+Besonders bei der Bildung des Passivs ist, dass die Form im Neufranzösischen immer noch eine analytische Form ist und keine Resynthetisierung stattfand.
+Eine der wichtigsten periphrastischen Umschreibungen ist aber das Perfekt, das sich zusammensetzt aus habeo + cantatum und einen bereits abgeschlossenen Prozess beschreibt.
+Die neufranzösische Entsprechung wäre j'ai chanté.
+Aus dem klass.-lat.
+Perfekt cantavi hat sich das heutige passé simple je chantai entwickelt.
+Andere Zeiten wie das Imperfekt entwickelten sich lautgesetzlich aus dem Latein: lat.
+cantabam > vlat.
+cantava > altfrz.
+(westlich) chanto(u)e ~ (östlich) chanteve.
+Zum Imperfekt wurden die Endungen der e-Konjugation, die im zentralen altfranzösischen Mundartgebiet vorherrschten, verallgemeinert: -ebam > -eie, später -oie, -ois, folglich altfrz.
+(zentral) chanteie, -oie, -ois > nfrz.
+chantais.
+Das Hilfsverb estre ‚sein‘ hatte drei eigene Formenbildungen.
+Wortschatz  Der altfranzösische Wortschatz geht auf das Latein zurück, das sich in Gallien nach der Eroberung durch Julius Caesar im Jahr 51 v. Chr. durchgesetzt hatte.
+Der südfranzösische Sprachraum war sogar schon ab 120 v. Chr. latinisiert, an der Küste und am Oberlauf der Rhone hatten sich zudem auch griechische Sprachkolonien (Nizza, Marseille) gebildet.
+Etwa seit dem 3. Jahrhundert hatte sich das gesprochene Latein im Gebiet des römischen Reiches allgemein so stark gegenüber dem Schriftlatein der römischen Bildungselite verändert, dass man es zuweilen als lingua latina rustica vom schriftsprachlichen sermo urbanus abgrenzte; in der sprachwissenschaftlichen Terminologie setzten sich später die Bezeichnungen Sprechlatein oder Vulgärlatein durch.
+In seiner Entwicklung unterlag das Lateinische in den Kolonien und so auch in Gallien dem doppelten Einfluss sowohl der von den Römern unterworfenen Völker (Substrat), besonders der Kelten, wie auch der im Rahmen der Völkerwanderung zugewanderten germanischen Völker (Superstrat).
+Beide adaptierten das Lateinische jeweils mit ihren eigenen Aussprachegewohnheiten und brachten eigenes Wortgut in den Wortschatz ein.
+Diese Einflüsse waren entscheidend für die Aufgliederung der romanischen Sprachen allgemein, die aus dem Sprechlatein entstanden, wie auch für die Binnengliederung desjenigen Lateins, das speziell in Gallien gesprochen wurde.
+Dort bildete sich im Süden das Okzitanische, auch pars pro toto als Altprovenzalisch bezeichnet, während im Norden die Oïl-Sprachen, sprich das Französische im engeren Sinn, entstanden.
+Die Sprachgrenze verlief ungefähr der Loire folgend genauer entlang einer Linie, die von Grenoble bis nach La Rochelle führt.
+Substrat  Das Latein in Gallien wurde zunächst beeinflusst durch das Gallische, das vor der römischen Eroberung gesprochen wurde.
+Der Einfluss dieses gallischen Substrats ist im Altfranzösischen nur noch in geringem Maße nachzuweisen.
+Man findet ihn vor allem in Ortsnamen, außerdem im Bereich der Landwirtschaft (z.
+B. boe ‚Schlamm‘, charrue ‚bodenwendender Pflug‘, gaskiere, gaschiere ‚Brachfeld‘, motun ‚Schafbock‘, raie ‚(Acker)Rain‘, se(i)llon ‚Furche‘ usw.) und einzelner Handwerke wie des Brauwesens (cerveise ‚Gerstenbier, Weizenbier mit Honig‘, bracier ‚Bier brauen‘).
+Hinzu kommen einige Keltismen, die die Römer schon sehr früh von keltischen Bewohnern anderer Regionen, besonders in Oberitalien, übernahmen, und die deshalb auch in anderen romanischen Sprachen weiterleben (chainse, -ze ‚langes, leinenes Oberhemd‘, chemin ‚Weg, Pfad‘, lieue ‚Meile‘).
+Darüber hinaus hatte das keltische Substrat in Gallien möglicherweise Einfluss auf die phonetische Entwicklung wie die Palatalisierung, die Entwicklung des lateinischen /u/ zum französischen /ü/ oder die Vokalisierung des /l/.
+Superstrat  Das Altniederfränkische hatte als Sprache der Eroberer einen vergleichsweise größeren Einfluss auf die Entwicklung des Altfranzösischen, der rund fünf Jahrhunderte nach dem Beginn der Romanisierung einsetzt.
+Fränkische Elemente im Französischen sind u. a. Eigennamen wie Gérard < Gerhard, Louis < Hlodwig, Charles < Karl, Ortsnamen mit fränkischem Suffix (z.
+B.
+-anges < -ingas) oder abgeleitet aus fränkischen Personennamen (z.
+B. Avricourt < Eberhardi curtis „Eberhards Hof“), außerdem Begriffe des Wehrwesens (berfroi „Bergfried“, hache < hāpja „Hacke“, halberc < halsberg), Begriffe des Rechts und der Gesellschaftsordnung (ban, fief < feu, fiet < feodum < fehu ‚Fahrnis, Vieh(stück)‘ + od ‚Grundstück‘, rang, marc < marka), Wörter aus dem Bereich der Kleidung (guant < want ‚Handschuh‘, froc < hrokk „Rock“, escharpe, escherpe ‚dem Pilger um den Hals hängende Tasche, Pilgertasche‘ < skirpja ‚(aus Binsen geflochtene) Tasche, Pilgertasche‘) und der Wohnkultur (halle, aulberge < heriberga „Schutzraum für das Heer“, faldestoel, faudestuel < faldistōl ‚Faltstuhl‘, jardin < gardo ‚Garten‘), zudem Tiernamen und Begriffe des Waidwesens (esparvier < sparwāri ‚Sperber‘, gibiez, -iers < gabaiti „Gebeize, Falkenjagd“, mesenge, masenghe < mesinga „Meise“, hareng „Hering“), Pflanzennamen (haistre < haister ‚Heister‘, saule < salha ‚Salweide‘) und einige Wörter des Gefühlslebens und Abstrakta (honte mit honnir < haunjan „höhnen“, esfrei mit esfreier, esfreder < lat.
+exfridare < ex + frida „entfriedlichen“, émoi bzw. esmai mit esmaier < ex + magan „kraftlos/machtlos machen“).
+Erkennbar sind fränkische Erbwörter u. a. an der graphischen Umsetzung des germanischen /w/ am Wortanfang, das ein gesprochenes /g/ in der Graphie /gu/ ergeben hat (anfrk.
+werra ‚Wirre‘ > frz.
+guerre).
+Weitere Superstratsprachen wie das Gotische hatten dagegen nur einen geringen Einfluss.
+Erbwörter und Buchwörter  Bei der Betrachtung des lateinischen Wortgutes im französischen Wortschatz ist zu unterscheiden zwischen Erbwörtern, die im Altfranzösischen aus dem Sprechlatein entstanden und sich lautgesetzlich entwickelten, und sekundär aus dem Lateinischen entlehnten Wörtern meist gelehrten Ursprungs („Buchwörter“), die oft ebenfalls schon in mittelalterlicher Zeit und besonders dann seit der Zeit des Humanismus ins Französische übernommen wurden und deshalb an der lautlichen Entwicklung des Französischen nicht oder erst später teilgenommen haben.
+Beispiel sind: chose ‚Ding, Sache‘ und cause ‚Ursache‘ (lat.
+causa ‚Grund, Sache‘), chainse ‚langes, leinenes Oberhemd‘ und chemise ‚Hemd‘ (spätlat.
+camisia ‚leinerner, unmittelbar auf dem Körper getragener Überwurf‘), tôle ‚Blech‘ und table ‚Tisch‘ (lat.
+tabula ‚Brett, Gemälde, Schreibtafel, (Wechsler)tisch‘), entier ‚ganz, völlig‘ und intègre ‚integer‘ (lat.
+integer ‚unangetastet, unversehrt, unberührt‘), droit ‚gerade, aufrecht‘ und direct ‚direkt‘ (lat.
+dīrēctus ‚geradegerichtet, in gerader Richtung‘), mâcher ‚(zer)kauen‘ und mastiquer (lat.
+masticare), sûreté ‚Gefahrlosigkeit‘ und sécurité ‚Sicherheit‘ (lat.
+securitas), nuisible ‚schädlich, abträglich‘ und nocif ‚giftig, toxisch‘ (lat.
+nocibilis).
+Varietäten  Da das Franzische als Dialekt der Île de France und Grundlage des heutigen Französisch sich erst ab dem 13. Jahrhundert in Frankreich als Nationalsprache durchsetzen konnte, existierten lange Zeit relativ eigenständige Dialekte:  das Burgundische in Burgund, das lange Zeit ein unabhängiges und kulturell hochstehendes Herzogtum war; das Pikardische in der Pikardie, mit einer stark ausgeprägten Klostertradition, einige der ältesten altfranzösischen Texte sind im pikardischen Dialekt verfasst (etwa die Eulalie-Sequenz), auch die zur matière de France gehörenden Chansons de geste sind vermutlich in der Pikardie entstanden.
+das Wallonische in der Wallonie im heutigen Belgien südlich von Brüssel mit dem Zentrum Namur; das Champagnische in der Champagne, mit einer starken literarischen Tradition, die Epen von Chrétien de Troyes sind im champagnischen Dialekt verfasst; das Normannische, das zunächst im Bereich der heutigen Normandie von den Normannen verwendet wurde und nach der Eroberung Englands auf den britischen Inseln gesprochen wurde.
+Hier spricht man auch vom Anglonormannischen, das einen starken Einfluss auf die Entwicklung der heutigen englischen Sprache ausübte.
+Bekannt wurden vor allem die Dichtungen der Marie de France im anglonormannischen Dialekt; das Lothringische in der Grenzregion zum deutschen Sprachraum und einer weitgehenden politischen Eigenständigkeit bis ins 17.
+JahrhundertJedoch lassen sich anhand der überlieferten (literarischen) Texte häufig keine eindeutigen Dialektzuordnungen anstellen, da die Werke der altfranzösischen Zeit in der Regel nur durch spätere Abschriften überliefert sind.
+Nicht zu den Oïl-Sprachen gezählt wird das Frankoprovenzalische in der Region von Lyon bis in die französischsprachige Schweiz und die Dialekte der Okzitanischen in Südfrankreich.
+Umstritten ist der Status der Dialekte in dem als Croissant bezeichneten Dialektgrenzgebiet in der Auvergne.
+Altfranzösische Literatur   Die mittelalterliche altfranzösische Literatur lässt sich chronologisch und thematisch in verschiedene Epochen gliedern.
+Am Anfang der altfranzösischen Literatur stehen vor allem religiöse Werke (Heiligenviten):  La séquence de Sainte Eulalie (Eulalia-Sequenz, ca.
+880) Homélie sur Jonas (Jonasfragment, Ende 10.
+Jh.)
+Passion Christi (Ende 10.
+Jh.)
+Vie de Saint Léger (Leodegarlied, 10.
+Jh.)
+Vie de Saint Alexis (Alexiuslied, 11.
+Jh.)
+Voyage de Saint Brendan (Brendansreise, 1112) Jeu d’Adam (~ 1150–1175)Darauf folgt eine Epoche, in der die Gattung der Chanson de geste (Heldenepen) dominiert:  Chanson de Roland (Rolandslied, ~ 1075–1100) Chanson de Guillaume (Wilhelmslied, 12.
+Jh.)
+Chanson de JérusalemIm 12. Jahrhundert florierte die Gattung des Antikenromans, in dem antike Texte altfranzösisch adaptiert wurden:  Alexanderroman (Anfang 12.
+Jh.)
+Roman de Thèbes (anonym, ~ 1150 nach Thebais des Statius) Roman de Troie (Benoît de Sainte-Maure, ~ 1160) Roman d’Énéas (anonym, ~ nach Äneis von Vergil) Roman de Brut / Geste des Bretons (Wace, 1155 verfasst am englischen Hofe nach Historia Regum Britanniae von Galfrid von Monmouth)Im Hochmittelalter kam es zur Blüte des höfischen Romans.
+Der herausragendste Autor dieser Literaturgattung war Chrétien de Troyes (~ 1140 bis ~ 1190):  Erec et Enide (~ 1170, 6878 Achtsilber) Cligès (~ 1176, 6664 Achtsilber in Kreuzreimen) Chevalier de la charette (Lancelot) (~ 1177–81, 7112 Achtsilber) Le chevalier au lion (Yvain) (~ 1177–81, 6808 Achtsilber) Li Contes del Graal (~ 1181)    Siehe auch   Gallische Sprache Französische Sprache    Weblinks     Einzelnachweise     Literatur     Einführungen und Sprachgeschichten  J. Batany: Français médiéval.
+Bordas, Paris 1978.
+Sylvie Bazin-Tacchella: Initiation à l’ancien français.
+Hachette, Paris 2001.
+Charles Bruneau: Petite histoire de la langue française.
+2 Bände.
+Paris 1969/70.
+Ferdinand Brunot: Histoire de la langue française des origines à nos jours.
+13 Bände.
+Paris 1966-.
+Frédéric Duval: Le Français médiéval.
+Brepols, Turnhout 2009.
+Mireille Huchon: Histoire de la langue française.
+Paris 2002.
+Geneviève Joly: L’ancien français.
+Belin, Paris 2004.
+Wilhelm Kesselring: Die französische Sprache im Mittelalter.
+Tübingen 1973.
+Guy Raynaud de Lage / Geneviève Hasenohr: Introduction à l’ancien français, 2.
+Aufl.
+SEDES, Paris 1993.
+Thierry Revol: Introduction à l’ancien français.
+Nathan, Paris 2000.
+Carl Voretzsch: Einführung in das Studium der altfranzösischen Sprache.
+Halle 1932.
+Walther von Wartburg: Évolution et structure de la langue française.
+Francke, Tübingen 1993 [ Kultur- und Sprachgeschichte Frankreichs].
+Heinz Jürgen Wolf / W. Hupka: Altfranzösisch Entstehung und Charakteristik.
+Darmstadt 1981.
+Heinz Jürgen Wolf: Französische Sprachgeschichte.
+UTB, Heidelberg / Wiesbaden 1991.
+Gaston Zink: L’ancien français.
+Presses universitaires de France, Paris 1997 ( Que sais-je).
+Wörterbücher  DEAF  Kurt Baldinger: Dictionnaire étymologique de l’ancien français.
+Tübingen, 1974-.
+DEAF GdfEdic/GdfCEdic  Frédéric Godefroy: Dictionnaire de l'ancienne langue française et de tous ses dialectes du IXe au XVe siècle.
+10 Bd.e.
+Paris 1880–1902.
+[1] Algirdas Julien Greimas: Dictionnaire de l’ancien français.
+Paris, 1979.
+Takeshi Matsumura: Dictionnaire du français médiéval.
+Les Belles Lettres, Paris 2015.
+TL  Adolf Tobler / Erhard Lommatzsch (u.
+a.
+): Altfranzösisches Wörterbuch.
+11 Bd.e.
+Berlin / Wiesbaden / Stuttgart 1924–2008.
+Grammatiken  Joseph Anglade: Grammaire elémentaire de l’ancien français.
+Armand Colin, Paris 1965.
+Claude Buridant: Grammaire nouvelle de l’ancien français.
+SEDES, Paris 2000.
+François de la Chaussée: Initiation à la morphologie historique de l’ancien français.
+Klincksieck, Paris 1977.
+Geneviève Joly: Précis d’ancien français.
+Morphologie et syntaxe, 2.
+Aufl.
+Armand Colin, Paris 2009.
+Wilhelm Meyer-Lübke: Historische Grammatik der französischen Sprache.
+2 Bände.
+Heidelberg 1966.
+Gérard Moignet: Grammaire de l’ancien français, 2.
+Aufl.
+Klincksieck, Paris 1976 (1.
+Aufl.
+1973).
+Jacqueline Picoche: Précis de morphologie historique du français.
+Nathan, Paris 1979.
+Moritz Regula: Historische Grammatik des Französischen.
+3 Bände.
+Heidelberg 1955–1966.
+Hans Rheinfelder: Altfranzösische Grammatik.
+2 Bände.
+Hueber, München 1975.
+Eduard Schwan: Grammatik des Altfranzösischen.
+Laut- und Formenlehre, Leipzig 1888; 3.
+Auflage neubearbeitet von Dietrich Behrens, 1898; 12.
+Auflage 1925; Neudrucke Darmstadt 1963 und 1966.
+Gaston Zink: Morphologie du français médiéval, 2.
+Aufl.
+Presses universitaires de France, Paris 1992 (1.
+Aufl.
+1989).

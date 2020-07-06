@@ -1,0 +1,233 @@
+Informatica, in Vlaanderen soms ook computerwetenschappen genoemd, is de studie en de wetenschap van de theoretische fundamenten van informatie en het rekenen, de theoretische informatica, en de implementatie en toepassing in computersystemen.
+Overzicht  De informatica is een multidisciplinaire wetenschap, ontstaan uit (onder meer) de wiskunde en de elektrotechniek.
+Enkele modellen in de informatica zijn daarnaast geïnspireerd op de biologie, zoals neurale netwerken en genetische algoritmes.
+Informatica versus computertechniek  Het begrip computerwetenschap is een wel gehanteerd synoniem voor informatica, maar deze term dekt de lading maar ten dele.
+Informatici houden zich niet (alleen) bezig met het bouwen van digitale apparatuur, maar gebruiken deze vooral om onderzoek te doen naar de opslag, verwerking en verspreiding van informatie.
+Informatietechnologie (ICT) is de tak van techniek die zich bezighoudt met het programmeren van computers en communicatiesystemen.
+In het Engels worden afwisselend de termen computer science en computing science gebruikt; de eerste legt de nadruk op het apparaat, de tweede op de berekening/informatieverwerking die het uitvoert.
+De term informatics wordt niet gebruikt voor de informatica als geheel, maar op toepassingen bij de grootschalige informatieverwerking in andere wetenschapsgebieden, zoals de geneeskunde of het genoomonderzoek.
+Het laatste vakgebied heet bijvoorbeeld bio-informatics, dat in het Nederlands bekendstaat als bio-informatica.
+Een bio-informaticus is niet altijd opgeleid als informaticus, maar wel een deskundige in de informatieverwerking bij genoomonderzoek.
+Afbakening  Het gaat hier over de grenzen van de informatica, zowel van de wetenschap als van de bredere interpretatie van het vakgebied informatica.
+Als men het over de informatica als wetenschap heeft is het in ieder geval handig om het woord wetenschap te noemen, om communicatieve problemen te vermijden.
+Ook bij de indeling van informaticaberoepen rijst er een probleem.
+Informaticaspecialisten (Computing professionals) worden in de nomenclatuur "Internationale classificatie van de beroepstypologie" (ISCO) gevat onder de categorie ISCO88 213, een onderdeel van de "intellectuele en wetenschappelijke beroepen" die hooggekwalificeerde beroepen bevat.
+De IT-technici horen hier dus niet bij.
+Geschiedenis   De moderne informatica stoelt op inzichten die deels van lang voor het begin van onze jaartelling stammen.
+In India en Mesopotamië stond rond 1500 voor Christus de rekenkunde, de kennis over hoe systematisch berekeningen uit te voeren met optelling en vermenigvuldiging, al op een hoog niveau: veel inzichten die gewoonlijk aan de oude Grieken worden toeschreven waren al bekend, zoals de stelling van Pythagoras en het systematisch oplossen van vierkantsvergelijkingen.
+De Grieken beschouwden het redeneren zelf als een soort spel dat aan bepaalde regels beantwoordt, zoals het syllogisme of de wet van de uitgesloten derde.
+Een grote invloed was Aristoteles, die ook nadacht over hoe werkelijkheid en de concepten die we gebruiken om deze te beschrijven systematisch te beschrijven.
+Deze benadering en veel van de opgedane kennis raakten vergeten in Europa, maar ondergingen een renaissance vanaf de 10e eeuw in het Arabische rijk; een belangrijke bijdrage daarbij leverde de waarschijnlijk uit de buurt van het Aral-meer afkomstige Al-Chwarizmi, wiens leerboeken over het rekenen ook in Europa doordrongen en daarbij het rekenen met 0 en het idee van rekenen (algebra) als het uitvoeren van systematische procedures (algoritmen) introduceerden.
+De renaissance en verlichting in Europa gingen hierop door en brachten de wiskunde en logica heel veel verder.
+Daarbij kwam steeds duidelijker de vraag op de voorgrond in hoeverre rekenen en wiskundig redeneren te mechaniseren en automatiseren zijn.
+Rond 1840 beschreven wiskundigen als George Boole de basis van het logisch redeneren als wiskundige bewerkingen (booleaanse algebra).
+Ook ontstonden er machines waarvan de werking mechanisch te configureren was, zoals het Jacquard-weefgetouw (vanaf 1790), de mechanische rekenmachines van Charles Babbage (tussen 1834-1870), en de machines voor gemechaniseerde volkstellingsverwerking van Herman Hollerith (1880).
+Begin 20e eeuw werd de wiskunde zozeer geformaliseerd dat vragen over de aard en betekenis van het wiskundige redeneren wiskundig konden worden geformuleerd en beantwoord.
+Kurt Gödel ontdekte (1930) dat je het logisch redeneren over rekenproblemen inderdaad als een vorm van mechanisch uitvoerbaar rekenen op kunt vatten, maar dat de consequentie is dat er dan onbeslisbare eigenschappen bestaan: eigenschappen van getallen, of andere wiskundig gedefinieerde objecten, waarvoor ondubbelzinnig gedefinieerd is of ze voor een bepaald object gelden of niet, maar waarvoor desondanks geen mechanische methode bestaat om gegeven een willekeurig object te bepalen of de eigenschap ervoor geldt of niet.
+Alan Turing introduceerde de turingmachine (1936), een wiskundig model van een zo simpel mogelijke gegevensverwerkende machine, om dit nog duidelijker te maken en ook te laten zien dat het er daarbij in wezen niet toe doet of de machine werkt op getallen of op andersoortige gegevens.
+Deze twee ontwikkelingen samen, de praktische ontwikkeling van programmeerbare machines en de theoretische inzichten omtrent de mogelijkheden van zulke mechanische programmering, leidden uiteindelijk eind jaren 30 tot de eerste grote programmeerbare elektronische rekenmachines (digitale computers), met mensen als Konrad Zuse, Alan Turing en John von Neumann als pioniers.
+Zo werd het mechaniseren van het rekenen en redeneren langzamerhand praktische werkelijkheid.
+Oorspronkelijk was computer de Engelse benaming voor een persoon die voor haar beroep berekeningen uitvoerde, een taak die vaak door vrouwen werd uitgevoerd.
+Menselijke computers werden bijvoorbeeld ingezet om tabellen voor de scheepvaart en astronomie op te stellen.
+Van het grootste belang was correctheid: een fout in een tabel is nu eenmaal niet direct zichtbaar en kan voor de gebruiker van de tabel grote gevolgen hebben.
+In de jaren 50 werd de mechanische computer een commercieel product: verschillende firma's bouwden en verkochten computers, met IBM (begonnen als bouwer van de Hollerith-machines) als marktleider.
+In plaats van aan menselijke computers ontstond er behoefte aan programmeurs en andere deskundigen in het omgaan met de nieuwe mechanische computers; zij richtten een vakorganisatie op, de ACM, en maakten zich sterk voor algemene opleidingen van hoog academisch niveau, om mensen op te leiden die met grote deskundigheid en onafhankelijkheid de nieuwe machines tegemoet zouden kunnen treden.
+Voor deze nieuw op te richten opleidingen werden namen voorgesteld als computer science (Louis Fein, in Communications of the ACM, 1959) en (in Europa) informatica.
+Deze opleidingen zouden zich niet zozeer moeten richten op de computer als apparaat en hoe deze te construeren, maar op het programmeren ervan en het gebruik ervan bij de wiskundige modellering en analyse van problemen.
+Dit is nog steeds het geval.
+Wat de theorie betreft bestaat de informatica vooral uit wiskunde: deels het toepassen van al eerder bestaande wiskunde, en deels specifiek voor de informatica ontwikkelde gespecialiseerde wiskunde, de theoretische informatica.
+Belangrijke onderdelen daarvan zijn algoritmiek, datamodellering, formeletalentheorie, en veel meer.
+Het praktische werk in de informatica en de theorie gaan hand in hand.
+Vakgebieden  De informatica bestaat zoals iedere andere wetenschap uit een grote verscheidenheid aan subdisciplines, waarvan de grenzen meestal zeer moeilijk te onderscheiden zijn.
+Iedere strikte indeling is dan ook vrij kunstmatig.
+De voornaamste zijn:  Fundamentele informatica: betreft onder andere datastructuren, algoritmes, formele talen-, berekenbaarheids-, complexiteits- en grafentheorie.
+Informatie- en gegevensbeheer: rond databanken en datamining.
+Technisch-wetenschappelijk rekenen: betreft vakken als computergraphics, bio-informatica, wetenschappelijk programmeren en computeraritmetiek.
+Kunstmatige intelligentie: betreft onderwerpen als toegepaste logica, optimalisatietechnieken, neurale netwerken en kennisrepresentatie.
+Software engineering: omtrent softwareontwikkeling en zaken als softwaremetrieken, ICT-projectmanagement, formele specificatietechnieken, software-re-engineering en verificatie van programmacorrectheid.
+Computernetwerken en communicatiesystemen Mens-computerinteractie Computerbeveiliging en cryptografieSoftwareconstructie of software-engineering wordt hoe langer hoe meer beschouwd als een aparte ingenieursdiscipline die geen onderdeel meer is van de informatica maar er uiteraard wel nauw aan verwant is.
+Dit is vergelijkbaar met elektrotechniek die ooit is afgesplitst van de natuurkunde.
+Op hoe langer hoe meer universiteiten wordt software engineering dan ook als een aparte opleiding ingericht, naast de bestaande informaticaopleiding.
+Toepassing  In de meeste gevallen vereist toepassing ervan, naast de eigenlijk informatica-kennis, tevens kennis op het vlak van wiskunde, bedrijfskunde en software engineering.
+Echter, toepassing ervan in een bredere technisch-industriële context vereist bovendien vaak een vrij grote kennis op het vlak van elektrotechniek (zowel elektronica als communicatie), numerieke technieken, technische bedrijfskunde en soms zelfs natuurkunde, scheikunde en werktuigbouwkunde.
+Deze toepassing gebeurt dan vaak door ingenieurs en/of in samenwerking met ingenieurs.
+Als voorbeelden van dit laatste denken we bijvoorbeeld aan technische automatisering in fabrieken, telecommunicatie, cybernetica, simulering van scheikundige processen, automatische raketsturing, spraakherkenning, biometrie, optimalisering van bedrijfsprocessen etc.
+Vele informatici vinden echter ook werk in takken van het bedrijfsleven waar informatie moet worden verkregen uit een grote stapel data (zie datamining).
+Belangrijke informatici  Edsger Dijkstra, grote bijdragen bij gedistribueerde systemen en bij algoritmen, zie bijvoorbeeld het Dijkstra-algoritme Alan Turing, bekend van onder andere de turingmachine en de turingtest Bill Gates, de medeoprichter van Microsoft Ken Iverson, een programmeur bekend door onderzoek naar het gebruik van wiskundige notaties in programmeertalen en methoden Tony Hoare, de bedenker van het sorteeralgoritme quicksort en Hoarelogica Ken Thompson en Dennis Ritchie, de grondleggers van Unix (oorspronkelijk in assembler) Brian Kernighan en Dennis Ritchie ontwikkelden C dat de verdere ontwikkeling van Unix mogelijk maakte Dave Cutler en Gordon Bell ontwikkelden VMS en VAX (het besturingssysteem en de hardware werden tezamen ontworpen) Niklaus Wirth ontwikkelde de programmeertalen Pascal en Modula-2 Donald Knuth ontwikkelde TeX en schreef The Art of Computer Programming Andrew S. Tanenbaum, ontwikkelaar van Minix Linus Torvalds, bekend voor zijn werk aan de Linuxkernel Tim Berners-Lee en Robert Cailliau, bedenkers en grondleggers van het wereldwijde web    Zie ook  Methoden en technieken in de informatica Lijst van programmeertalen    Referenties  Een taart is een meestal cirkelvormig en vaak zoet baksel dat in veel landen voornamelijk wordt gegeten tijdens feestelijkheden, bijvoorbeeld bij het vieren van een verjaardag.
+In veel landen wordt taart ook als nagerecht geserveerd.
+Etymologie  Het woord taart is afgeleid van het Oudfranse torte of tarte, dat op zijn beurt afkomstig lijkt te zijn van het Latijnse torta (gedraaid baksel).
+Dit woord is de vrouwelijke vorm van het voltooid deelwoord van torquere (draaien).
+Mogelijk is het ook afgeleid van een ander Latijns woord, tortula (klein wit broodje).
+Het Franse woord tartre ("wijnsteen") kan ook nog de huidige woordvorm met -a- hebben beïnvloed.
+Kenmerken  Het gebak is luchtig.
+De vorm is meestal rond en plat van boven.
+De buitenkant is vaak voorzien van sierlijke, kleurige ornamenten zoals gekleurde (siroop)lijnen, chocolade- of notenstrooisel of platte stukjes chocolade.
+Een taart bestaat vaak uit meerdere lagen, wat het verschil maakt met ander gebak zoals cake.
+Soorten  Er zijn diverse typen taart.
+Een taart met veel suikerschuim wordt een schuimtaart genoemd.
+In Nederland zijn de appeltaart, chocoladetaart, aardbeientaart, kwarktaart, monchoutaart, kersentaart, mokkataart en slagroomtaart populair, in België ook de suikertaart.
+Vlaaien zijn wezenlijk verschillend van taarten omdat de bodem van een ander soort deeg is gemaakt.
+Wordt de taart bij een speciale gelegenheid (zoals een verjaardag, bruiloft of jubileum) gegeten, dan wordt er vaak een toepasselijke tekst op aangebracht door middel van glazuur, marsepein of chocolade.
+Tegenwoordig kan er een (eetbare) foto op aangebracht worden.
+In het geval van een verjaardag is het wereldwijd gebruikelijk om een aantal kaarsjes, al naargelang de bereikte leeftijd, in de taart te steken.
+Deze kaarsjes zijn zeer kort en dun, en dienen te worden uitgeblazen.
+Volgens bijgeloof haalt men het volgende jaar als alle kaarsjes worden uitgeblazen.
+Een andere specifieke taart is de bruidstaart, die wordt gegeten bij een bruiloft.
+Quiche  Ook een quiche wordt wel als taart gezien, hoewel deze wezenlijk andere kenmerken heeft.
+Zo is hij niet zoet, maar hartig; er zitten vaak groenten, en/of vlees en vis in en deeg is het belangrijkste ingrediënt.
+Men spreekt wel van een hartige taart.
+In de taal  Het woord taart wordt soms als scheldwoord gebruikt voor iemand van het vrouwelijk geslacht.
+“Ouwe taart” heeft een betekenis die vergelijkbaar is met  “oud wijf”.
+Het Engelse slangwoord tart heeft eenzelfde gevoelswaarde.
+De taart staat centraal in enkele zegswijzen, waarbij er veelal een negatieve lading aan gegeven wordt.
+Zo betekent "iemand van de taart geven" of "iemand een taart geven" iemand een draai om de oren geven of hem berispen.
+"Van de taart krijgen" betekent slaag krijgen.
+"Taart eten" betekent het gelag betalen.
+In de wiskunde  Een specifiek model grafiek heet de taartgrafiek of -diagram (pie chart), vanwege de sterke gelijkenis met een in taartpunten gesneden taartvorm.
+Om ervoor te zorgen dat de taart in gelijke delen wordt verdeeld, wordt de taart vanuit het midden aangesneden.
+Bekend is de opgave waarbij persoon A een driehoekige taart in twee delen moet verdelen, en ook het eerste stuk mag kiezen, maar waarbij persoon B mag aangeven door welk punt op de taart de taartsnede moet gaan.
+De vraag is dan waar B dat punt moet kiezen, zodat er voor hem een zo groot mogelijk stuk overblijft.
+Bewezen kan worden dat bij n taartsneden een ronde taart in ½.n.
+(n+1)+1 stukken (die in grootte en vorm variëren) verdeeld kan worden.
+Zoals te verwachten is, zijn dat bij 1 snede 2 stukken en bij 2 sneden 4 stukken, maar bij 3 sneden kunnen er 7 stukken ontstaan (namelijk als de derde snede de andere twee niet in hun kruispunt kruist).
+Het Oudfrans is het Frans zoals dat in het noorden van Frankrijk gesproken werd van de 9e tot de 14e eeuw.
+Het heeft zich sindsdien via het Middelfrans ontwikkeld tot het Nieuwfrans, dat onder andere de standaardtaal voor bestuur, rechtspraak en literatuur is geworden in heel Frankrijk.
+Het Oudfrans is samen met enkele nauw verwante talen zoals het Waals en Picardisch rechtstreeks voortgekomen uit de langues d'oïl.
+Oorsprong     Latijn  De geschiedenis van het Oudfrans begon toen het zuiden van Gallië onder Romeinse bezetting kwam en het Latijn als heersende taal werd ingevoerd.
+In 118 v.Chr.
+werd de eerste belangrijke Romeinse nederzetting gesticht in Narbonne, de latere hoofdstad van Gallia Narbonensis.
+In de tijd van Plautus (ca.
+250-184 v.Chr.)
+was de fonologische structuur van het klassieke Latijn al behoorlijk veranderd; dit leidde uiteindelijk tot het vulgair Latijn.
+Op zijn beurt was dit de voorloper van alle Romaanse talen, inclusief het Oudfrans.
+Substraat: Gallisch  Met de verovering van Gallië door Julius Caesar in de 1e eeuw v.Chr.
+werd het Latijn de overheersende taal in Noord-Gallië, hoewel de oorspronkelijke bevolking haar eigen taal, het Gallisch (een Keltische taal), nog lang heeft vastgehouden: in de 6e eeuw werd dit nog gesproken door de boeren op het platteland.
+De invloed van het Gallische substraat is nog terug te zien in de woordenschat van het Oudfrans, dat naar schatting 150 woorden van Gallische herkomst telt, bijvoorbeeld bièvre 'bever', brif 'talent, finesse', grenon 'snor', muchier 'verbergen', seüs 'bloedhond' en seuwe 'touw'.
+Het Franse woord voor 'paard', cheval, komt uit het klassiek Latijn caballus 'knol', maar dat heeft het ontleend aan Gallische *cappilos 'pakpaard' (vgl.
+Bretons kefel, Welsh ceffyl).
+Via het soldatenlatijn is dit woord ook in andere Romaanse talen beland: Catalaans cavall, Italiaans cavallo, Portugees cavalo, Spaans caballo, Roemeens cal, enz.
+Superstraat: Frankisch  In de 4e en de 5e eeuw vielen steeds meer Germaanse stammen het Romeinse Rijk binnen (zie ook Grote Volksverhuizing).
+Noord-Gallië werd uiteindelijk bezet door de Franken, die hun eigen taal spraken, het Frankisch.
+Als gevolg hiervan kwamen veel (wellicht 15 procent van de totale woordenschat) leenwoorden van Frankische oorsprong in het Frans terecht.
+Enkele voorbeelden zijn bosc, bois (< *busk; vgl.
+Nederlands bos, Duits Busch ‘struik’), guarder, warder 'bewaken' (< *wardōn; vgl.
+Middelnederlands wa(e)rden ‘wachten, bewaken’, Dt.
+warten) en hache 'aks' (< *hāppia ‘sikkelvormig snoeimes’; vgl.
+Ndl.
+heep, hiep, Dt.
+Hippe).
+Doordat er meerdere Germaanse stammen tegelijkertijd in Gallië actief waren, waaronder naast de Franken ook de Bourgondiërs en de Visigoten, is van sommige germanismen de precieze herkomst moeilijk te achterhalen.
+In deze zelfde periode schoof de Germaans/Romaanse taalgrens op naar het zuiden, maar na de Frankische kerstening werd het Latijn zowel in gesproken als geschreven vorm opnieuw belangrijk zodat deze ontwikkeling weer werd omgedraaid.
+Nomenclatuur  Men is de benamingen "Frans" en "Frankrijk" - beide afgeleid van het etnoniem Frankisch - vanaf de Middeleeuwen gaan gebruiken voor heel Gallië.
+De benaming langue d'oïl werd gebruikt om de in Noord-Gallië gesproken dialecten te onderscheiden van die in Zuid-Gallië, het Occitaans.
+Beide benamingen verwijzen naar het tussenwerpsel ter bevestiging of bestemming, vergelijk Occitaans òc tegenover Oudfrans oïl 'ja', een samentrekking uit o 'ja' + il 'hij' (alleen in de Noord-Gallische dialecten heeft lenitie van de laatste klank van hoc plaatsgehad, wat uiteindelijk leidde tot de vorm oui).
+Fonologie en voornaamste klankverschuivingen  Op fonologisch vlak is het Frans van alle Romaanse talen waarschijnlijk het vernieuwendst geweest, waardoor het heden ten dage het verst afstaat van het Latijn, zowel qua grammatica als qua woordenschat en morfologie.
+Van de talrijke klankverschuivingen die de ontwikkeling van het Oudfrans hebben gekenmerkt worden hieronder alleen de belangrijkste besproken.
+Klinkers  Een van de voornaamste klankverschuivingen in het Oudfrans betreft zowel de monoftongering als de diftongering van veel klinkers naargelang hun fonologische context.
+Het klassiek Latijn had zes monoftongen: /a/, /e/, /i/, /o/, /u/ en /y/, allemaal met een korte en een lange variant, en daarnaast de diftongen æ [aɪ], œ [oɪ̯] en au [aʊ̯].
+In het Laatlatijn was het verschil tussen lange en korte klinker niet langer fonematisch, maar dit had slechts een gedeeltelijke samenvalling van de korte en de lange klinkers tot gevolg.
+Veel korte klinkers uit het klassiek Latijn werden in het vulgair Latijn geleidelijk aan meer open gearticuleerd, terwijl de articulatie van lange klinkers nagenoeg hetzelfde bleef.
+Zo werd:  ē tot [e], maar e tot [ɛ].
+ī tot [i], maar i tot [ɪ].
+ō tot [o], maar o tot [ɔ].
+ū tot [u], maar u tot [ʊ].Alleen a en ā vielen samen tot [a].
+De y, die voornamelijk in geleerde woorden van Oudgriekse herkomst voorkwam, ging helemaal op in de i.
+De æ [ɛː] viel samen met de korte e (en werd dus [ɛ]), de œ werd net als de lange e een [e].
+De au neigde sterk naar [o] maar bleef in ieder geval in Gallië nog een tijdlang een diftong (dit blijkt zo meteen uit het feit dat de klassieke au in het Oudfrans anders werd behandeld dan zowel de korte als de lange o).
+Al met al telde het vulgair Latijn dus negen isochrone monoftongen en één diftong.
+In het Oudfrans vond opnieuw fonemische neutralisatie plaats:  ɪ ging op in e. ʊ ging op in o.Met de overige zeven basisklanken gebeurde het volgende:  In beklemtoonde en open lettergrepen veranderde a vermoedelijk via [aɛ] of [æ] in [e]: māre [ˈmaːre] 'zee' > *[ˈmaɛ.rə] > mer; amāre 'liefhebben, houden van' > amer.
+In gesloten lettergrepen is /a/ volgens de meeste taalkundigen altijd onveranderd gebleven: parte(m) 'deel' > part.
+De Proto-Romaanse [ɛ] werd in open lettergrepen gediftongeerd tot ie [iɛ]: mel [mɛɫ] 'honing' > miel [miɛl].
+In gesloten lettergrepen bleef de e onveranderd: tempus 'tijd; weer' > tens, tans.
+e diftongeerde al gauw tot ei: rege(m) 'koning' > rei; habere 'hebben' > aveir.
+[ɔ] werd de vallende diftong uɔ en eindelijk ue: cor [kɔr] 'hart' > quors [kuɔr] > cuer [kuer].
+In open lettergrepen verglijdt o via ou tot eu: focus 'vuur' > fou (9e eeuw) > feu (12e).
+In gesloten lettergrepen ging o op in u: cōrte [kor.te] 'hof' > curt, cort [kurt].
+au werd definitief een monoftong, maar niet gebroken: auru 'goud' > or (niet *our of *uer).
+i en u bleven onveranderd (liber > libre; murus > murs).
+Bij de nieuwe diftongen ai en ui was sprake van een voedende volgorde van regels.
+De diftongering was echter niet het gevolg van breking, maar een hiaatdelging als gevolg van een eerdere klinkerbotsing, die weer het gevolg was van de deletie van medeklinkers in intervocale positie.
+Ook de lenitie van medeklinkers tot de halfklinker j leidde in veel gevallen tot nieuwe diftongen: facere 'maken, doen' > faire, lacte 'melk' > lait, nocte(m) 'nacht' > noit > nuit.
+De diftongen au en eu ontstonden in gesloten lettergrepen voor l.De hierboven geschetste situatie moet overeenkomen met het Frans uit de 11e eeuw.
+Woorden uit de tekst van het Roelantslied zouden dan ongeveer zo hebben geklonken: faire ['fajrə], nuit [nujt].
+Na 1100 traden opnieuw drastische veranderingen op in de uitspraak, maar niet in de spelling:  Aan het begin van de 12e eeuw moet de diftong ei zijn veranderd oi [ɔi]: rei > roi, veir > voir.
+De achter in de mond gelegen klinker u komt naar voren en verandert in een [y], en bijgevolg verandert ook de tweeklank ue verandert in yə.In de tweede helft van de 13e eeuw worden diftongen ofwel gemonoftongeerd, of het zwaartepunt verschuift naar het tweede element:  De diftong ai [aj] verandert in ɛ (waardoor bijvoorbeeld faire en trouvere gaan rijmen), au verandert in o. eu verandert in [œ] (gesloten) ~ [ø] (open).
+ie verandert in jɛ (gesloten) ~ je (open) (miel: [miɛl] > [mjɛl]).
+oi [ɔi] verandert in wɛ.
+ue verandert in [œ] (gesloten) ~ [ø] (open) (cuer > cœur) ui verandert in [ɥi] (nuit [nɥit]).Het wegvallen van de s voor medeklinkers leidde tot verlenging van de voorafgaande klinker.
+Rond 1300 verschilt het Franse klinkersysteem nog op twee punten van dat van het Nieuwfrans:  oi klinkt als wɛ, niet als wa.
+de sjwa aan het einde van woorden, die tegenwoordig alleen nog maar wordt geschreven, is ook in de spreektaal nog te horen.
+Syncope  Syncope van onbeklemtoonde lettergrepen moet al zijn begonnen in het Laatlatijn, maar het duurde eeuwen voordat dit proces was voltooid.
+Dit is te zien aan een Oudfranse vorm als dei(f)t 'hij is schuldig; moet', die is ontstaan uit dēbet; als gevolg van syncope in combinatie met lenitie was de lettergreep in het Oudfrans al gesloten, en de diftongering van e in ei moet al hebben plaatsgevonden vóór de syncope, dus toen de lettergreep nog open was.
+Syncope is met name van belang bij de vervoeging van sommige onregelmatige Franse werkwoorden (zie hieronder).
+Oxytonie  In de Nieuwfranse spreektaal zijn de meeste woorden oxytona, wat wil zeggen dat de klemtoon op de laatste lettergreep ligt.
+In het Oud- en Middelfrans bestonden twee mogelijkheden: de klemtoon viel op de laatste lettergreep of op de voorlaatste, waarbij de klinker in de laatste lettergreep was gereduceerd tot een sjwa.
+Dit was het gevolg van de syncope waarbij de plaats van de klemtoon niet meeveranderde; de klassiek Latijnse proparoxytona waren hierdoor veranderd in paroxytona (cálidus > *caldus > chaut), terwijl bij de klassiek Latijnse paroxytonen de klemtoon was verschoven naar de laatste lettergreep (zoals in dēbet > deift).
+In geschreven teksten uit het midden van de 9e eeuw eindigen Oudfranse woorden nog op -us, -o of -a , maar dit veranderde al heel snel daarna in -s of -e.    Nasalen  Net als het Nieuwfrans kende ook het Oudfrans al genasaliseerde klinkers.
+In tegenstelling tot  tegenwoordig werd de medeklinker die de nasalisatie veroorzaakt had nog uitgesproken.
+In het woord vin was waarschijnlijk een i-achtige klank te horen in plaats van de huidige e, en ook de combinaties en en ain moeten anders hebben geklonken.
+Medeklinkers  De consonantmutaties die de ontwikkeling van het Oudfrans hebben gekenmerkt zijn grotendeels hetzelfde als in andere Romaanse talen:  De h werd net als tegenwoordig in het Oudfrans nog geschreven, maar moet al heel vroeg zijn verdwenen (zie ook h-deletie).
+De stemloze velare plosief k (met het grafeem c) werd gepalataliseerd voor de klinkers e en i en in sommige gevallen - bijvoorbeeld in de Parijse dialecten - ook voor a. Dit werd gevolgd door assibilatie, en uiteindelijk leidde dit eerst tot de affricaten en uiteindelijk de sibilanten /ʦ/ en /ʧ/, afhankelijk van de taalvariant (in het Picardisch wordt cerf uitgesproken als /ʧɛrf/, en chambre als /kɑ̃mbrə/).
+Deze nieuwe klank heeft tot op de dag van vandaag het Latijnse grafeem c behouden.
+Evenzo is de stemhebbende velare plosief g- in veel gevallen veranderd in /j/, en daarna /ʤ/: jocus [ˈjɔ.kʊs] > gius, geus [ˈʤe.us] 'spel, speel; speelgoed'.
+Typisch Frans is verder de lenitie gevolgd door deletie van f, p en c voor en na klinkers; de al besproken Oudfranse vorm deift veranderde aldus eerst in deit, vervolgens in doit.
+Spelling  Met de letter z werd de combinatie ts weergegeven.
+Aan het woordeinde stond -x in principe voor -us.
+De Oudfranse spelling kende nog geen accent aigu, grave of circonflexe.
+De cedille bestond al wel; zo was het grafeem Ç een afkorting van de digraaf cz waarmee werd aangeduid dat een c als ts diende te worden uitgesproken en niet als k.    Grammatica  De Oudfranse grammatica wijkt sterker af van die van het Nieuwfrans dan bij andere Romaanse talen in dit stadium het geval was.
+Zelfstandig naamwoord  In tegenstelling tot de andere Romaanse talen kende het Oudfrans het derde (onzijdige) geslacht al niet meer.
+De meeste woorden die in het Latijn onzijdig waren, waren in het Oudfrans mannelijk geworden.
+Alle zelfstandige naamwoorden werden bovendien voorzien van lidwoorden die waren afgeleid van de Latijnse aanwijzende voornaamwoorden ille en illa 'die daar, gene'.
+In de Eed van Straatsburg ontbraken de Oudfranse lidwoorden nog, maar in de Sequentia van de heilige Eulalie werden ze al wel gebruikt.
+In de 9e eeuw eindigden de meeste vrouwelijke woorden nog op -a, zoals in het Latijn.
+Daarna trad snel klinkerreductie op, waardoor de woorden in de 10e eeuw op een sjwa eindigden.
+Maar wat nog het meest opvalt is dat het Oudfrans twee naamvallen kende: de casus rectus en de casus obliquus, in de Franstalige grammatica cas sujet en cas régime genoemd.
+In de andere Romaanse talen (behalve het Oudoccitaans en Oud-Reto-Romaans) was dit tweecasussysteem in dezelfde tijd waarschijnlijk al helemaal verdwenen.
+In het meervoud waren de meeste vormen al hetzelfde, in het enkelvoud bestond het onderscheid tussen de casus rectus en de casus obliquus vooral bij mannelijke woorden (net als in het Duits):    bepaald lidwoord     onbepaald lidwoord  Dit was net als in het Nieuwfrans hetzelfde voor mannelijk en vrouwelijk.
+Eerste declinatie  Regelmatige vrouwelijke woorden Deze woorden gaan terug op de declinatie volgens welke femina werd verbogen.
+Eerste declinatie (a): vrouwelijke hybriden Deze woorden gaan terug op een andere dan de eerste Latijnse declinatie: riens (vervormd uit rien < rem, accusatief van res, vijfde declinatie) en citez (< civitas, derde declinatie)    Tweede declinatie  Tot deze groep behoren de meeste mannelijke woorden die in het Latijn in de nominatief enkelvoud op -us eindigden; in het Oudfrans eindigden deze woorden in de nominatief enkelvoud ook nog op -s, in de casus obliquus in het algemeen op -o (Deus - Deo, Karlus - Karlo); er bestonden echter verschillen per dialect.
+De meervoudsvorm van de casus obliquus was gebaseerd op de Latijnse accusatief (veisins < vicinos).
+Mannelijke woorden -is die in het Latijn volgens de derde declinatie werden verbogen en onzijdige woorden op -s zijn ook in deze categorie beland (peis, pois 'gewicht' < pensum; tens, tans 'tijd; weer' < tempus).
+Dit gold eveneens voor woorden die terug te leiden waren op Latijnse deelwoorden: -ens, -entem (sergenz < serviens).
+tweede declinatie (a): mannelijke hybriden Tot deze verbuigingsklasse behoren de meeste mannelijke woorden die in het Latijn in de nominatief enkelvoud niet op -us eindigen.
+Derde of gemengde declinatie  De derde declinatie omvatte in het Latijn zowel mannelijke als vrouwelijke vormen.
+In het Oudfrans werd slechts een beperkt aantal woorden ook volgens deze declinatie verbogen.
+De derde declinatie in het Oudfrans wordt onderverdeeld in vier subklassen: derde declinatie (a): mannelijk De eerste subgroep bevat onder meer de Latijnse nomina agentis, dat wil zeggen mannelijke woorden die terug te voeren zijn op het Latijnse achtervoegsel -ātōr en al deze woorden waren Latijnse paroxytona, dus in de nominatief enkelvoud viel de klemtoon op a: viátor, dictátor, curátor, en in de verbogen vorm op o± viatórem, dictatórem, curatórem.
+In het Oudfrans leidde dit tot de volgende verbuigingsparadigma:  derde declinatie (b): mannelijk< De woorden uit deze groep stammen van woorden die in de nominaitef eindigden op -o en in de andere naamvallen op -onX.
+Ook hier verschuift in andere naamvallen dan de nominatief enkelvoud de klemtoon naar achteren: Cícero - Cicerónem.
+De meeste abstracte vrouwelijke Latijnse woorden op -o, -onem hebben klasse IIIb niet gehaald.
+In deze groep vallen ook woorden met een niet-Latijnse herkomst zoals rectus gars, obliquus garçun 'soldaat, jongen, knecht' (ontleend aan het Oudfrankische *wrakkio 'banneling, krijger in vreemde dienst', waaruit Middelnederlands recke 'banneling, avonturier, rondzwervend krijger').
+De woorden uit klasse IIIb vertonen veel klinkerwisseling.
+derde declinatie (c): vrouwelijk Deze verbuigingsklasse bestond nog niet in het Latijn.
+Ook hier is in het meervoud geen verschil meer tussen de naamvallen:  derde declinatie (d): gemengd Dit is een restgroep waarin onregelmatige vormen zijn gemengd.
+Deze klasse is op dezelfde manier ontstaan als IIIa en IIIb: door verschuiving van de klemtoon.
+In de onderstaande voorbeelden zijn de grondwoorden sóror - sorórem, ínfans - infántem, présbyter - presbýterem en sénior - seniórem.
+Alleen in het laatste voorbeeld (cómes - cómitem) bleef de klemtoon gelijk, wat voor een anomalie in de verbuiging zorgde.
+Werkwoord  De vervoeging van het Oudfranse werkwoord onderscheidt zich met name van die van Latijnse werkwoorden doordat er meer onregelmatigheden zijn.
+Ook zijn bepaalde synthetische tijden - in het bijzonder het preteritum exactum, futurum exactum en plusquamperfectum - verdwenen en vervangen door analytische samengestelde tijden met als hulpwerkwoorden aveir 'hebben' of estre 'zijn'.
+Werkwoorden op -er zonder umlaut  De meeste Oudfranse werkwoorden op -er stammen uit de Latijnse werkwoorden op -are en kennen geen umlaut in de stam:    Werkwoorden op -er met umlaut  In werkwoorden met umlaut in de stam is deze klinkerwisseling afhankelijk van de klemtoon.
+Deze kan vallen op de stam of uitgang.
+Klinkers in open lettergrepen ondergaan (zoals hierboven beschreven) andere veranderingen dan klinkers in gesloten lettergrepen.
+In het volgend paradigma is de alternantie a ~ ai.
+Daarnaast wordt in de aanvoegende wijs m geassimileerd tot n. Als gevolg van morfologische nivellering hebben in het Nieuwfrans alle stamklinkers dezelfde vorm (n het voorbeeld hieronder ai- gekregen.
+Werkwoorden op -ir zonder infix     Werkwoorden op -ir met infix  Het infix is(s)- (< Latijns -esc-) komt bij sommige werkwoorden tussen de stam en de uitgang te staan.
+Deze werkwoorden hebben nooit de klemtoon op de stam.
+In het Italiaans is dit infix nog het duidelijkst zichtbaar: finir → finisco, finisci (maar: dormir→ dormo, dormi).
+Werkwoorden op -re  Oudfranse werkwoorden op -re stammen uit de Latijnse infinitieven op -ere, met een sjwa tussen de stam en de uitgang.
+Werkwoorden op -oir  De meeste Nieuwfranse werkwoorden op -oir, die waren afgeleid van Latijnse werkwoorden op -ēre, eindigden in het Oudfrans nog op -eir (behalve avoir).
+Deze werkwoorden waren in het Oudfrans al onregelmatig en zijn dit nog steeds.
+Literatuur en cultuur  Zie ook Franse literatuur in de middeleeuwen.
+Het Oudfrans is pas vanaf de 12e eeuw een echte schrijftaal geworden, waarin in het algemeen veranderingen die zich in de spreektaal voltrekken slechts met grote vertraging doorsijpelen.
+Het resultaat was diglossie, en de Franse orthografie is hierdoor tot op de dag van vandaag niet erg fonetisch (hoewel dit in het Engels natuurlijk veel erger is).
+Daarvoor was er al wel het een en ander in het Oudfrans opgeschreven.
+De ontwikkeling van de Noord-Franse cultuur werd in gang gezet door het Huis Capet.
+Hierdoor kregen de noordelijke gebieden van Gallië en daarmee ook de daar gesproken dialecten (de langues d'oïl) geleidelijk aan steeds meer prestige ten aanzien van de zuidelijkere regionen (in het bijzonder Aquitanië en Toulouse).
+Bronnen  De Engelse en Limburgse Wikipedia-artikelen.
+Referenties  François de la Chaussée (1989), Initiation à la morphologie historique de l'ancien français, 3de druk, Parijs: Klincksieck (1st druk 1977).
+ISBN 2-252-01922-0 Xavier Delamarre (2003), Dictionnaire de la langue gauloise.
+Une approche linguistique du vieux-celtique continental, 2de druk, Parijs: Errance.
+ISBN 2877722376 Frédéric Duval (2009), Le Français médiéval, Turnhout: Brepols.
+William W. Kibler (1984), An Introduction to Old French, New York: Modern Language Association of America.
+André Lanly (1977, herdruk 1995, 2002), Morphologie historique des verbes français.
+Notions générales, conjugaisons régulières, verbes irréguliers, Parijs: Champion.
+ISBN 2-7453-0822-X Mildred Katherine Pope (1952), From Latin to Modern French with Especial Consideration of Anglo-Norman Phonology and Morphology, 2de druk, Manchester: Manchester University Press (1st druk 1934).

@@ -1,0 +1,596 @@
+L'informatique est un domaine d'activité scientifique, technique, et industriel concernant le traitement automatique de l'information par l'exécution de programmes informatiques par des machines : des systèmes embarqués, des ordinateurs, des robots, des automates, etc.
+Ces champs d'application peuvent être séparés en deux branches, l'une, de nature théorique, qui concerne la définition de concepts et modèles, et l'autre, de nature pratique, qui s'intéresse aux techniques concrètes de mise en œuvre.
+Certains domaines de l'informatique peuvent être très abstraits, comme la complexité algorithmique, et d'autres peuvent être plus proches d'un public profane.
+Ainsi, la théorie des langages demeure un domaine davantage accessible aux professionnels formés (description des ordinateurs et méthodes de programmation), tandis que les métiers liés aux interfaces homme-machine sont accessibles à un plus large public.
+Définitions   Le terme « informatique » résulte de l'association du terme « information » au suffixe « -ique » signifiant « qui est propre à ».
+Comme adjectif, il s'applique à l'ensemble des traitements liés à l'emploi des ordinateurs et systèmes numériques.
+Comme substantif, il désigne les activités liées à la conception et à la mise en œuvre de ces machines.
+Des questions de télécommunications comme le traitement du signal ou la théorie de l'information, aussi bien que des problèmes mathématiques comme la calculabilité s'y rattachent.
+Dans le vocabulaire universitaire américain, l'informatique (« computer science ») désigne surtout l'informatique théorique : un ensemble de sciences formelles qui ont pour objet d'étude la notion d'information et des procédés de traitement automatique de celle-ci, l'algorithmique.
+Les applications de l'informatique depuis les années 1950 forment la base du secteur d'activité des technologies de l'information et de la communication.
+Ce secteur industriel et commercial est lié à la fois aux procédés (logiciel, architectures de systèmes) et au matériel (électronique, télécommunication).
+Le secteur fournit également de nombreux services liés à l'utilisation de ses produits : développement, maintenance, enseignement, assistance, surveillance et entretien.
+Étymologie  En 1957, l'ingénieur allemand Karl Steinbuch crée le terme « Informatik » pour son essai intitulé Informatik: Automatische Informationsverarbeitung, pouvant être rendu en français par « Informatique : traitement automatique de l'information ».
+En mars 1962, Philippe Dreyfus, ancien directeur du Centre national de calcul électronique de Bull, utilise pour la première fois en France le terme « Informatique » pour son entreprise « Société d'informatique appliquée » (SIA).
+Selon certains, ce néologisme est un mot-valise qui agglomère « information » et « automatique », pour désigner le traitement automatique des données,.
+Le même mois, Walter Bauer inaugure la société américaine « Informatics Inc. » qui dépose son nom et poursuit toutes les universités qui utilisent ce mot pour décrire la nouvelle discipline, les forçant à se rabattre sur computer science, bien que les diplômés qu'elles forment soient pour la plupart des praticiens de l'informatique plutôt que des scientifiques au sens propre[réf.
+nécessaire].
+L’Association for Computing Machinery, la plus grande association d'informaticiens au monde, approche même Informatics Inc. afin de pouvoir utiliser le mot informatics en remplacement de l'expression computer machinery, mais l'entreprise décline la proposition[réf.
+nécessaire].
+En 1985 Sterling Software rachète la société Informatics Inc. qui cesse ses activités en 1986[réf.
+souhaitée].
+Pour Donald Knuth, cependant, les Américains ont délibérément écarté le mot informatique, non pour un problème de marque mais pour des raisons sémantiques ; les ordinateurs ne traitent pas de l'information, mais des données, dont le sens informatif est parfaitement indifférent[réf.
+nécessaire].
+En 1966, l'Académie française consacre l'usage officiel du mot pour désigner la « science du traitement de l'information ».
+La presse, l'industrie et le milieu universitaire l'adoptent dès cette époque.
+En juillet 1968, le ministre fédéral de la Recherche scientifique d'Allemagne, Gerhard Stoltenberg, prononce le mot « Informatik » lors d'un discours officiel sur la nécessité d'enseigner cette nouvelle discipline dans les universités de son pays ; on emploie ce même terme pour nommer certains cours dans les universités allemandes.
+Le mot informatica fait alors son apparition en Italie et en Espagne, de même qu’informatics au Royaume-Uni.
+Les fondateurs de la Compagnie Générale d'Informatique (CGI) reprennent le mot « informatique » en 1969.
+Évolution sémantique  Dans l'usage contemporain, le substantif « informatique » devient un mot polysémique qui désigne autant le domaine industriel en rapport avec l'ordinateur (au sens de calculateur fonctionnant avec des algorithmes), que la science du traitement des informations par des algorithmes.
+Les expressions « science informatique », « informatique fondamentale » ou « informatique théorique » désignent sans ambiguïté la science, tandis que « technologies de l'information » ou « technologies de l'information et de la communication » désignent le secteur industriel et ses produits.
+Des institutions assimilent parfois la compétence des utilisateurs dans la manipulation des appareils à l'alphabétisation ou à la conduite automobile, comme veut le faire entendre l'expression European Computer Driving License (traduction littérale : « permis de conduire un ordinateur »),.
+Équivalents en anglais  Plusieurs termes en anglais désignent l'informatique :  informatics (en), surtout en tant que domaine scientifique (se rencontre en Europe de l'Ouest) ; computer science, l'informatique fondamentale ou science des calculateurs, une branche de la science en rapport avec le traitement automatique d'informations ; computing (en), qui qualifie les activités nécessitant une masse d'opérations mathématiques et logiques (par exemple, dans cloud computing ou decision support computing) ; electronic data processing (en), le traitement des données à l'aide de l'électronique ; Information technology, souvent utilisé pour désigner le secteur industriel des technologies de l'information,.Dans le monde du travail, on parle volontiers d’I.T., le département informatique étant the I.T.
+department (les autres termes ne sont quasiment jamais utilisés).
+Histoire   Depuis des millénaires, l'Homme a créé et utilisé des outils l'aidant à calculer (abaque, boulier, etc.), exigeant, comme les opérations manuelles, des algorithmes de calcul, dont des tables datant de l'époque d'Hammourabi (environ -1750) figurent parmi les exemples les plus anciens.
+Si les machines à calculer évoluent constamment depuis l'Antiquité, elles n'exécutent pas elles-mêmes l'algorithme : c'est l'homme qui doit apprendre et exécuter la suite des opérations, comme pour réaliser les différentes étapes d'une division euclidienne).
+En 1642, Blaise Pascal imagine une machine à calculer,, la Pascaline, qui fut commercialisée.
+Sept exemplaires subsistent dans des musées comme celui des arts et métiers et dont deux, qui sont dans des collections privées (IBM en possède une).
+Joseph Marie Jacquard avec ses métiers à tisser à cartes perforées illustre en premier le concept de programmation, comme enchaînement automatique d'opérations élémentaires.
+George Boole et Ada Lovelace esquissent une théorie de la programmation des opérations mathématiques.
+Mécanographie  Dans les années 1880, Herman Hollerith, futur fondateur d'IBM, fonde la mécanographie en inventant une machine électromécanique destinée à faciliter le recensement en stockant les informations sur une carte perforée.
+Le gouvernement des États-Unis utilise pour la première fois à grande échelle les trieuses et les tabulatrices lors du recensement de 1890, à la suite de l'afflux des immigrants dans ce pays dans la seconde moitié du XIXe siècle.
+L'ingénieur norvégien Fredrik Rosing Bull a créé la première entreprise européenne qui a développé et commercialisé des équipements mécanographiques.
+Installé en Suisse dans les années 1930 il est ensuite venu en France pour s'attaquer au marché français.
+Pendant la Seconde Guerre mondiale, René Carmille utilisait des machines mécanographiques Bull.
+Les Allemands étaient équipés de machines mécanographiques avant la Seconde Guerre mondiale.
+Ces équipements étaient installés dans des ateliers composés de trieuses, interclasseuses, perforatrices, tabulatrices et calculatrices connectées à des perforateurs de cartes.
+Des machines électromécaniques utilisant aussi des lampes radio comme les triodes effectuaient les traitements.
+Ces lampes dégageaient de la chaleur qui attirait les insectes, et les bugs (terme anglais pour insectes, francisé en « bogue ») étaient une cause de panne courante.
+L'informatique moderne n'a pu émerger qu'à la suite de l'invention du transistor en 1947 et son industrialisation dans les années 1960.
+Naissance de l'informatique moderne  L'informatique moderne commence avant la Seconde Guerre mondiale, lorsque le mathématicien Alan Turing pose les bases d'une théorisation de ce qu'est un ordinateur, avec son concept de machine universelle de Turing.
+Turing pose dans son article les fondements théoriques de ce qui sépare la machine à calculer de l'ordinateur : la capacité de ce dernier à réaliser un calcul en utilisant un algorithme conditionnel.
+Après la Seconde Guerre mondiale, l'invention du transistor, puis du circuit intégré permettront de remplacer les relais électromécaniques et les tubes à vide, qui équipent les machines à calculs pour les rendre à la fois plus petites, plus complexes, plus économiques et plus fiables.
+Le capital-risque finance des dizaines de sociétés électroniques.
+Avec l'architecture de von Neumann, mise en application de la machine universelle de Turing, les ordinateurs dépassent la simple faculté de calculer et peuvent commencer à accepter des programmes plus évolués, de nature algorithmique.
+Dans les années 1970, l'informatique se développe avec les télécommunications, avec Arpanet, le réseau Cyclades et la Distributed System Architecture (DSA) de réseau en couches, qui donnera naissance en 1978 au modèle OSI, appelé aussi « OSI-DSA », puis aux protocoles TCP-IP dans les années 1990, grâce à la baisse des prix des microprocesseurs.
+Les concepts de datagramme et d'informatique distribuée, d'abord jugés risqués, s'imposeront grâce à l'Internet.
+Développement des applications informatiques  La série de livres The Art of Computer Programming de Donald Knuth, publiée à partir des années 1960, fait ressortir les aspects mathématiques de la programmation informatique.
+Edsger Dijkstra, Niklaus Wirth et Christopher Strachey travaillent et publient vers un même axe.
+Ces travaux préfigurent d'importants développements en matière de langage de programmation.
+L'amélioration de l'expressivité des langages de programmation a permis la mise en œuvre d'algorithmes toujours plus sophistiqués, appliqués à des données de plus en plus variées.
+La miniaturisation des composants et la réduction des coûts de production, associées à une augmentation de la demande en traitements des informations de toutes sortes (scientifiques, financières, commerciales, etc.), ont eu pour conséquence une diffusion de l'informatique dans tous les secteurs économiques, ainsi que dans la vie quotidienne des individus.
+Dans les années 1970, Xerox fait réaliser des études en psychologie cognitive et en ergonomie en vue de simplifier l'utilisation des outils informatiques.
+L'interface graphique propose un accès à la machine plus proche des objets ordinaires que l'interface en ligne de commande existant jusque-là.
+Les constructeurs souhaitant concurrencer le géant IBM promeuvent une informatique plus décentralisée.
+La démocratisation de l'utilisation d'Internet – réseau basé sur ARPANET – depuis 1995, a amené les outils informatiques à être de plus en plus utilisés dans une logique de réseau comme moyen de télécommunication, à la place des outils tels que la poste ou le téléphone.
+Elle s'est poursuivie avec l'apparition des logiciels libres, puis, des réseaux sociaux et des outils de travail collaboratif dont Wikipédia n'est qu'un des nombreux exemples.
+Face à la demande pour numériser photos et musiques, les capacités de stockage, de traitement et de partage des données explosent et les sociétés qui ont parié sur la croissance la plus forte l'emportent le plus souvent, en profitant d'une énorme bulle spéculative sur les sociétés d'informatique.
+En France, l'informatique n'a commencé à se développer que dans les années 1960, avec le Plan Calcul.
+Depuis lors, les gouvernements successifs ont mené des politiques diverses en faveur de la Recherche scientifique, l'Enseignement, la tutelle des Télécommunications, la nationalisation d'entreprises clés.
+Science informatique   La science informatique est une science formelle, dont l'objet d'étude est le calcul au sens large, c'est-à-dire, non pas exclusivement arithmétique, mais en rapport avec tout type d'information que l'on peut représenter par une suite de nombres.
+Ainsi, textes, séquences d'ADN, images, sons ou formules logiques peuvent faire l'objet de calculs.
+Selon le contexte, on parle d'un calcul, d'un algorithme, d'un programme, d'une procédure.
+Calculabilité   Un algorithme est une manière systématique de procéder pour arriver à calculer un résultat.
+Un des exemples classiques est l'algorithme d'Euclide du calcul du « Plus grand commun diviseur » (PGCD) qui remonte au moins à 300 ans av.
+J.-C., mais il s'agit déjà d'un calcul complexe.
+Avant cela, le simple fait d'utiliser un abaque demande d'avoir réfléchi à un moyen systématique (et correct) d'utiliser cet outil pour réaliser des opérations arithmétiques.
+Des algorithmes existent donc depuis l'Antiquité, mais ce n'est que depuis les années 1930, avec les débuts de la théorie de la calculabilité, que les scientifiques se sont posés les questions « qu'est-ce qu'un modèle de calcul ?
+», « est-ce que tout est calculable ?
+» et ont tenté d'y répondre formellement[réf.
+nécessaire].
+Il existe de nombreux modèles de calcul, dont les deux principaux sont la « machine de Turing » et le « lambda calcul ».
+Ces deux systèmes formels définissent des objets qui peuvent représenter ce qu'on appelle des procédures de calcul, des algorithmes ou des programmes.
+Ils définissent ensuite, un moyen systématique d'appliquer ces procédures, c'est-à-dire de calculer.
+Le résultat le plus important de la calculabilité est probablement le fait que les principaux modèles de calcul ont exactement la même puissance.
+C'est-à-dire qu'il n'existe pas de procédure que l'on pourrait exprimer dans un modèle mais pas dans un autre.
+La thèse de Church postule que ces modèles de calcul équivalents décrivent complètement et mathématiquement tout ce qui est physiquement calculable.
+Un deuxième résultat fondamental est l'existence de fonctions incalculables, une fonction étant ce que calcule une procédure ou un algorithme (ceux-ci désignant plutôt comment faire le calcul).
+On peut montrer qu'il existe des fonctions, bien définies, pour lesquelles il n'existe pas de procédure pour les calculer.
+L'exemple le plus connu étant probablement le problème de l'arrêt, qui montre qu'il n'existe pas de machine de Turing calculant si une autre machine de Turing donnée s'arrêtera (et donc donnera un résultat) ou non.
+Tous les modèles de calcul étant équivalents, ce résultat s'applique aussi aux autres modèles, ce qui inclut les programmes et logiciels que l'on peut trouver dans les ordinateurs courants.
+Il existe un lien très fort entre les fonctions que l'on ne peut pas calculer et les problèmes que l'on ne peut pas décider (voir Décidabilité).
+Algorithmique   L'algorithmique est l'étude comparative des différents algorithmes.
+Tous les algorithmes ne se valent pas : le nombre d'opérations nécessaires pour arriver à un même résultat diffère d'un algorithme à l'autre.
+Ce nombre d'opérations, appelé la complexité algorithmique est le sujet de la théorie de la complexité des algorithmes, qui constitue une préoccupation essentielle en algorithmique.
+La complexité algorithmique sert en particulier à déterminer comment le nombre d'opérations nécessaires évolue en fonction du nombre d'éléments à traiter (la taille des données) :  soit l'évolution peut être indépendante de la taille des données, on parle alors de complexité constante ; soit le nombre d'opérations peut augmenter selon un rapport logarithmique, linéaire, polynomial ou exponentiel (dans l'ordre décroissant d'efficacité et pour ne citer que les plus répandues) ; une augmentation exponentielle de la complexité aboutit très rapidement à des durées de calcul déraisonnables pour une utilisation en pratique ; tandis que pour une complexité polynomiale (ou meilleure), le résultat sera obtenu après une durée de calcul réduite, même avec de grandes quantités de données.Nous arrivons maintenant à un problème ouvert fondamental en informatique : « P est-il égal à NP ?
+».
+En simplifiant beaucoup : P est « l'ensemble des problèmes pour lesquels on connaît un algorithme efficace » et NP « l'ensemble des problèmes pour lesquels on connaît un algorithme efficace pour vérifier une solution à ce problème ».
+Et en simplifiant encore plus : existe-t-il des problèmes difficiles ?
+Des problèmes pour lesquels il n'existe pas d'algorithme efficace ?
+Cette question est non seulement d'un grand intérêt théorique mais aussi pratique.
+En effet, un grand nombre de problématiques courantes et utiles sont des problèmes que l'on ne sait pas résoudre de manière efficace.
+C'est d'ailleurs un des problèmes du prix du millénaire et le Clay Mathematics Institute s'est engagé à verser un million de dollars aux personnes qui en trouveraient la solution.
+C'est un problème ouvert, donc formellement, il n'y a pas de réponse reconnue.
+Mais, en pratique, la plupart des spécialistes[réf.
+nécessaire] s'accordent pour penser que P≠NP, c'est-à-dire qu'il existe effectivement des problèmes difficiles qui n'admettent pas d'algorithme efficace.
+Cryptologie   Ce type de problème de complexité algorithmique est directement utilisé en cryptologie.
+En effet, les méthodes de cryptologie modernes reposent sur l'existence d'une fonction facile à calculer qui possède une fonction réciproque difficile à calculer.
+C'est ce qui permet de chiffrer un message qui sera difficile à décrypter (sans la clé).
+La plupart des chiffrements (méthode de cryptographie) reposent sur le fait que la procédure de Décomposition en produit de facteurs premiers n'a pas d'algorithme efficace connu.
+Si quelqu'un trouvait un tel algorithme, il serait capable de décrypter la plupart des cryptogrammes facilement.
+On sait d'ailleurs qu'un calculateur quantique en serait capable, mais ce genre d'ordinateur n'existe pas, en tout cas pour le moment.
+Autre   Plus récemment[Quand ?
+], et à la frontière avec la logique mathématique : la correspondance de Curry-Howard a jeté un pont entre le monde des démonstrations formelles et celui des programmes.
+Citons aussi l'étude de la mécanisation des procédés de calcul et de pensée qui a permis de mieux comprendre la réflexion humaine, et apporté des éclairages en psychologie cognitive et en linguistique, par exemple, à travers la discipline du traitement automatique du langage naturel,.
+Technologies de l'information et de la communication  Le terme technologies de l'information et de la communication désigne un secteur d'activité et un ensemble de biens qui sont des applications pratiques des connaissances scientifiques en informatique ainsi qu'en électronique numérique, en télécommunication, en sciences de l'information et de la communication et en cryptologie.
+Le matériel informatique est un ensemble d'équipements (pièces détachées) servant au traitement des informations.
+Un logiciel contient des suites d'instructions qui décrivent en détail les algorithmes des opérations de traitement d'information ainsi que les informations relatives à ce traitement (valeurs clés, textes, images, etc.).Les appareils en électronique numérique utilisent tous un système logique.
+Les entrées et sorties des composants électroniques n'ont que deux états ; l'un correspondant à vrai, l'autre à faux.
+On démontre qu'en assimilant vrai au nombre 1 et faux au nombre 0, on peut établir les règles logiques qui fondent un système de numération binaire.
+Les appareils représentent toute l'information sous cette forme.
+Les appareils informatiques se décomposent en quatre ensembles qui servent respectivement à entrer des données, les stocker, les traiter, puis, les faire ressortir de l'appareil, selon les principes de la machine de Turing et l'architecture de von Neumann.
+Les données circulent entre les pièces des différentes unités par des lignes de communication, les bus.
+Le processeur est la pièce centrale qui anime l'appareil en suivant les instructions des programmes qui sont enregistrés à l'intérieur.
+Appareils informatiques   Il existe aujourd'hui une gamme étendue d'appareils capables de traiter automatiquement des informations.
+De ces appareils, l'ordinateur est le plus connu, le plus ouvert, le plus complexe et un des plus anciens.
+L'ordinateur est une machine modulable et universelle qui peut être adaptée à de nombreuses tâches par ajout de matériel ou de logiciel.
+Un système embarqué est un appareil équipé de matériel et de logiciel informatique, et affecté à une tâche bien précise.
+Exemples d'appareils :  la console de jeu est un appareil destiné au jeu vidéo, une activité que l'on peut aussi exercer avec un ordinateur ; le NAS (acronyme de l'anglais network attached storage, littéralement « mémoire attachée à un réseau ») est un appareil destiné à garder des informations en mémoire et à les mettre à disposition via un réseau informatique ; le distributeur de billets : un automate qui distribue sur demande des billets de banque ou des tickets de transport public ; les distributeurs sont souvent des ordinateurs effectuant un nombre limité de tâches ; le récepteur satellite tout comme le décodeur de Télévision Numérique Terrestre : les émissions de télévision se font en numérique et sont captées et décodées par des appareils informatiques ; les appareils d'avionique sont des appareils électroniques et informatiques placés dans les avions et les véhicules spatiaux ; ils servent à la navigation, la prévention des collisions et la télécommunication ; le GPS : un appareil qui affiche une carte géographique, et se positionne sur la carte grâce à un réseau de satellites ; les cartes géographiques sont des informations créées par ordinateur ; le téléphone mobile : initialement c'est un simple appareil analogique, le téléphone portable a évolué, et il est maintenant possible de l'utiliser pour jouer, visionner des vidéos, des images ; Les smartphones sont de véritables ordinateurs de poche, intégrant de nombreux capteurs (positionnement GPS, accéléromètres multi-axes, Capteur photographique, thermomètre, hygromètre), regroupant ainsi plusieurs appareils différents dans un même boîtier ; les systèmes d'arme sont des dispositifs informatiques qui permettent l'organisation et le suivi des opérations militaires : positionnement géographique, calcul des tirs, guidage des appareils et des véhicules ; les robots sont des appareils électromécaniques qui effectuent, de manière autonome, des tâches pour assister ou remplacer des humains ; l'autonomie est assurée par un appareil informatique placé à l'intérieur et/ou à l'extérieur du robot.
+Matériel informatique   L'ensemble des composants électroniques, nécessaires au fonctionnement des appareils numériques, est appelé « en anglais hardware ».
+Dans un boîtier se trouvent les pièces centrales, par exemple, le processeur et des pièces périphériques servant à l'acquisition, au stockage, à la restitution et la transmission d'informations.
+L'appareil est un assemblage de pièces qui peuvent être de différentes marques.
+Le respect des normes industrielles par les différents fabricants assure le fonctionnement de l'ensemble.
+Carte mère   La carte mère est un circuit imprimé avec de nombreux composants et ports de connexion constituant le support principal des éléments essentiels d'un ordinateur (Supports des microprocesseur, mémoires, connecteurs divers et autres ports d'entrée-sortie).
+Boîtier et périphériques  L'intérieur du boîtier d'un appareil informatique contient un ou plusieurs circuits imprimés sur lesquels sont soudés des composants électroniques et des connecteurs.
+La carte mère est le circuit imprimé central, sur lequel sont connectés tous les autres équipements.
+Un bus est un ensemble de lignes de communication qui servent aux échanges d'information entre les composants de l'appareil informatique.
+Les informations sont transmises sous forme de signaux électriques.
+Le plus petit élément d'information manipulable en informatique correspond à un bit.
+Les bus transfèrent des bytes d’informations composés de plusieurs bits en parallèle.
+Les périphériques sont par définition, les équipements situés à l'extérieur du boîtier.
+Équipements d'entrée   Les périphériques d'entrée servent à commander l'appareil informatique ou à y envoyer des informations.
+L'envoi des informations se fait par le procédé de numérisation.
+Il s'agit de transformer des informations brutes (une page d'un livre, les listes des éléments périodiques, etc.) en suite de nombres binaires pouvant être manipulées par un appareil informatique.
+La transformation est faite par un circuit électronique.
+La construction du circuit diffère en fonction de la nature de l'information à numériser.
+L'ensemble des dispositifs de commande et les périphériques de sortie directement associés forment une façade de commande appelée interface homme-machine.
+Stockage d'information  Une mémoire est un dispositif électronique (circuit intégré) ou électromécanique destiné à conserver des informations dans un appareil informatique.
+Une mémoire de masse : dispositif de stockage de grande capacité, souvent électromagnétique (bandes magnétiques, disques durs), destiné à conserver longtemps une grande quantité d'informations.
+Un disque dur : mémoire de masse à accès direct, de grande capacité, composée d'un ou de plusieurs disques rigides superposés et magnétiques.
+L'IBM Ramac 305, le premier disque dur, a été dévoilé en 1956.
+Le disque dur est une des mémoires de masse les plus utilisées en informatique.
+Pour gérer de grandes volumétries, ces disques sont associés par des mécanismes logiciels permettant d'étendre leur capacité (jusqu'à plusieurs Po) et d'y intégrer une protection avancée (RAID et Réplication au niveau bloc.
+Réplication, Versioning et Snapshot au niveau fichier).
+Une mémoire morte (« Read Only Memory » en anglais, ou ROM) : mémoire composée de circuits intégrés où les informations ne peuvent pas être modifiées.
+Ce type de mémoire est toujours installé par le constructeur et utilisé pour conserver définitivement des logiciels embarqués.
+Une mémoire vive : mémoire composée de circuits intégrés où les informations peuvent être modifiées.
+Les informations non enregistrées sont souvent perdues à la mise hors tension.
+Processeur   Un processeur est un composant électronique qui exécute des instructions.
+Un appareil informatique contient un processeur, voire deux, quatre, ou plus.
+Les ordinateurs géants contiennent des centaines jusqu'à des milliers de processeurs.
+L'acronyme CPU (pour l'anglais Central Processing Unit) désigne le ou les processeurs centraux de l'appareil.
+L'exécution des instructions par le ou les CPU influence tout le déroulement des traitements.
+Un microprocesseur multi-cœur réunit plusieurs circuits intégrés de processeur dans un seul boîtier.
+Un composant électronique construit de cette manière effectue le même travail que plusieurs processeurs.
+Équipements de sortie  Les équipements de sortie servent à présenter les informations provenant d'un appareil informatique sous une forme reconnaissable par un humain.
+Un convertisseur numérique-analogique (en anglais Digital to Analog Converter ou DAC) est un composant électronique qui transforme une information numérique (une suite de nombres généralement en binaire) en un signal électrique analogique.
+Il effectue le travail inverse de la numérisation (exemple : un lecteur de CD audio).
+Un écran est une surface sur laquelle s'affiche une image (exemple : des fenêtres de dialogue et des documents).
+Les images à afficher sont générées par un circuit électronique convertisseur numérique-analogique en sortie des cartes vidéos pour l'affichage sur les écrans analogiques.
+De plus en plus souvent, l'étape du DAC est supprimée grâce à la connexion HDMI avec les écrans interprétant directement les images numériques.
+Un moniteur est un écran utilisant les mêmes techniques que celles utilisées par les téléviseurs, qui affiche des graphiques et des textes provenant de l'appareil informatique.
+Une imprimante est un équipement servant à produire des informations non volatiles, sous forme d'impression sur papier.
+Il peut s'agir de textes, de tableaux, de graphiques, de schémas, de photos, etc.
+Un haut-parleur ou un « jack » : on peut brancher un casque, un système d'enceintes amplifiées, ou tout système audio, afin de reproduire les sons dans le spectre audible par les humains, fabriqués ou passant par la carte son.
+Cette dernière utilisant aussi un DAC mais aussi ADC, permettant de numériser les signaux analogiques provenant de microphones ou de tout appareil électronique de reproduction sonore que l'on connecte au connecteur mic ou line.
+Équipements de réseau  Les équipements de réseau servent à la communication d'informations entre des appareils informatiques, en particulier, à l'envoi d'informations, à la réception, à la retransmission, et au filtrage.
+Les communications peuvent se faire par câble, par onde radio, par satellite, ou par fibre optique.
+Un protocole de communication est une norme industrielle relative à la communication d'informations.
+La norme établit autant le point de vue électronique (tensions, fréquences) que le point de vue informationnel (choix des informations, format), ainsi que le déroulement des opérations de communication (qui initie la communication, comment réagit le correspondant, combien de temps dure la communication, etc.).
+Selon le modèle OSI – qui comporte sept niveaux –, une norme industrielle (en particulier un protocole de communication) d'un niveau donné, peut être combinée avec n'importe quelle norme industrielle d'une couche située en dessus ou en dessous.
+Une carte réseau est un circuit imprimé qui sert à recevoir et envoyer des informations conformément à un ou plusieurs protocoles.
+Un modem est un équipement qui sert à envoyer des informations sous forme d'un signal électrique modulé, ce qui permet de les faire passer sur une ligne de communication analogique telle une ligne téléphonique.
+Logiciel informatique   Un logiciel est un ensemble d'informations relatives à un traitement automatisé, qui correspond à la « procédure » d'une Machine de Turing.
+La mécanique de cette machine correspondant au processeur.
+Le logiciel peut être composé d'instructions et de données.
+Les instructions mettent en application les algorithmes en rapport avec le traitement d'information voulu.
+Les données incluses dans un logiciel sont les informations relatives à ce traitement ou exigées par lui (valeurs clés, textes, images, etc.).
+Le logiciel peut prendre une forme exécutable (c'est-à-dire, directement compréhensible par le micro-processeur) ou source, c'est-à-dire que la représentation est composée d'une suite d'instructions directement compréhensible par un individu.
+Ainsi donc, on peut considérer le logiciel comme une abstraction qui peut prendre une multitude de formes : il peut être imprimé sur du papier, conservé sous forme de fichiers informatiques ou encore stocké dans une mémoire (une disquette, une clé USB).
+Un appareil informatique peut contenir de très nombreux logiciels, organisés en trois catégories :  logiciel applicatif : contient les instructions et les informations relatives à une activité automatisée.
+Un ordinateur peut stocker une panoplie de logiciels applicatifs, correspondant aux très nombreuses activités pour lesquelles il est utilisé ; logiciel système : contient les instructions et les informations relatives à des opérations de routine effectuées par les différents logiciels applicatifs ;système d'exploitation : logiciel système qui contient l'ensemble des instructions et des informations relatives à l’utilisation commune du matériel informatique par les logiciels applicatifs ;micrologiciel (firmware en anglais) : logiciel de bas niveau permettant la configuration, le démarrage d'un système et de rendre celui-ci « standard » quels que soient son constructeur et sa technologie.
+Un micrologiciel contient les instructions et les informations relatives au déroulement de cette opération sur l'équipement en question.
+Un appareil informatique peut contenir de nombreux micrologiciels.
+Chaque micrologiciel contient les instructions et les informations relatives à tous les traitements qui peuvent être effectués par les équipements d'une série ou d'une marque déterminée.Un logiciel embarqué, un logiciel libre, un logiciel propriétaire font référence à une manière de distribuer le logiciel.
+Voir « distribution de logiciels ».
+Domaines d'activités informatisées  Lire en ligne : IEEE Computer Society - Keywords.
+Manipulation d'informations administratives : commerciales, financières, légales, industrielles et comptables depuis 1962.
+Ingénierie : conception assistée par ordinateur et fabrication assistée par ordinateur dans les domaines de l'aéronautique, l'astronautique, la mécanique, la chimie, l'électronique et l'informatique.
+Sciences de la vie : biologie, santé.
+Sciences sociales : psychologie, sociologie, économie.
+Design et artisanat : architecture, littérature, musique.
+Malware ou logiciel malveillant : espionnage, vol d'informations, usurpation d'identité.
+Logiciel applicatif  Un logiciel applicatif ou application informatique contient les instructions et les informations relatives à une activité automatisée par un appareil informatique (informatisée).
+Il peut s'agir d'une activité de production (exemple : activité professionnelle), de recherche, ou de loisir.
+Par exemple, une application de gestion est un logiciel applicatif servant au stockage, au tri et au classement d'une grande quantité d'informations.
+Les traitements consistent en la collecte et la vérification des informations fraîchement entrées, la recherche d'informations et la rédaction automatique de documents (rapports).
+Un autre exemple, un jeu vidéo est un logiciel applicatif servant à jouer.
+Les traitements consistent en la manipulation d'images et de sons, la création d'images par synthèse, ainsi que l'arbitrage des règles du jeu.
+Logiciel système  Un logiciel système contient les instructions et les informations relatives à des opérations de routine susceptibles d'être exécutées par plusieurs logiciels applicatifs.
+Un logiciel système sert à fédérer, unifier et aussi simplifier les traitements d'un logiciel applicatif.
+Les logiciels systèmes contiennent souvent des bibliothèques logicielles.
+Lorsqu'un logiciel applicatif doit effectuer une opération de routine, celui-ci fait appel au logiciel système par un mécanisme appelé appel système.
+La façade formée par l'ensemble des appels systèmes auquel un logiciel système peut répondre est appelée Interface de programmation ou API (acronyme de l'anglais Application programming Interface).
+Un logiciel applicatif effectue typiquement un grand nombre d'appels système, et par conséquent, il peut fonctionner uniquement avec un système d'exploitation dont l'interface de programmation correspond.
+Le logiciel est alors dit compatible avec ce système d'exploitation, et inversement.
+Système d'exploitation   Le système d'exploitation est un logiciel système qui contient l'ensemble des instructions et des informations relatives à l’utilisation commune du matériel informatique par les logiciels applicatifs.
+Les traitements effectués par le système d'exploitation incluent : répartition du temps d'utilisation du processeur par les différents logiciels (multitâche), répartition des informations en mémoire vive et en mémoire de masse.
+En mémoire de masse, les informations sont groupées sous formes d'unités logiques appelées fichiers.
+Les traitements effectués par le système d'exploitation incluent également les mécanismes de protection contre l'utilisation simultanée par plusieurs logiciels applicatifs d'équipements de matériel informatique qui par nature ne peuvent pas être utilisés de manière partagée (voir Exclusion mutuelle).
+POSIX est une norme industrielle d'une interface de programmation qui est appliquée dans de nombreux systèmes d'exploitation, notamment la famille UNIX.
+Environnement graphique   L’environnement graphique est le logiciel système qui organise automatiquement l'utilisation de la surface de l'écran par les différents logiciels applicatifs et redirige les informations provenant des dispositifs de pointage (souris).
+L'environnement graphique est souvent partie intégrante du système d'exploitation.
+Système de gestion de base de données  Une base de données est un stock structuré d'informations enregistré dans un dispositif informatique.
+Un système de gestion de base de données (sigle : SGBD) est un logiciel système dont les traitements consistent à l'organisation du stockage d'informations dans une ou plusieurs bases de données.
+Les informations sont disposées de manière à pouvoir être facilement modifiées, triées, classées, ou supprimées.
+Les automatismes du SGBD incluent également des protections contre l'introduction d'informations incorrectes, contradictoires ou dépassées.
+Micrologiciel   Dans un équipement informatique utilisation d'un équipement matériel déterminé, opération de routine.
+Un micrologiciel contient les instructions et les informations relatives au traitement de cette opération sur l'équipement en question.
+Chaque micrologiciel contient les informations relatives à tous les traitements de routine qui peuvent être effectués par les équipements d'une série ou d'une marque déterminée.
+BIOS (acronyme de l'anglais Basic Input Output System) : nom du micro-logiciel incorporé à la carte mère d'un ordinateur, qui est développé spécifiquement pour celle-ci.
+Il contient toutes les routines spécifiques : boot ou démarrage du système d'exploitation, gestion des entrées-sorties, gestion de l'énergie et du refroidissement, etc.
+C'est à lui que s'adresse le système d'exploitation pour effectuer une grande diversité de tâches.
+Dans un appareil électronique : les micrologiciels sont utilisés pour réaliser des automatismes difficiles à concevoir uniquement avec des circuits électroniques.
+Par exemple, dans des appareils électroménagers (lave-linge, lave-vaisselle) ou les moteurs (calcul de la durée d'injection).Le micrologiciel est souvent distribué sur une puce de mémoire morte faisant partie intégrante du matériel en question.
+Il peut être mis à jour soit en changeant la ROM ou pour les systèmes les plus récents en réécrivant la mémoire flash.
+Utilisations et domaines d'activités   Le traitement de l'information s'applique à tous les domaines d'activité et ceux-ci peuvent se trouver associés au mot « informatique », comme dans « informatique médicale », où les outils informatiques sont utilisés dans l'aide au diagnostic (ce champ d'activité se rapportera plutôt à l'informatique scientifique décrite ci-dessous), ou dans « informatique bancaire », désignant des systèmes d'information bancaire qui relèvent plutôt de l'informatique de gestion, de la conception et de l'implantation de produits financiers qui relèvent plutôt de l'informatique scientifique et des mathématiques, ou encore de l'automatisation des salles de marché qui en partie relève de l'informatique temps réel.
+Les grands domaines d'utilisation de l'informatique sont :  Informatique de gestion informatique en rapport avec la gestion de données, à savoir le traitement en masse de grandes quantités d'information.
+L'informatique de gestion a de nombreuses applications pratiques dans les entreprises : manipulation des informations relatives aux employés, commandes, ventes, statistiques commerciales, journaux de comptabilité générale y compris, en son temps, le calcul du décalage pour les déclarations de TVA à récupérer et gestion de la production et des approvisionnements, gestion de stocks et des inventaires, etc.
+Ce domaine est de loin celui qui représente la plus forte activité.
+Informatique scientifique (en anglais « scientific computing ») consiste à aider les ingénieurs de conception dans les domaines de l'ingénierie industrielle à concevoir et dimensionner des équipements à l'aide de programmes de calcul : réacteurs nucléaires, avions et automobiles (langages souvent employés : historiquement le Fortran, de plus en plus concurrencé par C et C++).
+L'informatique scientifique est surtout utilisée dans les bureaux d'étude et les entreprises d'ingénierie industrielle car elle permet de simuler, par la recherche opérationnelle ou par itération, des scénarios de façon rapide et fiable.
+Par exemple, l'écurie italienne de Formule 1 Scuderia Ferrari s'est équipée en 2006 avec un des plus puissants calculateurs du monde afin de permettre les essais numériques de sa monoplace et accélérer la mise au point de ses prototypes ; Informatique embarquée consiste à définir les logiciels destinés à être embarqués dans des dispositifs matériels autonomes interagissant avec leur environnement physique.
+L'informatique embarquée assure alors parfois le pilotage de systèmes électromécaniques plus ou moins complexes.
+Elle est ainsi à rapprocher de la production de systèmes informatiques temps réel tant le temps devient une préoccupation clef lorsque l'informatique est acteur du monde réel.
+Elle trouve aussi ses domaines d'applications dans de nombreux objets de notre vie quotidienne en enrichissant les performances et les fonctionnalités des services proposés.
+Historiquement d'abord liés à l'aéronautique, le spatial, l'armement, le nucléaire, on en trouve aujourd'hui de nombreuses illustrations dans notre vie quotidienne : automobile, machine à laver, téléphone portable, carte à puce, domotique, etc. Ingénierie des connaissances (en anglais « knowledge management ») forme d'ingénierie informatique, qui consiste à gérer les processus d'innovation, dans tous les domaines, selon des modèles assez différents de ceux jusqu'alors employés en informatique de gestion.
+Cette forme d'ingénierie permettra peut-être d'accroître la cohérence des trois domaines, qui sont la gestion, le temps réel, et le scientifique dans l'organisation des entreprises.
+Elle s'intéresse plus au contenu et à la qualité des bases de données et de connaissances qu'à l'automatisation des traitements.
+Elle se développe déjà beaucoup aux États-Unis.
+Les applications du renseignement économique et stratégique (« intelligence » en anglais) font appel aux techniques de l'information, notamment dans l'analyse du contexte, pour la recherche d'informations (moteurs de recherche).
+D'autre part, dans une optique de développement durable, il est nécessaire de structurer les relations avec les parties prenantes, ce qui fait appel à d'autres techniques telles les protocoles d'échange et les moteurs de règles.
+Exemples de domaines d'utilisation  Les différents domaines d'utilisation de l'informatique sont les suivants :  Automatique : appareils de régulation tels le pilote automatique.
+Bio-informatique : outils d'aide dans la recherche en biologie.
+Bureautique : outils d'aide au travail de bureau : rédaction de documents commerciaux et correspondance.
+Calcul parallèle : pour des applications qui demandent de nombreux calculs : prévisions météo ou image de synthèse.
+Cryptographie : déchiffrage d'informations chiffrées par un code secret.
+Domotique : commande d'appareils domestiques et systèmes d'alarme.
+Exploration de données : extraction automatique de connaissances.
+Gestion de contenu : collecte des documents électroniques d'une entreprise : mail, fax, contrats.
+Hypermédias : manipulation de documents de présentation contenant des vidéos, des images et du son.
+Imagerie informatique : création ou manipulation d'images : images de synthèse, traitement d'images, jeux vidéo, simulateurs de vol.
+Informatique décisionnelle : analyses et statistiques en vue d'aide à la décision pour les responsables d'entreprise.
+Informatique de gestion : manipulation en masse de grandes quantités d'informations : listes de clients, des fournisseurs, de produits.
+Informatique industrielle : utilisation dans des chaînes de fabrication industrielles.
+Informatique médicale : manipulations d'images médicales (scanner, échographies), dossiers médicaux.
+Informatique musicale : composition musicale.
+Instrumentation : collecte d'informations provenant de capteurs, lors d'expériences scientifiques.
+Linguistique informatique : correction d'orthographe, traduction automatique.
+Logiciels malveillants : logiciels mal intentionnés qui s'installent et agissent à l'insu de l'utilisateur : vol d'informations, falsification, usurpation d'identité.
+Nanotechnologie : aide à la recherche en nanotechnologie.
+Publication assistée par ordinateur : outils de création de la presse et du livre.
+Robotique : pilotage des machines autonomes que sont les robots.
+Télécommunications : transmission d'informations.
+Terminologie de l'informatique   L'informatique est un secteur d'activité scientifique et industriel important aux États-Unis, en Europe et au Japon.
+Les produits et services de cette activité s'échangent dans le monde entier.
+Les produits immatériels tels que les connaissances, les normes, les logiciels ou les langages de programmation circulent très rapidement par l'intermédiaire des réseaux informatiques et de la presse spécialisée, et sont suivis par les groupes de veille technologique des entreprises et des institutions.
+Les matériels informatiques peuvent être conçus sur un continent et construits sur un autre.
+L'anglais international est la langue véhiculaire du secteur d'activité.
+Il est enseigné dans les écoles.
+C'est la langue des publications scientifiques ainsi que de nombreux ouvrages techniques.
+La grande majorité des langages de programmation utilisent le vocabulaire anglais comme base.
+Les termes peuvent provenir des instituts de recherche, des entreprises, ou des organismes de normalisation du secteur.
+De nombreux néologismes sont des abréviations ou des mots-valise basés sur des mots en anglais.
+Le grand nombre d'anglicismes reflète la domination actuelle des États-Unis sur ce marché.
+L'usage d'abréviations joue le même rôle que celui des formules chimiques : l'ébauche d'une nomenclature internationale qui facilite l'accès des lecteurs non anglophones à la littérature informatique.
+Il existe en outre, un phénomène d'emprunt lexical réciproque entre les langages de programmation – dont le lexique est basé sur l'anglais – et le jargon informatique.
+Marché de l'informatique   On trouve dans le monde environ un milliard de micro-ordinateurs, trois cent mille stations de travail, quelques dizaines de milliers de mainframes, et deux mille superordinateurs en état de marche.
+On ne connaît pas avec certitude la part de marché occupée par l'industrie des systèmes embarqués, mais on estime que l'informatique représente le tiers du coût d'un avion ou d'une voiture.
+La distribution des produits informatiques est faite sous la forme de multiples canaux de distribution, parmi lesquels on compte la vente directe, le e-commerce, les chaînes de revendeurs, les groupements de revendeurs, la vente par correspondance.
+Les grossistes informatiques ont un rôle clef dans la distribution informatique et sont un point de passage quasi obligé pour les sociétés qui ont choisi la vente indirecte (par un réseau de revendeurs).
+Les grossistes, qu'ils soient généralistes ou spécialisés, adressent la multitude de petits points de vente ou les sociétés de service pour lesquelles l'activité de négoce représente un volume d'activité faible.
+Aujourd'hui la plupart des constructeurs sont spécialisés soit dans le matériel, soit dans le logiciel, soit dans les services.Apple et Oracle (Sun) sont parmi les seuls constructeurs spécialisés à la fois dans le matériel et le logiciel.
+IBM et HP sont parmi les seuls constructeurs spécialisés à la fois dans le matériel et les services.
+Dans le sultanat d'Oman entre 2002 et 2005, 16 % des ventes concernaient du logiciel, 30 % concernait des ordinateurs, 28 % concernait des services, et 25 % concernait des équipements de transmission.
+En Autriche, en 2007, 21 % des ventes concernent le logiciel, 34 % concernent le matériel, et 45 % concernent des services.
+Histoire  Historiquement, le matériel informatique était distribué par les grands constructeurs qui traitaient en direct avec leurs clients ; la plupart de ceux-ci étant de grandes entreprises ou des organismes publics.
+Les logiciels étaient créés par les clients.
+Les constructeurs fournissaient uniquement un système d'exploitation, et assistaient leurs clients par l'organisation de cours de programmation à la formation des analystes programmeurs.
+Au fur et à mesure de la baisse des prix des systèmes, le marché s'est élargi, obligeant plusieurs constructeurs à se structurer pour mieux diffuser leur produit et à s'appuyer sur des partenaires.
+Ces partenaires étaient au départ mono-marque et travaillaient souvent sous la forme d'agent semi-exclusif, puis ils se sont transformés au fil du temps en revendeurs indépendants multi-marques.
+Dans les années 1980, en même temps que les premiers micro-ordinateurs, sont apparus les premiers éditeurs spécialisés dans le logiciel.
+Depuis 1987, le marché du micro-ordinateur est le principal secteur du marché informatique, et les micro-ordinateurs, initialement utilisés à des fins domestiques, sont désormais largement utilisés dans les entreprises et les institutions, où ils tendent à remplacer les stations de travail et les mainframes.
+Du fait de la croissance très rapide du marché, vecteur de forte concurrence, de nombreuses sociétés ont disparu dans les années 1980.
+Des quatorze grands fabricants de l'époque, en 1997 il n'en reste plus que deux (Intel et AMD).
+Marché du matériel  L'ordinateur est un appareil modulable, construit par assemblage de composants de différentes marques.
+Le développement et la construction des composants est le fait de quelques marques très spécialisées.
+La majorité des constructeurs d'ordinateurs sont des assembleurs : un assembleur est une société qui vend des ordinateurs construits par assemblage de composants provenant d'autres marques, y compris de concurrents.
+Loi de Moore   En 1965, Gordon Earle Moore, cofondateur d'Intel, un grand fabricant de microprocesseurs, émettait la Loi de Moore.
+Cette loi, basée sur l'observation, prédit que la complexité des microprocesseurs devrait doubler tous les deux ans.
+Quarante ans plus tard, cette observation se confirme toujours.
+Selon le magazine Ligne de crédit, l'alignement à la Loi de Moore n'est pas le fait du hasard, mais une volonté de l'industrie informatique.
+Offre en matériel   Le matériel informatique est aujourd'hui produit par diverses multinationales, majoritairement du Japon et de Taïwan.
+Exemples : En Autriche par exemple, les principales marques d'ordinateur sont, en 2007 : Hewlett-Packard (Palo Alto, États-Unis), Dell, (Round Rock, États-Unis), Fujitsu (Japon), Siemens (Berlin, Allemagne), Sony (Tokyo, Japon) et Acer (Taïwan).
+Les principales marques de consoles de jeux sont en 2007 : Sony (Tokyo, Japon), Nintendo (Kyoto, Japon), et Microsoft (Redmond, États-Unis).
+Marché du logiciel  La fabrication d'un logiciel (développement) demande très peu de moyens techniques, et par contre beaucoup de temps et de savoir-faire.
+Il existe aujourd'hui un très grand nombre d'auteurs de logiciels, il peut s'agir de multinationales comme Microsoft, de petites entreprises locales, voire de particuliers ou de bénévoles.
+Les grosses entreprises, utilisant du matériel informatique pour leurs propres besoins, ont souvent des équipes spécialisées, qui créent des logiciels sur mesure pour les besoins de l'entreprise.
+Ces logiciels ne seront jamais mis sur le marché.
+Un progiciel est un logiciel prêt-à-porter et générique prévu pour répondre à un besoin ordinaire.
+Par opposition à un logiciel spécifique, qui est développé sur mesure en vue de répondre au besoin d'un client en particulier.
+La création de logiciels spécifique est le principal sujet de contrats de services des entreprises informatiques.
+Dans des secteurs industriels comme l'aviation, des équipes créent des logiciels pour les systèmes embarqués de ce secteur.
+Ces logiciels ne sont jamais mis sur le marché séparément.
+Un logiciel étant un ensemble d'informations, il peut être transmis par les moyens de télécommunications.
+Le téléchargement est l'opération qui consiste à utiliser un réseau de télécommunication pour récupérer un logiciel en provenance d'un autre appareil.
+Le e-commerce est l'activité qui consiste à vendre des logiciels (ou d'autres biens) en les distribuant par des réseaux de télécommunication comme Internet.
+Types de logiciels  On peut distinguer quatre grands types de logiciels : libres, propriétaires, shareware, freeware, en fonction du type de contrat de licence qui régit leur distribution, utilisation et copie.
+Un logiciel libre (ou open source) est un logiciel que l'on peut utiliser, étudier, modifier et redistribuer librement.
+Un tel logiciel peut être soumis au droit d'auteur (sous une certaine licence) ou non (dans le domaine public).
+Les logiciels libres sont souvent distribués gratuitement.
+Un logiciel propriétaire peut être utilisé, mais ne peut pas être ni étudié, ni modifié, ni redistribué librement.
+Ces logiciels sont le plus souvent distribués par l'intermédiaire de réseaux de vente et, pour certains d'entre eux, associés de manière plus ou moins licite, à la vente d'un micro-ordinateur.
+Un gratuiciel (en anglais freeware) est un logiciel qui peut être distribué gratuitement.
+L'auteur se réserve le droit exclusif de le modifier.
+Un partagiciel (ou shareware) est un logiciel propriétaire qui est gratuit pendant une période d'essai et payant ensuite.
+De nombreuses variantes de shareware existent, selon le paiement demandé (qui est parfois un don à une organisation caritative, l'envoi d'une carte postale à l'auteur, etc.) et le fonctionnement du logiciel à la fin de la période d'essai (le logiciel peut tomber en panne, ou alors il reste utilisable mais importune l'utilisateur en l'avertissant de façon répétée qu'il doit acheter le produit, etc.).
+Un micrologiciel (ou firmware) est un logiciel incorporé dans un matériel informatique, et indissociable de celui-ci.
+Terminologie de la distribution de logiciels     Offre générale en logiciels  Il existe aujourd'hui une offre très large de logiciels, de tous les types : libres, propriétaires, shareware et freeware.
+L'industrie du logiciel est un des principaux secteurs économiques en Europe et aux États-Unis.
+De nombreux constructeurs de logiciels sont aux États-Unis.
+La création de logiciels applicatifs représente 52 % de l'activité.
+Si le Japon est un des pays les mieux équipés en matériel informatique, on y trouve les plus grands fabricants de matériel, il n'en va pas de même pour le logiciel, et de nombreux logiciels posent des problèmes pour l'écriture de textes en utilisant l'alphabet japonais.
+Il existe en 2008 environ quatre-vingts systèmes d'exploitation différents.
+Le marché est largement occupé par la famille Windows : cette famille de systèmes d'exploitation, propriété de Microsoft (Redmond, États-Unis) occupe environ 90 % du marché des systèmes d'exploitation pour ordinateurs personnels.
+La société Microsoft a fait l'objet de divers procès pour monopolisation du marché.
+En 2019, le marché des smartphones, tablettes et objet connectés a fortement évolué et utilise très majoritairement le système Androïd développé par Google.
+Offre en logiciels libres  GNU est un projet de système d'exploitation lancé en 1985, entièrement basé sur des produits open source.
+Linux est un système d'exploitation open source, écrit par une équipe de plus de 3 200 bénévoles.
+La valeur de revente de Linux est estimée à plus de 1,4 milliard de dollars.
+L'offre en logiciels libres consiste notamment en des ensembles qui contiennent à la fois des produits GNU et Linux.
+Ils sont distribués avec des magazines, ou mis à disposition pour le téléchargement.
+Aujourd'hui la majorité des téléphones portable sont basés sur des systèmes d'exploitation libres : OS X a été développé à partir de Free BSD, Android est quant à lui basé sur un système Linux classique.
+Ce qui fait des systèmes Open Source Linux et Free BSD les systèmes les plus répandus sur le marché du téléphone portable.
+Copie et Contrefaçon   La Contrefaçon numérique consiste à utiliser ou à mettre à disposition tout ou partie d'un logiciel alors que sa licence ne l'autorise pas, les éditeurs logiciel parlent volontiers de pirates pour désigner les auteurs voir, les utilisateurs de ces contrefaçons.
+La licence d'utilisation s'apparente à un contrat (dont la valeur juridique varie selon les pays) accepté implicitement par tout acheteur d'un logiciel (ou explicitement lors de l'installation ou du premier lancement de celui-ci).
+Par une licence propriétaire, l'éditeur octroie le droit, généralement exclusif et non transmissible, à l'acheteur d'utiliser le logiciel.
+Si une copie de ce logiciel est mise à disposition d'autrui, l'utilisation par autrui est alors une violation des clauses du contrat de licence et la mise à disposition est considérée comme un acte de contrefaçon.
+La vente de licences d'utilisation est la première source de revenus de nombreux éditeurs logiciels et la copie voir la diffusion illégale représente pour eux un important manque à gagner.
+La contrefaçon touche le marché du logiciel comme les marchés d'autres biens immatériels tels que la musique ou la vidéo.
+Les éditeurs vendent souvent leur logiciel accompagné de services tels que garantie et mises à jour, des services qui ne sont, la plupart du temps, disponibles que sur les logiciels légalement utilisés.
+Le nombre de copies de logiciels vendues par des contrefacteurs est plus ou moins élevé selon les pays.
+Selon la Business Software Alliance, en Algérie 85 % des logiciels vendus en 2008 seraient issus du piratage.
+Toujours selon la Business Software Alliance, au Luxembourg, ce taux aurait été de 21 % en 2007, ce qui serait le taux le plus bas du monde.
+Marché des services   Le passage d'un marché industriel de produits à un marché des services est relativement récent et en forte progression.
+Le commerce de services consiste principalement en la vente et l'exécution de mandats concernant des modifications sur des systèmes d'information d'entreprises ou de collectivités.
+Les systèmes d'information des entreprises sont parfois composés de centaines d'ordinateurs, sur lesquels sont exécutés des centaines de logiciels de manière simultanée.
+Il existe de nombreux liens entre les différents logiciels et les différents ordinateurs, et le simple fait d'arrêter un seul des éléments risque de déranger des milliers d'usagers, voire de provoquer le chômage technique de l'entreprise.
+Selon le cabinet Gartner Dataquest, les services informatiques ont généré 672,3 milliards de dollars dans le monde en 2006.
+Soit un marché en augmentation de 6,4 % par rapport à 2005.
+Un consultant est une personne chargée d'une mission de services.
+Offre en services  Une SSII (abréviation de Société de Service en Ingénierie Informatique) est une société qui met à disposition des spécialistes pour des missions de service sur des systèmes informatiques.De nombreuses SSII se trouvent aux États-Unis et en Inde.
+Parmi les leaders du marché on trouve IBM – la plus ancienne société d'informatique encore en activité –, ainsi que EDS, Accenture et Hewlett-Packard, toutes originaires des États-Unis.
+Les principaux sujets des mandats sont la création de logiciels sur mesure, la mise en place de progiciels et la modification des fichiers de configuration en fonction des besoins, des opérations de réglage, d'expertise et de surveillance du système informatique.
+En France la majorité des constructeurs de logiciels sont des SSII.
+SAP désigne par abus de langage un progiciel de gestion intégré pour les entreprises, construit par la société SAP AG (Walldorf, Allemagne).
+L'adaptation aux besoins des entreprises de ce logiciel riche et multi-fonctionnel est une activité courante des SSII.
+Métiers et activités  L'informaticien est d'une manière générale une personne qui travaille dans le secteur de l'informatique.
+Il existe dans ce secteur diverses activités qui sont orientées vers la création de logiciels ou la maintenance d'un système informatique – matériel et logiciels.
+Le secteur dépend également des activités des fabricants de semi-conducteurs et de pièces détachées, des assembleurs, ainsi que des fournisseurs de télécommunications et des services d'assistance.
+Maintenance d'un système informatique  La maintenance d'un système informatique consiste à la préparation d'ordinateurs tels que serveurs, ordinateurs personnels, ainsi que la pose d'imprimantes, de routeurs ou d'autres appareils.
+L'activité consiste également au dépannage des machines, à l'adaptation de leur configuration, l'installation de logiciels tels que systèmes d'exploitation, systèmes de gestion de base de données ou logiciels applicatifs, ainsi que divers travaux de prévention des pannes, des pertes ou des fuites d'informations telles que l'attribution de droits d'accès ou la création régulière de copies de sauvegarde (backup en anglais).
+Le directeur informatique décide des évolutions du système informatique dans les grandes lignes, conformément à la politique d'évolution de la société qui l'emploie.
+Il sert d'intermédiaire entre les fournisseurs et les clients (employés de l'entreprise), ainsi que la direction générale.
+Il propose des budgets, des évolutions, puis mandate des fournisseurs pour des travaux.
+L'ingénieur système travaille à la mise en place et l'entretien du système informatique : la pose de matériel informatique, l'installation de logiciels tels que systèmes d'exploitation, systèmes de gestion de base de données ou logiciels applicatifs, et le réglage des paramètres de configuration des logiciels.
+L'administrateur de bases de données est chargé de la disponibilité des informations contenues dans des bases de données et la bonne utilisation des systèmes de gestion de base de données – les logiciels qui mettent à disposition les informations et qui occupent une place stratégique dans de nombreuses entreprises.
+Il s'occupe des travaux de construction, d'organisation et de transformation des bases de données, ainsi que du réglage des paramètres de configuration du système de gestion de base de données et de l'attribution de droit d'accès sur le contenu des bases de données.
+Le responsable d'exploitation veille à la disponibilité constante du système informatique.
+Il effectue des tâches de sauvegarde régulière en vue de prévenir la perte irrémédiable d'informations, organise les travaux de transformation du système informatique en vue de limiter la durée des mises hors service et attribue des droits d'accès en vue de limiter les possibilités de manipulation du système informatique au strict nécessaire pour chaque usager – ceci en vue de prévenir des pertes ou des fuites d'information.
+Création de logiciels  Le développement de logiciels consiste à la création de nouveaux logiciels ainsi que la transformation et la correction de logiciels existants.
+En font partie la définition d'un cahier des charges pour le futur logiciel, l'écriture du logiciel dans un ou l'autre langage de programmation, le contrôle du logiciel créé, la planification et l'estimation du budget des travaux.
+Dans une équipe d'ingénieurs, le chef de projet est chargé d'estimer la durée des travaux, d'établir un planning, de distribuer les tâches entre les différents membres de l'équipe, puis de veiller à l'avancée des travaux, au respect du planning et du cahier des charges.
+Le chef de projet participe également à la mise en place du logiciel chez le client et récolte les avis des usagers.
+L'analyste-programmeur est chargé d'examiner le cahier des charges du futur logiciel, de déterminer la liste de toutes les tâches de programmation nécessaire pour mettre en œuvre le logiciel.
+Il est chargé de déterminer les automatismes les mieux appropriés en fonction du cahier des charges et des possibilités existantes sur le système informatique.
+L'analyste-programmeur est ensuite chargé d'effectuer les modifications nécessaires dans le logiciel, de rédiger ou de modifier le code source du logiciel et de vérifier son bon fonctionnement.
+L'architecte des systèmes d'informations est chargé de déterminer, d'organiser et de cartographier les grandes lignes de systèmes informatiques ou de logiciels.
+Il réalise des plans d'ensemble, détermine les composants (logiciel et matériel) principaux de l'ensemble, ainsi que les flux d'informations entre ces composants.
+Lors de la création de nouveaux logiciels il est chargé de découper le futur logiciel en composants, puis d'organiser et de cartographier le logiciel et les produits connexes.
+Sous-traitance, infogérance, intégration  Les entreprises et les institutions qui ont un système informatique de grande ampleur ont souvent une équipe d'informaticiens qui travaillent à la maintenance du système ainsi qu'à la création de logiciels pour le compte de l'entreprise.
+Cette équipe, dirigée par le directeur informatique peut faire appel à des éditeurs de logiciel ou des sociétés de services en ingénierie informatique (abréviation SSII) pour certains travaux.
+Par exemple, lorsque l'équipe interne est trop peu nombreuse ou ne possède pas les connaissances nécessaires.
+Les entreprises peuvent également faire appel à des consultants – des employés d'une société tierce – pour prêter main-forte ou conseiller leur équipe sur un sujet précis.
+L'infogérance consiste à déléguer toute la maintenance du système d'information à une société de services.
+Ces services sont parfois réalisés offshore : des équipes délocalisées (parfois situées dans un pays lointain) pilotent les ordinateurs à travers les réseaux informatiques (télémaintenance).
+L'intégration verticale consiste pour une société informatique à non seulement créer un logiciel, mais également travailler sur des opérations antérieures et postérieures au développement du logiciel en question, tels que le management du système d'information, l'aide à la décision de la direction des systèmes d'information, les opérations de migration ou les services d'assistance.
+En cloud computing, un site informatique - matériel, logiciel et raccordements réseau - appartenant à un fournisseur, est mis à disposition des consommateurs en self-service payé à l'usage.
+Selon le service offert, la responsabilité du système d'exploitation, des logiciels moteurs et des logiciels applicatifs incombe soit au fournisseur soit au consommateur.
+Informatique et développement durable   On applique souvent l'adjectif « virtuel » ou « immatériel » aux produits de l'informatique, ce qui pourrait laisser croire que l'informatique est peu consommatrice de ressources naturelles.
+Jean-Marc Jancovici montre que la dématérialisation, souvent présentée comme une solution pour le développement durable de l'économie, ne s'est pas accompagnée d'une diminution des flux physiques par rapport aux flux d'information.
+En pratique, dans les années 2010, les directions des systèmes d'information sont généralement tenues à l'écart des programmes de développement durable des entreprises.
+On se rend compte aujourd'hui, avec les premières études des experts en informatique verte (TIC durables), que l'informatique serait directement à l'origine de 5 % des émissions de gaz à effet de serre de la France.
+L'informatique générerait également une forte consommation d'électricité.
+Mais les impacts environnementaux sont surtout concentrés lors de la fabrication des équipements et leur fin de vie.
+Les principaux impacts sont l'épuisement des ressources naturelles non renouvelables et les pollutions (eau, air, sol) qui dégradent les écosystèmes.
+L'application des principes de développement durable à l'informatique donne naissance aux TIC durables.
+Elle englobe les trois piliers du développement durable (environnement, social, économique) et se caractérise par une double démarche (souvent menée en parallèle) :  le premier périmètre, désigné par le terme informatique éco-responsable (ou officiellement éco-TIC en France et Green IT 1.0 en anglo-américain) désigne l'ensemble des méthodes qui réduisent l'impact de l'informatique sur l'environnement par une démarche écoresponsable (écoconception, économies d'énergie, gestion des déchets).
+Elle s'applique principalement au matériel informatique, aux flux (kWh électriques, papier, etc.), ainsi qu'aux méthodes de développement logiciel qui diminuent leur empreinte ressource ; le deuxième périmètre, parfois désigné par écoinformatique (ou Green IT 2.0 en anglo-américain), désigne la réduction de l’empreinte écologique de la société grâce aux technologies de l'information et de la communication : c'est l'utilisation des TIC pour réorganiser et optimiser les processus métiers en fonction de leur empreinte écologique grâce à l'analyse du cycle de vie (ACV) ;À terme, le développement durable devrait faire évoluer les modèles employés en informatique.
+Il est, en effet, nécessaire d'expliciter la sémantique des données, documents ou modèles, ce qui relève de la branche de l'informatique appelée représentation des connaissances.
+Plusieurs projets en écoinformatique se déroulent dans le cadre d'initiatives telles que le web sémantique.
+Notes et références     Notes     Références     Annexes     Bibliographie  [Abelson et Jay Sussman 2001] (en) Harold Abelson et Gerald Jay Sussman, Structure and Interpretation of Computer Programs, MIT Press, 2001, 657 p. (ISBN 978-0-262-51087-5).
+[Campbell-Kelly 2003] Martin Campbell-Kelly, Une histoire de l'industrie du logiciel : des réservations aériennes à Sonic le Hérisson, Vuibert, 2003, 368 p. (ISBN 978-2-7117-4818-1).
+[Ceruzzi 2003] (en) Paul E. Ceruzzi, A History of Modern Computing, MIT Press, 2003, 445 p. (ISBN 978-0-262-53203-7, lire en ligne).
+[Fayon 1999] David Fayon, L'informatique, Vuibert, 1999 (ISBN 978-2-7117-6903-2).
+[Foray 1990] D. Foray, « Exploitation des externalités de réseau versus évolution des normes : les formes d’organisation face au dilemme de l’efficacité, dans le domaine des technologies de réseau », Revue d’économie Industrielle, vol.
+51, no 1,‎ 1990, p. 113-140 (DOI 10.3406/rei.1990.1307).
+[Kidder 1981] (en) Tracy Kidder, The Soul of a New Machine (en), Atlantic-Little, 1981 (ISBN 978-0-316-49197-6).
+[Knuth 1997] (en) Donald Knuth, The Art of Computer Programming : Fundamental algorithms, Addison Wesley, 1997, 634 p. (ISBN 978-0-201-48541-7).
+[Marguin 1994] Jean Marguin, Histoire des instruments et machines à calculer, trois siècles de mécanique pensante 1642-1942, Hermann, 1994, 206 p. (ISBN 978-2-7056-6166-3).
+[Mounier-Kuhn] Pierre Mounier-Kuhn, L'Informatique en France, de la seconde guerre mondiale au Plan Calcul : L'émergence d'une science, Paris, PUPS, 2010, 718 p. (ISBN 978-2-84050-654-6, lire en ligne).
+[Mourlevat 1988] Guy Mourlevat, Les Machines arithmétiques de Blaise Pascal, Clermont-Ferrand, La Française d'Édition et d'Imprimerie, 1988.
+[von Neumann 2000] (en) John von Neumann, The Computer and the Brain, Yale Nota Bene, 2000, 82 p. (ISBN 978-0-300-08473-3, lire en ligne).
+[Taton 1963] René Taton, Le calcul mécanique, Presses universitaires de France, coll.
+« Que sais-je ?
+», 1963.
+[Volle 2006] Michel Volle, De l'Informatique : savoir vivre avec l'automate, Economica, 2006, 614 p. (ISBN 978-2-7178-5219-6).
+Articles connexes     Liens externes    Portail de l’informatique   Portail des sciences   Portail d’Internet Un gâteau est une pâtisserie préparée à partir d'une pâte sucrée cuite au four, généralement dans un moule.
+Il peut être garni de crème, de fruits, de chocolat ou de glaçage.
+De plus, il se mange fréquemment à la fin du repas soit au dessert et au goûter.
+Le gâteau est généralement de forme ronde, carrée ou rectangulaire et plutôt plate.
+En Suisse romande, un gâteau est aussi appelé une  « tourte ».
+En Suisse romande également, le terme « gâteau » désigne usuellement toutes les formes de tartes, qu'elles soient sucrées ou salées (comme les quiches), et la définition ci-dessus y apparaît comme typiquement française.
+Afin de préserver l'intégrité et la pérennité des recettes, la Collective des Biscuits et Gâteaux de France a formalisé des codes d'usages à destination de la profession.
+Exemples de types de gâteaux   Gâteau Chanteclair Gâteau au chocolat Gâteau au yaourt Gâteau basque Gâteau de Battenberg Gâteau battu Gâteau au fromage Brownie aux noix Cake Biscuit de Savoie Cannelé Génoise Madeleine Pain d'épices    Voir aussi   Gâteau d'anniversaire Idiotisme gastronomique Nougat Biscuit Liste des spécialités régionales françaises de pâtisserie et de dessert Pâte (cuisine)    Notes et références    Portail du dessert La notion d’ancien français regroupe l'ensemble des langues romanes de la famille des langues d'oïl parlées approximativement dans la moitié nord du territoire français actuel, depuis le VIIIe siècle jusqu'au XIVe siècle environ.
+Origines et descendance   L'ancien français provient du roman, un ensemble de dialectes du latin vulgaire présents dans toute la Romania.
+Ce latin vulgaire a généralement emprunté aux langues celtiques, qui constituent alors des substrats.
+Se sont ainsi formées ce qui deviendra au cours des siècles les langues romanes suite à de nouveaux emprunts, notamment germaniques au nord et arabes au sud, qui constituent des superstrats.
+Pour devenir ce qui constitue la langue actuelle, le français a, en particulier, été influencé par plusieurs anciennes variétés d'oïl.
+Il est suivi, historiquement, par le moyen français.
+Ces distinctions temporelles de l'état de la langue ont cependant été définies de façon relativement arbitraire et récente par les linguistes.
+Du point de vue des locuteurs, l'évolution était peu ou pas ressentie, car le latin a évolué en roman puis français de façon continue et progressive, sans qu'une coupure soit perçue entre les différents stades de cette évolution,.
+L'ancien français est l'ancêtre du français parlé aujourd'hui, mais également, et plus généralement de l’ensemble des langues d’oïl (gallo, lorrain, normand, picard, wallon, etc.).
+La généralisation du français en France est cependant très tardive.
+Par exemple, on estime qu'à la veille de la Révolution française, les trois quarts de la population française avaient un parler dialectal ou parlaient une autre langue.
+Importance de l'ancien français dans l'histoire linguistique  Langue de culture et de littérature, l'ancien français est très bien attesté et l'on peut constituer son histoire avec une grande précision (tant lexicalement, morphologiquement, phonétiquement que syntaxiquement).
+La série d'évolutions phonétiques ayant conduit de cette langue ancienne à la langue contemporaine est connue avec suffisamment de détails pour qu'une chaîne phonétique partant du latin et arrivant au français puisse être fournie siècle par siècle.
+L'étude du français et de son histoire ne peut se passer de la connaissance de l'ancien français.
+Du reste, cette matière (ainsi que son aspect phonétique historique) est obligatoire au Certificat d'aptitude au professorat de l'enseignement du second degré (CAPES) et aux agrégations de lettres modernes, de lettres classiques et de grammaire, concours que l’on passe en France pour enseigner la langue et la littérature française.
+Évolutions et état de la langue     Phonologie   Les caractéristiques phonologiques des mots sont représentées suivant le système de Bourciez, ou alphabet des romanistes, couramment utilisé dans les descriptions phonologiques de l'évolution du français.
+Système vocalique   Le latin classique utilisait dix phonèmes vocaliques différents, distribués en cinq voyelles brèves (notées ă, ĕ, ĭ, ŏ et ŭ) et leurs cinq équivalents longs (ā, ē, ī, ō et ū [aː eː iː oː uː]).
+En effet, en latin, la longueur du son est phonologique, c'est-à-dire pertinente : deux mots peuvent ainsi avoir comme seule différence la longueur d'une de leurs voyelles, vĕnit [ˡwenit] « il vient » est différent de vēnit [ˡweːnit] « il vint » ; pŏpulum [ˡpopulum] « peuple » est différent de pōpulum [ˡpoːpulum] « peuplier ».
+L'un des changements majeurs intervenus dans l'évolution du latin vers le français est la disparition progressive des oppositions de longueur au profit de distinctions de timbre.
+L'accent de hauteur a progressivement laissé place à un accent tonique, qui a eu pour effet de modifier légèrement l'aperture des voyelles.
+La prononciation des voyelles brèves est légèrement plus ouverte que celle des voyelles longues.
+En conséquence, le timbre des voyelles est modifié et l'opposition de timbre entre deux voyelles devient le critère de différenciation.
+Ce bouleversement vocalique est survenu au cours des IIe, IIIe et IVe siècles, dans la phase primitive de l'évolution du français, encore très proche du latin vulgaire.
+La plupart des évolutions sont dès lors communes à plusieurs langues romanes.
+Le bouleversement vocalique se présente comme suit :  ē devient ẹ ([e] comme en nez, dé) au IIe siècle ; ĕ devient ę ([ɛ] comme en mer, cèpe) quand il est accentué (voyelle tonique), sinon (voyelle atone) il devient ẹ (IIe siècle) ; ĭ devient ẹ au IIIe siècle ; ī reste i, sans distinction de longueur ; ă et ā perdent leur opposition de longueur, de sorte que, d'un point de vue phonologique, l'ancien français ne connaît que a ; ō devient ọ ([o] comme en eau) au IIe siècle ; ŏ devient ǫ ([ɔ] comme en corps) quand il est accentué, sinon il devient ọ (IIe siècle) ; ū perd sa caractéristique de longueur, reste u (fou, sourd) ; ŭ devient ọ au IVe siècle.Les trois diphtongues latines présentes dans le latin vulgaire (ae, au et oe) évolueront respectivement vers ę (Ier siècle), ǫ (IIe siècle) et ę (fin du Ve siècle).
+Vers une langue oxytonique  En latin, la plupart des mots ont un accent tonique, seuls certains mots grammaticaux n'en ont pas.
+Cet accent se place généralement sur l'avant-dernière syllabe du mot, un mot accentué ainsi est dit paroxyton.
+S'il s'agit d'un monosyllabe, l'accent est sur la seule syllabe du mot, c'est un oxyton.
+Enfin, s'il s'agit d'un mot polysyllabique dont l'avant-dernière syllabe est brève l'accent est placé sur l'antépénultième syllabe, c'est un proparoxyton.
+Syncope latine  À partir du Ier siècle, donc déjà en latin vulgaire, on remarque un amuïssement progressif des voyelles post-toniques des proparoxytons (syncopes) : cálĭdus devient cáldus, ámbŭlat devient ámblat, génĭta devient génte.
+Selon Gaston Zink :  « L'ancienneté du phénomène explique que toutes les langues romanes en aient été marquées (it., esp., caldo, lardo, sordo…).
+Toutefois, c'est le gallo-romain du Nord qui a connu les effacements les plus systématiques (et donc l'intensité accentuelle maximale).
+Mis à part quelques mots savants […], aucune voyelle pénultième ne s'est maintenue, pas même a qui demeure pourtant dans les autres positions atones : cál(ă)mum > chaume, cól(ă)pum > coup.
+Il en résulte qu'au Ve siècle, l'accentuation proparoxytonique est pratiquement éliminée en Gaule, alors que l'italien et l'espagnol la connaissent encore aujourd'hui.
+»  — Gaston Zink    Amuïssement des prétoniques internes  Les voyelles prétoniques internes, à l'exception de a, disparaissent avant le IVe siècle quand elles ne sont pas entravées : bonĭtátem deviendra bonté, computáre deviendra compter.
+Si elle est entravée par une consonne, la voyelle évoluera vers /e̥/, comme dans appelláre, qui donnera l'ancien français apeler.
+Quand la prétonique interne est un a, soit, si elle est entravée, elle persiste, soit, si elle est libre, elle devient /e̥/ vers le VIIe siècle.
+Écriture des voyelles finales  L'ancien français reste une langue similaire au français moderne, à l'exception de quelques différences en écriture.
+Par exemple, dans les poésies, en français moderne, il n’est pas possible de changer la syllabe finale pour faire rimer la phrase, alors que c'est le cas en ancien français.
+Ainsi, en l'absence de règles d'orthographe, « festoyer » (« fêter ») aurait pu être écrit « festoyer » ou « festoyé ».
+Les règles d'orthographe ont été précisément fixées par les grammairiens au XVIIe siècle.
+Morphologie   Sur le plan morphologique, l'ancien français est encore une langue flexionnelle, mais il présente déjà une grande réduction des flexions par rapport au latin.
+Le système du nom connaît déjà les deux genres (masculin / féminin) et les deux nombres (singulier / pluriel) du français moderne, mais conserve également une déclinaison à deux cas :  le cas sujet, hérité du nominatif latin, marque les fonctions syntaxiques de sujet, d'apostrophe et d'attribut du sujet ; le cas régime, hérité de l'accusatif latin, marque toutes les autres fonctions.Quelques exemples :  En distinguant formellement sujet et complément, la déclinaison bicasuelle permettait d'employer sans ambiguïté des ordres de mots devenus impossibles plus tard : la beste fiert li cuens, si fiert li cuens la beste et li cuens fiert la beste signifient tous sans équivoque « le comte frappe la bête », li cuens étant marqué explicitement comme sujet.
+Le cas sujet remplit ici la fonction de sujet, mais il peut aussi remplir celle d'apostrophe ou d'apposition au sujet.
+Même si cette déclinaison bicasuelle est vivante dans la littérature, on relève de temps à autre des « fautes » dans les textes.
+La désagrégation du système est probablement due à la forme phonétique des désinences qui prêtaient à confusion, à son caractère incomplet ainsi qu'à l'amuïssement progressif des consonnes finales en français.
+Cette désagrégation n'a cependant pas été uniforme.
+Dans un large mouvement de l'ouest vers l'est, ce système a été aboli d'abord dans les dialectes de l'Ouest, ensuite dans le Centre avec la région parisienne pour rester vivant dans les dialectes de l'Est jusqu'au XVe siècle.
+Le lexique français actuel hérité de l'ancien français provient généralement du cas régime, le plus fréquent dans le discours.
+Dans quelques cas cependant, c'est le cas sujet qui s'est conservé.
+Tel est le cas de fils, sœur, prêtre, ancêtre, et de nombreux prénoms.
+Quelquefois, le cas sujet et le cas régime se sont tous deux maintenus dans la langue moderne, parfois avec des sens différents.
+C'est le cas pour gars / garçon, copain / compagnon, sire / seigneur, pâtre / pasteur, nonne / nonnain et pute / putain.
+Variations dialectales et langue littéraire  L'ancien français est « une branche » du latin, langue qui en a fait naître plusieurs autres, par exemple l'italien moderne ou l'espagnol moderne.
+Il existe ainsi plusieurs mots semblables, par exemple : aimer s'écrit amare en latin comme en italien moderne.
+La variation d'orthographe suivant les régions fait que si deux textes de différentes régions étaient comparés, par exemple de l'extrême ouest à l'extrême est de la France, une grande différence d'orthographe mais aussi une plus difficile prononciation (cela dépend parfois des personnes) existerait.
+Au fil du temps, l'ancien français s'est développé au point de devenir le français moderne.
+Il n'y avait pas de langue littéraire définie, on écrivait comme on entendait.
+Écriture  Il serait exagéré de dire qu'il n'y a pas d'« orthographe » en ancien français.
+Chaque mot n'a pas une graphie fixe et, de région en région, de scribe en scribe, voire de ligne en ligne, un même mot s'écrit de façons multiples.
+Cependant, les graphies médiévales ne sont pas dues au hasard.
+Les scribes ont utilisé un principe en apparence simple, celui de noter tout ce qu'ils entendaient le plus directement possible au moyen de l'alphabet latin, assez inadapté car trop peu riche en graphèmes.
+En effet, en passant du latin vulgaire à l'ancien français, de nombreux phonèmes ont évolué, donnant naissance à de nouveaux sons pour lesquels aucune lettre n'était prévue.
+Écriture et orthographe  Note : les transcriptions phonétiques sont en alphabet phonétique international.
+Il n'existait que peu de diacritiques réels, la plupart servant de signes d'abréviation, les diacritiques utilisés en français datant du XVIe siècle.
+L'élision n'était pas signalée par l'apostrophe qui apparaît, elle aussi, au XVIe siècle.
+L'écriture, bien que bicamérale, ne s'est pas servie avant le XIVe siècle de l'opposition entre majuscules et minuscules.
+Ce n'est que par la suite que l'habitude est prise de signaler par la majuscule le début de certains mots sentis importants.
+La ponctuation ne commence à ressembler à la nôtre qu'à partir des XIIe et XIIIe siècles.
+Les usages sont cependant très différents.
+Les groupes de souffle et de sens, mais pas forcément dans le respect de la syntaxe, apparaissent ainsi que l'utilisation du point pour encadrer des lettres utilisées comme chiffres.
+De plus, les manuscrits médiévaux sont écrits avec deux ou trois familles de caractères de l'alphabet latin, au sein desquelles se distinguent d'innombrables variantes.
+Ces caractères, l'onciale, la minuscule caroline puis la gothique, sont de moins en moins lisibles par rapport au modèle latin, d'autant plus que les abréviations, les ligatures et les variantes contextuelles abondent.
+Ces « alphabets » ne distinguent pas i de j, qui n'ont pas de point en chef, ni u de v dites « lettres ramistes ».
+Cette distinction date du XVIe siècle et a mis deux siècles à se stabiliser grâce, notamment, aux éditeurs hollandais.
+Le i n'a pas de point mais reçoit souvent un apex pour mieux être distingué.
+D'autres procédés sont notables, telle l'utilisation d'un l vestige devenu u par vocalisation mais présent dans l'étymon latin pour éviter que l'on confonde u et n, très proches en gothique.
+Autre lettre muette depuis le XIe siècle mais conservée dans l'écriture et remplacée plus tard dans quelques cas par un accent circonflexe, le s, devant une consonne, est tracé alors comme un s long.
+Ce n'est qu'au début du XVe siècle que les Humanistes, à la recherche de modèles plus lisibles et aérés que la gothique, parfois très ésotérique au profane, sont revenus à des graphies plus proches de l'écriture courante avec la minuscule humaniste, l'italique… L'imprimerie marquera la fin progressive des graphies calligraphiques au profit de modèles de plus en plus lisibles qui, finalement, donnent ceux qu'on peut lire sur un écran d'ordinateur.
+Les éditeurs modernes, cependant, normalisent le plus souvent les textes pour faciliter la lecture.
+La graphie utilisée est celle de polices telles que Times New Roman (serif), Arial (linéale)… L'utilisation d'accent aigu s'impose pour distinguer les « e » caducs atones du /e/ tonique finals tout comme le tréma, l'apostrophe, la cédille, la ponctuation et les majuscules comme en français actuel.
+Usages  Bien que les graphies puissent être très fluctuantes surtout en raison du grand nombre de moyens trouvés pour contourner les limites de l'alphabet latin, il existe des usages orthographiques en ancien français, qui font le plus souvent intervenir des digrammes.
+C'est la volonté de respecter les usages latins ainsi que l'origine étymologique des mots qui expliquent certaines difficultés.
+Le plus souvent, elles naissent du fait qu'une même lettre latine, qui notait alors un seul phonème, en est venue à en noter plusieurs.
+C'est le cas de la notation non ambiguë de [k] devant [a], [o], [u] avec la lettre /c/ et inversement celle de [s] devant [ə], [e], [i], [y] avec la même lettre latine ou encore l'utilisation de /g/, qui peut valoir [ʒ] ou [g], selon les voyelles.
+Surtout, il n'existe pas de lettres pour noter de nouveaux sons apparus en ancien français.
+Il suffit de mentionner l'inexistence en latin des phonèmes [ʃ], [œ] et, des différents timbres de /e/ (tonique – ouvert ou fermé – ou atone) ou de /o/ (ouvert ou fermé) et de la nasalisation.
+Parmi les usages retenus et fréquents, on trouve :  pour [t͡ʃ] (devenu [s] au XIIIe siècle) issu de /c/ devant [a], [o], [u] : digrammes /ce/ ou /cz/ (le /z/, souscrit, deviendra la cédille en Espagne, où l'on connaît des problèmes similaires avec cette lettre), parfois rien : lacea, lacza (pour laça).
+pour [d͡ʒ] (devenu [ʒ] au XIIIe siècle) issu de /g/ devant [ə], [e], [i], [y] : utilisation de /i/ ou de /ge/ ; pour [t͡ʃ] (devenu [ʃ] au XIIIe siècle), digramme /ch/, à l'imitation du latin qui s'était servi de la lettre muette /h/ pour créer des digrammes permettant de noter des sons étrangers (grecs, principalement) comme /ch/ pour [kʰ] ou /ph/ [pʰ] (devenu [f] dans les mots d'emprunts à l'imitation de la prononciation grecque médiévale) ; autres digrammes pour les sons [œ] et [ø] : /ue/, /eu/, par exemple ; utilisation de /z/ comme lettre muette pour indiquer un [e] tonique en fin de mot (digramme /ez/) dans certaines formes (asez pour assez) ; /z/ sert dans les autres cas pour l'affriquée [ts] (neveuz pour neveux) ; notation de la nasalisation de manière plus ou moins explicite : gémination de la consonne nasale ou emploi du tilde, qui s'est maintenu longtemps (on le trouve encore entre les XVIe et XVIIIe siècles) ; maintien des occlusives finales, normalement muettes pour la plupart depuis le XIIIe siècle, pour rendre visible certaines alternances et le lien avec des dérivés ; le l palatal (devenu un yod) est représenté de diverses manières dont -(i)ll ou -il (fille) et le n palatal par -(i)gn (ainsi, Montaigne n'est qu'une forme parallèle de montagne mais l'orthographe a fortement influencé la prononciation, de même que dans oignon, qu'on entend souvent prononcé /waɲõ/[réf.
+nécessaire]).Si l'ancien français s'écrit presque comme il se prononce, les graphies deviennent très vite archaïsantes.
+Par exemple, doté de nombreuses diphtongues, il les représente directement : /eu/ se lit donc [ew] et /oi/ [oj].
+Mais les graphies restent figées alors que la prononciation continue d'évoluer : /eu/ vaut [ew] au XIe siècle mais [œu] au XIIe siècle et [œ] à partir du XIIIe siècle sans que la graphie ne change réellement.
+De même pour /oi/ : au XIIe siècle [oj] puis [ue], au XIIIe siècle [we] pour arriver à [wa] au XVIIIe siècle.
+Cela explique pourquoi [o] peut s'écrire /eau/ en français.
+La prononciation avec une triphtongue [eaw] au XIIe siècle devient, au cours des siècles, [əaw] puis [əo] et enfin [o] à partir du XVIe siècle.
+Les occlusives et sifflantes appuyantes ainsi que les consonnes finales continuent d'être écrites après s'être amuïes.
+Le /s/ dans isle après 1066 ne se prononce plus non plus que le /t/ à la fin de grant à partir du XIIe siècle.
+Cependant, l'écriture reste pendant des siècles par tradition, choix esthétique et par habitude.
+Le /t/ de grant (« grand » et « grande ») s'entend encore au cas sujet grants.
+Le conserver au cas régime grant permet d'obtenir un paradigme plus régulier.
+Le /s/ muet sera plus tard, à la fin du XVIIIe siècle, remplacé par un accent circonflexe, le /t/ muet par un /d/ muet dans grand pour confirmer cette fois le lien avec le nouveau féminin grande tout en rappelant l'étymon latin grandis.
+Enfin, les éditeurs conservent l'emploi d'une abréviation très courante, celle de la finale -us remplacée après voyelle par -x.
+Par exemple biax équivaut à biaus, c'est-à-dire le cas sujet de l'adjectif bel (beau).
+En conclusion, il convient de comprendre que l'ancien français possède une orthographe quasi-phonétique pratiquée avec un alphabet qui ne s'y prête pas forcément.
+Cela explique l'abondance de graphies parallèles et l'emploi de diverses solutions plus ou moins efficaces, tels les digrammes.
+Mais, surtout, dès que les prémices de l'orthographe, au sens actuel, font leur apparition l'écriture est en retard sur la prononciation tout en permettant, par l'adoption de conventions, une meilleure reconnaissance des constituants des mots.
+Synthèse  Il faut tenir compte des conventions de lecture suivantes en partant du principe que la graphie est normalisée par un éditeur moderne du fait de l'utilisation des lettres ramistes, du tréma, de l'accent aigu, etc.
+Pour le reste les conventions propres au français sont à appliquer.
+Il est entendu que c'est une approximation donnée à titre indicatif pour une lecture acceptable bien qu'imparfaite :  c se lit /t͡s/ avant le XIIIe siècle puis /s/ après devant e, i ; ch se lit /t͡ʃ/ avant le XIIIe siècle puis /ʃ/ après ; g devant e et i et j devant toute voyelle se lisent /d͡ʒ/ puis /ʒ/ (mêmes dates) ; (i)ll se lit /ʎ/ (comme l'italien gli) et non /j/ (de yaourt) ; e non accentué se lit /ə/ (schwa) et n'est pas labialisé, au contraire du « e » caduc actuel (le /ə/ ancien français se lit donc comme en anglais).
+En fin de mot et atone, il est muet depuis le XVIIe siècle ; u se lit comme en français moderne /y/ (dans lu) ; la lecture des diphtongues graphiques est complexe car les diphtongues prononcées ont évolué beaucoup plus vite que la graphie.
+On pourra retenir comme règle de lecture acceptable que les diphtongues se sont monophtonguées après le XIIe siècle (passant soit à une combinaison semi-consonne + voyelle soit à une voyelle seule.
+Retenir aussi que oi se lit /we/ ou /wɛ/ et ue comme eu /œ/ ou /ø/ ; les voyelles nasales, écrites dans les éditions modernes à la manière du français actuel (sans tilde) sont prononcées comme dans le sud de la France : la voyelle nasale est suivie d'une consonne nasale.
+En ancien français même devant un -e final, une voyelle suivie d'une consonne nasale est nasalisée (dans ce cas, la nasale est redoublée).
+Par exemple : cheance (chance) /t͡ʃəãnsə/, bonne /bõnə/, chambre /t͡ʃãmbrə/, flamme /flãmə/.
+La prononciation des voyelles nasales n'a cessé de se modifier.
+Il serait fastidieux de toutes les signaler.
+On pourra prononcer comme en français moderne bien que les nasales de l'ancien français soient en nombre supérieur et de qualité parfois différente.
+r est roulé ; s se prononce comme de nos jours, /s/ ou /z/ (entre voyelles) ; z est un raccourci pour ts ; x une abréviation pour -us.
+Littérature   Dès le début du XIIe siècle s'épanouit la littérature courtoise dont les poèmes lyriques nommés lais sont chantés par les jongleurs.
+La plupart des lais sont anonymes, cependant le nom de Marie de France est associé à un ensemble de lais composés entre 1160 et 1178.
+La chanson de geste est particulièrement présente au XIIe siècle.
+Elle emploie la technique littéraire de l'épopée.
+Si La Chanson de Roland et La Chanson de Guillaume datent de la fin du XIe siècle ou du début du XIIe siècle, les premières œuvres de Chrétien de Troyes sont écrites vers 1160 et ses œuvres principales telles Lancelot ou le Chevalier de la charrette ou Yvain ou le Chevalier au lion sont composées vers 1180.
+Le grand mythe de la littérature courtoise est Tristan et Iseut.
+Béroul est l'auteur d'une version de 4 000 vers de huit pieds composés vers 1180.
+Plus tard, aux alentours de 1230, une version en prose rassemble en un seul roman les multiples épisodes de la légende.
+Écrit entre 1174 et 1250, le Roman de Renart est une collation de poèmes indépendants en octosyllabes appelés branches, composés par des clercs cultivés.
+Ces contes, en multipliant les anecdotes, forment une vaste parodie des chansons de geste et de l'amour courtois ainsi que de la société féodale, de la justice et de la religion.
+Le Roman de Renart est source de comique aux dépens des puissants.
+Dans cette tradition s'épanouissent aussi les fabliaux destinés à être lus en public et dont le registre plus vulgaire manie des personnages de bourgeois, de paysans, de membres du bas clergé mais aussi de mauvais garçons et de marginaux sortis tout droit des tavernes.
+Le plus souvent, l'histoire tourne autour du thème de l'adultère : la morale chevaleresque et courtoise semble ainsi définitivement subvertie.
+Une littérature historique rédigée en français prend naissance au XIIIe siècle, en particulier au travers de l'histoire des croisades.
+Geoffroy de Villehardouin rédige La conquête de Constantinople entre 1207 et 1213.
+Jean de Joinville, à la fin du XIIIe siècle se consacre pendant plus de trente ans à la rédaction du Livre des saintes paroles et bons faits de notre saint roi Louis où Louis IX y devient un mythe, une incarnation de toutes les valeurs éthiques et religieuses de la chevalerie aux dépens, cependant, de la vérité historique.
+C'est avec Rutebeuf, durant la seconde moitié du XIIIe siècle, que prend fin, de manière définitive, la tradition courtoise des trouvères.
+La poésie se sépare des perpétuels thèmes amoureux et de l'idéal courtois, pour se faire l'écho du monde réel et de ses drames.
+À la suite de Rutebeuf, Villon au XVe siècle, est un homme profondément imprégné de la culture médiévale et, dans le même temps, insurgé contre elle.
+Poète révolté, Villon l'est d'abord par ses thèmes.
+Il se démarque de la tradition courtoise et s'en prend au mythe de l'amour idéal, en le remplaçant par la paillardise, parfois obscène, ou par le sarcasme.
+La contestation du beau language aboutit à une langue poétique détournée avec des recours à divers argots, jeux de mots, déformation de noms propres ou encore amalgames inattendus.
+Notes et références     Notes     Références     Voir aussi     Bibliographie  Agnès Baril, Manuel d'initiation à l'ancien français, Ellipses, 2017.
+Sylvie Bazin-Tacchella, Initiation à l'ancien français, Paris, Hachette, 2001 ; Joachim Du Bellay, La Défense, et illustration de la langue française, Paris, Arnoul L'Angelier, 1549 ; Henri Bonnard et Claude Régnier, Petite grammaire de l'ancien français, éditions Magnard, Paris, 1991 ; Claude Buridant, Grammaire nouvelle de l'ancien français (800 pp), SEDES, 2000  (ISBN 2-7181-9265-8) ; Bernard Cerquiglini, La genèse de l'orthographe française (XIIe-XVIIe siècles), Paris, Honoré Champion, collection « Unichamp-Essentiel », 2004 ; Frédéric Duval, Le Français médiéval, Turnhout, Brepols, 2009 ; Algirdas Julien Greimas, Dictionnaire de l'ancien français, Paris, Larousse, 2004 (1979) ; Mireille Huchon, Histoire de la langue française, Livre de poche, collection « Références », Paris, 2002 ; Guy Raynaud de Lage et Geneviève Hasenohr, Introduction à l'ancien français, 2e éd.
+revue et corrigée, SEDES, 1993.
+R. Anthony Lodge, Le français, histoire d'un dialecte devenu langue, Paris, Fayard, 1997 ; Michèle Perret, Introduction à l'histoire de la langue française, Paris, Armand Colin, 1998 ; Thierry Revol, Introduction à l'ancien français, Paris, Nathan, 2000.
+Edouard Schwan et Dietrich Behrens (trad.
+Oscar Bloch), Grammaire de l'ancien français, Leipzig, O. R. Reisland, 1913, In-8° (notice BnF no FRBNF31786983)Morphologie – syntaxeFrançois de la Chaussée, Initiation à la morphologie historique de l'ancien français, 3e éd., Paris, Klincksieck, 1989 (1re éd., 1977) ; Geneviève Joly, Précis d'ancien français : Morphologie et syntaxe, 2e éd., Paris, Armand Colin, 2009 ; Philippe Ménard, Syntaxe de l'ancien français, Editions Bière, 2000 ; Povl Skårup, Morphologie synchronique de l'ancien français, Copenhague, Stougaard Jensen, 1994 ; Gaston Zink, Morphologie du français médiéval, Paris, PUF, 2001 ;Phonétique historiqueNoëlle Laborderie, Précis de phonétique historique, 2e éd., Paris, Armand Colin, 2015 (1e éd., Nathan Université, collection « Lettres 128 », 1994) ; Gaston Zink, Phonétique historique du français, Paris, PUF, coll.
+« Linguistique nouvelle », 1999, 6e éd., 254 p. : graph.
+; 22 cm (ISBN 2-13-046471-8, ISSN 0292-4226, notice BnF no FRBNF37088270)    Articles connexes  Linguistique liste de langues langues par famille langues indo-européennes Langues romanes Langues gallo-romanes Langues d'oïl    Sur la culture au Moyen Âge  Moyen Âge Éducation au Moyen Âge Arts libéraux    Sur les langues romanes  Langue romane Roman (langue)    Sur la langue française  Histoire de la langue française Orthographe française Loi de Bartsch    Sur les actes officiels sur l'utilisation de l'ancien ou du moyen français  Concile de Tours en 813 Ordonnance de Villers-Cotterêts (1539)    Sur les premiers textes en ancien français conservés  Serments de Strasbourg Séquence de sainte Eulalie La Vie de saint Léger Vie de saint Alexis Langue morte    Liens externes   Dictionnaire, Complément, et Lexique d'ancien français de Godefroy Dictionnaire d'ancien français de Van Daele Tableaux de conjugaison de l'ancien français Dictionnaire ancien français-français/français-ancien français Freelang Chantez-vous français ?
+- La prononciation du français dans la déclamation et le chant, du Moyen Âge au XVIIIe siècle DÉCT- Dictionnaire Électronique de Chrétien de Troyes) : lexique complet et transcription des cinq romans de cet auteur d'ancien français, Université d'Ottawa - CNRS.
+Dictionnaire étymologique de l'ancien français - DEAF (Heidelberg)[1] Base de français médiéval - BFM (Lyon) : base de données composée de 153 textes français écrits entre le IXe et la fin du XVe siècle (4 millions de mots).
+Dictionnaire du Moyen Français (1330-1500), ATILF (CNRS - Université de Lorraine).
+Lexique de Jean Froissart, Chroniques, par Jacqueline Picoche : ATILF (CNRS - Université de Lorraine).
+Langue française et francophonie   Portail du royaume de France   Portail du Moyen Âge
