@@ -40,6 +40,17 @@ TODO
 # Colab
 
 ```
+from google.colab import drive
+drive.mount('/content/drive')
+!wget https://github.com/alahnala/AI4All2020-Michigan-NLP/archive/master.zip -P /content/drive/My\ Drive -O repo.zip
+import os
+os.chdir('/content/drive/My Drive')
+print('Done')
+!unzip repo.zip
+!mv AI4All2020-Michigan-NLP-master AI4All2020-Michigan-NLP
+```
+
+```
 import sys
 IN_COLAB = 'google.colab' in sys.modules
 if IN_COLAB:
