@@ -37,3 +37,14 @@ TODO
 TODO
 
 
+# Colab
+
+```
+import sys
+IN_COLAB = 'google.colab' in sys.modules
+if IN_COLAB:
+    from google.colab import drive
+    drive.mount('/content/drive')
+    %cd '/content/drive/My Drive/AI4All2020-Michigan-NLP
+```
+
