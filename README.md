@@ -9,8 +9,8 @@
 
 ## NLP Basics
 
-1. The file for this notebook is [1-Intro-to-NLP.ipynb](https://github.com/alahnala/AI4All2020-Michigan-NLP/blob/master/1-Intro-to-NLP.ipynb). The notebook will guide you through each step of the project. 
-2. We are happy to help you get through *any* part of this project. Ask away :) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alahnala/AI4All2020-Michigan-NLP/blob/master/1-Intro-to-NLP.ipynb]
+
 
 ## Topic Modeling
 
