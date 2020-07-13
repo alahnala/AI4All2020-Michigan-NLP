@@ -8,8 +8,8 @@
 6. [Pun Generation](#pun-generation)
 
 ## NLP Basics
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alahnala/AI4All2020-Michigan-NLP/blob/master/1-Intro-to-NLP.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alahnala/AI4All2020-Michigan-NLP/blob/master/1-Intro-to-NLP.ipynb]
 
 
 ## Topic Modeling
