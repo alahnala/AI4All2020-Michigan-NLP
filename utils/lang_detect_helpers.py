@@ -17,7 +17,7 @@ from collections import defaultdict
 # languages = ['English', 'German', 'Dutch']
 languages = ['Dutch', 'German', 'English', 'Portuguese', 'French', 'Spanish']
 
-unigram_dicts = {l:{} for l in languages}
+unigram_dictionaries = {l:{} for l in languages}
 bigram_dicts = {l:{} for l in languages}
 
 
