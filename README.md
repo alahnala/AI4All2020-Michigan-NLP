@@ -1,6 +1,6 @@
 # AI4All2020-Michigan-NLP
 
-## Project Program
+## Main Project Program
 1. [Natural Language Processing Basics](#nlp-basics)
 2. [Topic Modeling](#topic-modeling)
 3. [Language Identification](#language-identification)
@@ -10,8 +10,6 @@
 
 ### NLP Basics 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alahnala/AI4All2020-Michigan-NLP/blob/master/1-Intro-to-NLP.ipynb)
-
-
 
 ### Topic Modeling 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alahnala/AI4All2020-Michigan-NLP/blob/master/2-Topic-Modeling.ipynb)
@@ -28,3 +26,7 @@
 ### Pun Generation
 *Coming Soon*
 
+## Extras
+
+### Chatbot Starter Code 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alahnala/AI4All2020-Michigan-NLP/blob/master/Chatbot-Starter.ipynb)
