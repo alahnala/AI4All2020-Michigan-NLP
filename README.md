@@ -34,6 +34,8 @@
 ### Sensitive Chatbot
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alahnala/AI4All2020-Michigan-NLP/blob/master/8-Sensitive-Bot.ipynb)
 
+### Neural Translation
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/meera9397/LanguageTranslation/blob/master/Language_Translation.ipynb)
 
 ### Probabilistic Word Translation
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alahnala/AI4All2020-Michigan-NLP/blob/master/9-Probabilistic-Word-Translation.ipynb)
